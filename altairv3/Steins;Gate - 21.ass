@@ -17,9 +17,9 @@ Video File: //192.168.1.99/mnt/12tb/media/_downloads/temp/[AOmundson] Steins;Gat
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 378
-Active Line: 389
-Video Position: 2731
+Scroll Position: 612
+Active Line: 615
+Video Position: 16429
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -651,7 +651,6 @@ Dialogue: 0,0:10:54.38,0:10:56.97,Default,,0,0,0,,I'll start the cracking now.
 Dialogue: 0,0:10:57.97,0:10:58.97,Default,,0,0,0,,Okabe?
 Dialogue: 0,0:11:02.18,0:11:03.77,Default,,0,0,0,,Okabe?
 Dialogue: 0,0:11:24.79,0:11:27.29,Default,,0,0,0,,How long are you going to lie there?
-Dialogue: 0,0:11:25.21,0:11:27.21,op trans,,0,0,0,,
 Dialogue: 0,0:11:29.88,0:11:32.46,Default,,0,0,0,,I thought I told you to leave me alone.
 Dialogue: 0,0:11:32.46,0:11:33.59,Default,,0,0,0,,You did,
 Dialogue: 0,0:11:33.59,0:11:35.67,Default,,0,0,0,,but you've been on the roof for hours
