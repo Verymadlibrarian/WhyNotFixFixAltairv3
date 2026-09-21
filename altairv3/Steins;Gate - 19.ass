@@ -19,8 +19,8 @@ Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.375000
 Scroll Position: 690
-Active Line: 705
-Video Position: 27794
+Active Line: 707
+Video Position: 27793
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -748,8 +748,8 @@ Dialogue: 0,0:18:59.37,0:19:02.45,Default,,0,0,0,,They gave me a place.
 Dialogue: 0,0:19:02.45,0:19:03.50,Default,,0,0,0,,A place?
 Dialogue: 0,0:19:11.30,0:19:13.72,Default,,0,0,0,,You're... a fool.
 Dialogue: 0,0:19:17.64,0:19:18.64,Sign1,,0,0,0,,{\fs180\blur3\pos(837,669)\frz342.834}The retro-PC is
-Dialogue: 0,0:19:18.64,0:19:19.22,Sign1,,0,0,0,,{\fs135\blur3\c&HBFBBB9&\pos(1524,624)\frx16\fry8\frz30\fax.2}in Yanabayashi Shrine.
-Dialogue: 0,0:19:19.22,0:19:20.64,Sign1,,0,0,0,,{\fs135\blur3\pos(1077,375)\frx12\fry358\frz354.18}Recover it immediately.
+Dialogue: 0,0:19:18.64,0:19:19.18,Sign1,,0,0,0,,{\fs135\blur3\c&HBFBBB9&\pos(1524,624)\frx16\fry8\frz30\fax.2}in Yanabayashi Shrine.
+Dialogue: 0,0:19:19.18,0:19:20.64,Sign1,,0,0,0,,{\fs135\blur3\pos(1077,375)\frx12\fry358\frz354.18}Recover it immediately.
 Dialogue: 0,0:19:21.06,0:19:22.22,Default,,0,0,0,,Okabe?
 Dialogue: 0,0:19:25.60,0:19:26.98,Default,,0,0,0,,Don't scare me like that!
 Dialogue: 0,0:19:26.98,0:19:29.77,Default,,0,0,0,,You were worried about me?
