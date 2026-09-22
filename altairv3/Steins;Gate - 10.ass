@@ -28,9 +28,9 @@ Video File: //192.168.1.99/mnt/12tb/media/_downloads/temp/[AOmundson] Steins;Gat
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 1.000000
-Scroll Position: 408
-Active Line: 403
-Video Position: 3549
+Scroll Position: 560
+Active Line: 562
+Video Position: 14114
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -449,22 +449,22 @@ Dialogue: 0,0:02:19.20,0:02:19.41,op kara,,0,0,0,fx,{\pos(955.5,55.5)\alpha&H70&
 Dialogue: 0,0:02:19.41,0:02:19.62,op kara,,0,0,0,fx,{\pos(960,49.5)\alpha&H00&\blur1.5\bord1.5}nomikomareteyuku kodoku no kansokusha
 Dialogue: 0,0:02:19.62,0:02:19.83,op kara,,0,0,0,fx,{\pos(960,52.5)\alpha&H00&\blur3}nomikomareteyuku kodoku no kansokusha
 Dialogue: 0,0:02:19.83,0:02:19.87,op kara,,0,0,0,fx,{\pos(955.5,55.5)\alpha&H70&\blur3}nomikomareteyuku kodoku no kansokusha
-Dialogue: 0,0:02:23.00,0:02:28.04,Title1,,0,0,0,gradient @a47 1,{\fsp-6\fscx65\fscy108.75\clip(1070,582,1649,597)\pos(1176,613.5)\1c&H5C5F60&}Chaos Theory
-Dialogue: 0,0:02:23.00,0:02:28.04,Title1,,0,0,0,gradient @a47 2,{\fsp-6\fscx65\fscy108.75\clip(1070,597,1649,612)\pos(1176,613.5)\1c&H5C5F60&}Chaos Theory
-Dialogue: 0,0:02:23.00,0:02:28.04,Title1,,0,0,0,gradient @a47 3,{\fsp-6\fscx65\fscy108.75\clip(1070,612,1649,627)\pos(1176,613.5)\1c&H5C5F60&}Chaos Theory
-Dialogue: 0,0:02:23.00,0:02:28.04,Title1,,0,0,0,gradient @a47 4,{\fsp-6\fscx65\fscy108.75\clip(1070,627,1649,642)\pos(1176,613.5)\1c&H5C5F60&}Chaos Theory
-Dialogue: 0,0:02:23.00,0:02:28.04,Title1,,0,0,0,gradient @a47 5,{\fsp-6\fscx65\fscy108.75\clip(1070,642,1649,657)\pos(1176,613.5)\1c&H5E616D&}Chaos Theory
-Dialogue: 0,0:02:23.00,0:02:28.04,Title1,,0,0,0,gradient @a47 6,{\fsp-6\fscx65\fscy108.75\clip(1070,657,1649,672)\pos(1176,613.5)\1c&H61637B&}Chaos Theory
-Dialogue: 0,0:02:23.00,0:02:28.04,Title1,,0,0,0,gradient @a47 7,{\fsp-6\fscx65\fscy108.75\clip(1070,672,1649,687)\pos(1176,613.5)\1c&H646689&}Chaos Theory
-Dialogue: 0,0:02:23.00,0:02:28.04,Title1,,0,0,0,gradient @a47 8,{\fsp-6\fscx65\fscy108.75\clip(1070,687,1649,732)\pos(1176,613.5)\1c&H65678A&}Chaos Theory
-Dialogue: 0,0:02:23.00,0:02:28.04,Title1,,0,0,0,gradient @a83 1,{\fsp-6\fscx57.5\fscy51.25\clip(1467,645,1841,660)\pos(1468.5,706.5)\1c&H5C5F60&}Homeostasis
-Dialogue: 0,0:02:23.00,0:02:28.04,Title1,,0,0,0,gradient @a83 2,{\fsp-6\fscx57.5\fscy51.25\clip(1467,660,1841,675)\pos(1468.5,706.5)\1c&H5E616D&}Homeostasis
-Dialogue: 0,0:02:23.00,0:02:28.04,Title1,,0,0,0,gradient @a83 3,{\fsp-6\fscx57.5\fscy51.25\clip(1467,675,1841,690)\pos(1468.5,706.5)\1c&H61637B&}Homeostasis
-Dialogue: 0,0:02:23.00,0:02:28.04,Title1,,0,0,0,gradient @a83 4,{\fsp-6\fscx57.5\fscy51.25\clip(1467,690,1841,705)\pos(1468.5,706.5)\1c&H646689&}Homeostasis
-Dialogue: 0,0:02:23.00,0:02:28.04,Title1,,0,0,0,gradient @a83 5,{\fsp-6\fscx57.5\fscy51.25\clip(1467,705,1841,720)\pos(1468.5,706.5)\1c&H65678A&}Homeostasis
-Dialogue: 0,0:02:23.00,0:02:28.04,Title1,,0,0,0,gradient @a83 6,{\fsp-6\fscx57.5\fscy51.25\clip(1467,720,1841,735)\pos(1468.5,706.5)\1c&H65678A&}Homeostasis
-Dialogue: 0,0:02:23.00,0:02:28.04,Title1,,0,0,0,gradient @a83 7,{\fsp-6\fscx57.5\fscy51.25\clip(1467,735,1841,750)\pos(1468.5,706.5)\1c&H65678A&}Homeostasis
-Dialogue: 0,0:02:23.00,0:02:28.04,Title1,,0,0,0,gradient @a83 8,{\fsp-6\fscx57.5\fscy51.25\clip(1467,750,1841,765)\pos(1468.5,706.5)\1c&H65678A&}Homeostasis
+Dialogue: 0,0:02:23.00,0:02:28.00,Title1,,0,0,0,gradient @a47 1,{\fsp-6\fscx65\fscy108.75\clip(1070,582,1649,597)\pos(1176,613.5)\1c&H5C5F60&}Chaos Theory
+Dialogue: 0,0:02:23.00,0:02:28.00,Title1,,0,0,0,gradient @a47 2,{\fsp-6\fscx65\fscy108.75\clip(1070,597,1649,612)\pos(1176,613.5)\1c&H5C5F60&}Chaos Theory
+Dialogue: 0,0:02:23.00,0:02:28.00,Title1,,0,0,0,gradient @a47 3,{\fsp-6\fscx65\fscy108.75\clip(1070,612,1649,627)\pos(1176,613.5)\1c&H5C5F60&}Chaos Theory
+Dialogue: 0,0:02:23.00,0:02:28.00,Title1,,0,0,0,gradient @a47 4,{\fsp-6\fscx65\fscy108.75\clip(1070,627,1649,642)\pos(1176,613.5)\1c&H5C5F60&}Chaos Theory
+Dialogue: 0,0:02:23.00,0:02:28.00,Title1,,0,0,0,gradient @a47 5,{\fsp-6\fscx65\fscy108.75\clip(1070,642,1649,657)\pos(1176,613.5)\1c&H5E616D&}Chaos Theory
+Dialogue: 0,0:02:23.00,0:02:28.00,Title1,,0,0,0,gradient @a47 6,{\fsp-6\fscx65\fscy108.75\clip(1070,657,1649,672)\pos(1176,613.5)\1c&H61637B&}Chaos Theory
+Dialogue: 0,0:02:23.00,0:02:28.00,Title1,,0,0,0,gradient @a47 7,{\fsp-6\fscx65\fscy108.75\clip(1070,672,1649,687)\pos(1176,613.5)\1c&H646689&}Chaos Theory
+Dialogue: 0,0:02:23.00,0:02:28.00,Title1,,0,0,0,gradient @a47 8,{\fsp-6\fscx65\fscy108.75\clip(1070,687,1649,732)\pos(1176,613.5)\1c&H65678A&}Chaos Theory
+Dialogue: 0,0:02:23.00,0:02:28.00,Title1,,0,0,0,gradient @a83 1,{\fsp-6\fscx57.5\fscy51.25\clip(1467,645,1841,660)\pos(1468.5,706.5)\1c&H5C5F60&}Homeostasis
+Dialogue: 0,0:02:23.00,0:02:28.00,Title1,,0,0,0,gradient @a83 2,{\fsp-6\fscx57.5\fscy51.25\clip(1467,660,1841,675)\pos(1468.5,706.5)\1c&H5E616D&}Homeostasis
+Dialogue: 0,0:02:23.00,0:02:28.00,Title1,,0,0,0,gradient @a83 3,{\fsp-6\fscx57.5\fscy51.25\clip(1467,675,1841,690)\pos(1468.5,706.5)\1c&H61637B&}Homeostasis
+Dialogue: 0,0:02:23.00,0:02:28.00,Title1,,0,0,0,gradient @a83 4,{\fsp-6\fscx57.5\fscy51.25\clip(1467,690,1841,705)\pos(1468.5,706.5)\1c&H646689&}Homeostasis
+Dialogue: 0,0:02:23.00,0:02:28.00,Title1,,0,0,0,gradient @a83 5,{\fsp-6\fscx57.5\fscy51.25\clip(1467,705,1841,720)\pos(1468.5,706.5)\1c&H65678A&}Homeostasis
+Dialogue: 0,0:02:23.00,0:02:28.00,Title1,,0,0,0,gradient @a83 6,{\fsp-6\fscx57.5\fscy51.25\clip(1467,720,1841,735)\pos(1468.5,706.5)\1c&H65678A&}Homeostasis
+Dialogue: 0,0:02:23.00,0:02:28.00,Title1,,0,0,0,gradient @a83 7,{\fsp-6\fscx57.5\fscy51.25\clip(1467,735,1841,750)\pos(1468.5,706.5)\1c&H65678A&}Homeostasis
+Dialogue: 0,0:02:23.00,0:02:28.00,Title1,,0,0,0,gradient @a83 8,{\fsp-6\fscx57.5\fscy51.25\clip(1467,750,1841,765)\pos(1468.5,706.5)\1c&H65678A&}Homeostasis
 Dialogue: 0,0:02:39.43,0:02:42.56,Default,,0,0,0,,It's hard to believe that MayQueen used to be here.
 Dialogue: 0,0:02:42.56,0:02:44.77,Default,,0,0,0,,MayQueen? Is that a potato?
 Dialogue: 0,0:02:44.77,0:02:47.94,Default,,0,0,0,,During summer, I prefer noodles to potatoes.
