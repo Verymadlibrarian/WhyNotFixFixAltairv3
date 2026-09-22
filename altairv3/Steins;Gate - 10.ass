@@ -28,9 +28,9 @@ Video File: //192.168.1.99/mnt/12tb/media/_downloads/temp/[AOmundson] Steins;Gat
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 1.000000
-Scroll Position: 560
-Active Line: 564
-Video Position: 14116
+Scroll Position: 641
+Active Line: 587
+Video Position: 15483
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -633,11 +633,11 @@ Dialogue: 0,0:10:26.61,0:10:29.61,Default,,0,0,0,,Don't tell me what to do, assi
 Dialogue: 0,0:10:30.32,0:10:31.86,Default,,0,0,0,,Do you want to sit on your knees again?
 Dialogue: 0,0:10:32.65,0:10:34.24,Default,,0,0,0,,This time for three hours...
 Dialogue: 0,0:10:34.24,0:10:36.99,Default,,0,0,0,,Now then! Let's get things ready for the party!
-Dialogue: 0,0:10:43.08,0:10:43.25,Sign1,,0,0,0,,{\fs117\blur4.5\frz11.275\move(465,1182,513,1029,0,170)}I'm watching you.
-Dialogue: 0,0:10:43.25,0:10:43.46,Sign1,,0,0,0,,{\fs117\blur4.5\frz11.275\move(513,1029,534,801,0,210)}I'm watching you.
-Dialogue: 0,0:10:43.46,0:10:44.33,Sign1,,0,0,0,,{\fs118.5\blur4.5\frz11.275\pos(534,801)}I'm watching you.
-Dialogue: 0,0:10:44.33,0:10:44.83,Sign1,,0,0,0,,{\alpha&H20&\q2\b1\bord0\fs337.5\blur7.5\frz348.195\c&HC4C4C6&\pos(465,684)}I'm watching you.
-Dialogue: 0,0:10:44.83,0:10:45.33,Sign1,,0,0,0,,{\alpha&H20&\q2\b1\bord0\fs322.5\blur7.5\frz336.369\c&HB1B1B4&\pos(-567,21)}I'm watching you.
+Dialogue: 0,0:10:43.04,0:10:43.21,Sign1,,0,0,0,,{\fs117\blur4.5\frz11.275\move(465,1182,513,1029,0,170)}I'm watching you.
+Dialogue: 0,0:10:43.21,0:10:43.41,Sign1,,0,0,0,,{\fs117\blur4.5\frz11.275\move(513,1029,534,801,0,210)}I'm watching you.
+Dialogue: 0,0:10:43.41,0:10:44.29,Sign1,,0,0,0,,{\fs118.5\blur4.5\frz11.275\pos(534,801)}I'm watching you.
+Dialogue: 0,0:10:44.29,0:10:44.79,Sign1,,0,0,0,,{\alpha&H20&\q2\b1\bord0\fs337.5\blur7.5\frz348.195\c&HC4C4C6&\pos(465,684)}I'm watching you.
+Dialogue: 0,0:10:44.79,0:10:45.29,Sign1,,0,0,0,,{\alpha&H20&\q2\b1\bord0\fs322.5\blur7.5\frz336.369\c&HB1B1B4&\pos(-567,21)}I'm watching you.
 Dialogue: 0,0:10:50.42,0:10:52.17,Default,,0,0,0,,What's wrong, Okarin?
 Dialogue: 0,0:10:52.63,0:10:53.55,Default,,0,0,0,,Nothing.
 Dialogue: 0,0:11:01.22,0:11:02.31,Default,,0,0,0,,{\i1}This is...?
