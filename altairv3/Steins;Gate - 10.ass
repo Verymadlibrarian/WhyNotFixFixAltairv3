@@ -28,9 +28,9 @@ Video File: //192.168.1.99/mnt/12tb/media/_downloads/temp/[AOmundson] Steins;Gat
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 1.000000
-Scroll Position: 641
-Active Line: 587
-Video Position: 15483
+Scroll Position: 968
+Active Line: 973
+Video Position: 28821
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -793,217 +793,217 @@ Dialogue: 0,0:18:22.71,0:18:26.59,Default,,0,0,0,,I told her to come to the lab 
 Dialogue: 0,0:18:27.42,0:18:29.05,Default,,0,0,0,,But it's late.
 Dialogue: 0,0:18:29.92,0:18:31.47,Default,,0,0,0,,We're aborting the operation.
 Dialogue: 0,0:18:31.47,0:18:32.76,Default,,0,0,0,,You guys, go on home.
+Dialogue: 0,0:18:45.06,0:18:45.10,Sign1,,0,0,0,,{\pos(1522.5,478.5)\fscx100\fscy100\blur3\fs39\an5\frz346.413}From:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\NPart-Time Warrior
+Dialogue: 0,0:18:45.06,0:18:45.10,Sign1,,0,0,0,,{\pos(1398,561)\fscx100\fscy100\blur3\an5\frz346.025\fs72}Subject: I'm sorry
+Dialogue: 0,0:18:45.06,0:18:45.10,Sign1,,0,0,0,,{\pos(679.5,582)\fscx100\fscy100\blur3\an5\frz345.725}Goodbye
+Dialogue: 0,0:18:45.10,0:18:45.10,Sign1,,0,0,0,,{\pos(1522.5,478.5)\fscx100\fscy100\blur3\fs39\an5\frz346.413}From:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\NPart-Time Warrior
 Dialogue: 0,0:18:45.10,0:18:45.15,Sign1,,0,0,0,,{\pos(1522.5,478.5)\fscx100\fscy100\blur3\fs39\an5\frz346.413}From:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\NPart-Time Warrior
+Dialogue: 0,0:18:45.10,0:18:45.10,Sign1,,0,0,0,,{\pos(1398,561)\fscx100\fscy100\blur3\an5\frz346.025\fs72}Subject: I'm sorry
 Dialogue: 0,0:18:45.10,0:18:45.15,Sign1,,0,0,0,,{\pos(1398,561)\fscx100\fscy100\blur3\an5\frz346.025\fs72}Subject: I'm sorry
-Dialogue: 0,0:18:45.10,0:18:45.15,Sign1,,0,0,0,,{\pos(679.5,582)\fscx100\fscy100\blur3\an5\frz345.725}Goodbye
-Dialogue: 0,0:18:45.15,0:18:45.15,Sign1,,0,0,0,,{\pos(1522.5,478.5)\fscx100\fscy100\blur3\fs39\an5\frz346.413}From:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\NPart-Time Warrior
+Dialogue: 0,0:18:45.10,0:18:45.10,Sign1,,0,0,0,,{\pos(679.5,582)\fscx100\fscy100\blur3\an5\frz345.725}Goodbye
+Dialogue: 0,0:18:45.10,0:18:45.15,Sign1,,0,0,0,,{\pos(679.5,582)\fscx99.999\fscy99.999\blur3\an5\frz345.725}Goodbye
 Dialogue: 0,0:18:45.15,0:18:45.19,Sign1,,0,0,0,,{\pos(1522.5,478.5)\fscx100\fscy100\blur3\fs39\an5\frz346.413}From:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\NPart-Time Warrior
-Dialogue: 0,0:18:45.15,0:18:45.15,Sign1,,0,0,0,,{\pos(1398,561)\fscx100\fscy100\blur3\an5\frz346.025\fs72}Subject: I'm sorry
 Dialogue: 0,0:18:45.15,0:18:45.19,Sign1,,0,0,0,,{\pos(1398,561)\fscx100\fscy100\blur3\an5\frz346.025\fs72}Subject: I'm sorry
-Dialogue: 0,0:18:45.15,0:18:45.15,Sign1,,0,0,0,,{\pos(679.5,582)\fscx100\fscy100\blur3\an5\frz345.725}Goodbye
 Dialogue: 0,0:18:45.15,0:18:45.19,Sign1,,0,0,0,,{\pos(679.5,582)\fscx99.999\fscy99.999\blur3\an5\frz345.725}Goodbye
-Dialogue: 0,0:18:45.19,0:18:45.23,Sign1,,0,0,0,,{\pos(1522.5,478.5)\fscx100\fscy100\blur3\fs39\an5\frz346.413}From:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\NPart-Time Warrior
-Dialogue: 0,0:18:45.19,0:18:45.23,Sign1,,0,0,0,,{\pos(1398,561)\fscx100\fscy100\blur3\an5\frz346.025\fs72}Subject: I'm sorry
-Dialogue: 0,0:18:45.19,0:18:45.23,Sign1,,0,0,0,,{\pos(679.5,582)\fscx99.999\fscy99.999\blur3\an5\frz345.725}Goodbye
-Dialogue: 0,0:18:45.23,0:18:45.31,Sign1,,0,0,0,,{\pos(1522.5,478.5)\fscx100\fscy100\blur3\fs39\an5\frz346.413}From:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\NPart-Time Warrior
-Dialogue: 0,0:18:45.23,0:18:45.31,Sign1,,0,0,0,,{\pos(1398,561)\fscx100\fscy100\blur3\an5\frz346.025\fs72}Subject: I'm sorry
-Dialogue: 0,0:18:45.23,0:18:45.31,Sign1,,0,0,0,,{\pos(679.5,582)\fscx99.999\fscy99.999\blur3\an5\frz345.725}Goodbye
-Dialogue: 0,0:18:45.31,0:18:45.35,Sign1,,0,0,0,,{\pos(1522.5,478.5)\fscx100\fscy100\blur3\fs39\an5\frz346.413}From:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\NPart-Time Warrior
-Dialogue: 0,0:18:45.31,0:18:45.35,Sign1,,0,0,0,,{\pos(1398,561)\fscx99.992\fscy99.992\blur3\an5\frz346.025\fs72}Subject: I'm sorry
-Dialogue: 0,0:18:45.31,0:18:45.35,Sign1,,0,0,0,,{\pos(679.5,582)\fscx100\fscy100\blur3\an5\frz345.725}Goodbye
-Dialogue: 0,0:18:45.35,0:18:45.40,Sign1,,0,0,0,,{\pos(1522.875,478.5)\fscx100\fscy100\blur3\fs39\an5\frz346.413}From:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\NPart-Time Warrior
-Dialogue: 0,0:18:45.35,0:18:45.40,Sign1,,0,0,0,,{\pos(1398.375,561)\fscx99.981\fscy99.981\blur3\an5\frz346.025\fs72}Subject: I'm sorry
-Dialogue: 0,0:18:45.35,0:18:45.40,Sign1,,0,0,0,,{\pos(679.875,582)\fscx99.984\fscy99.984\blur3\an5\frz345.725}Goodbye
-Dialogue: 0,0:18:45.40,0:18:45.40,Sign1,,0,0,0,,{\pos(1524,478.5)\fscx100\fscy100\blur3\fs39\an5\frz346.413}From:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\NPart-Time Warrior
-Dialogue: 0,0:18:45.40,0:18:45.44,Sign1,,0,0,0,,{\pos(1526.07,478.312)\fscx100.255\fscy100.255\blur3\fs39\an5\frz346.413}From:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\NPart-Time Warrior
-Dialogue: 0,0:18:45.40,0:18:45.40,Sign1,,0,0,0,,{\pos(1399.5,561)\fscx100.055\fscy100.055\blur3\an5\frz346.025\fs72}Subject: I'm sorry
-Dialogue: 0,0:18:45.40,0:18:45.44,Sign1,,0,0,0,,{\pos(1401.562,561)\fscx100.183\fscy100.183\blur3\an5\frz346.025\fs72}Subject: I'm sorry
-Dialogue: 0,0:18:45.40,0:18:45.40,Sign1,,0,0,0,,{\pos(680.625,582)\fscx100.028\fscy100.028\blur3\an5\frz345.725}Goodbye
-Dialogue: 0,0:18:45.40,0:18:45.44,Sign1,,0,0,0,,{\pos(681.938,582.188)\fscx100.184\fscy100.184\blur3\an5\frz345.725}Goodbye
-Dialogue: 0,0:18:45.44,0:18:45.48,Sign1,,0,0,0,,{\pos(1528.875,478.125)\fscx100.45\fscy100.45\blur3\fs39\an5\frz346.413}From:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\NPart-Time Warrior
-Dialogue: 0,0:18:45.44,0:18:45.48,Sign1,,0,0,0,,{\pos(1404.188,561)\fscx100.332\fscy100.332\blur3\an5\frz346.025\fs72}Subject: I'm sorry
-Dialogue: 0,0:18:45.44,0:18:45.48,Sign1,,0,0,0,,{\pos(684,582.188)\fscx100.358\fscy100.358\blur3\an5\frz345.725}Goodbye
-Dialogue: 0,0:18:45.48,0:18:45.56,Sign1,,0,0,0,,{\pos(1532.25,477.938)\fscx100.722\fscy100.722\blur3\fs39\an5\frz346.413}From:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\NPart-Time Warrior
-Dialogue: 0,0:18:45.48,0:18:45.56,Sign1,,0,0,0,,{\pos(1407.562,561)\fscx100.544\fscy100.544\blur3\an5\frz346.025\fs72}Subject: I'm sorry
-Dialogue: 0,0:18:45.48,0:18:45.56,Sign1,,0,0,0,,{\pos(686.625,582.188)\fscx100.619\fscy100.619\blur3\an5\frz345.725}Goodbye
-Dialogue: 0,0:18:45.56,0:18:45.60,Sign1,,0,0,0,,{\pos(1536.375,477.562)\fscx101.005\fscy101.005\blur3\fs39\an5\frz346.413}From:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\NPart-Time Warrior
-Dialogue: 0,0:18:45.56,0:18:45.60,Sign1,,0,0,0,,{\pos(1411.5,561)\fscx100.816\fscy100.816\blur3\an5\frz346.025\fs72}Subject: I'm sorry
-Dialogue: 0,0:18:45.56,0:18:45.60,Sign1,,0,0,0,,{\pos(689.438,582.562)\fscx100.936\fscy100.936\blur3\an5\frz345.725}Goodbye
-Dialogue: 0,0:18:45.60,0:18:45.65,Sign1,,0,0,0,,{\pos(1541.07,477.375)\fscx101.285\fscy101.285\blur3\fs39\an5\frz346.413}From:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\NPart-Time Warrior
-Dialogue: 0,0:18:45.60,0:18:45.65,Sign1,,0,0,0,,{\pos(1416.188,561.188)\fscx101.141\fscy101.141\blur3\an5\frz346.025\fs72}Subject: I'm sorry
-Dialogue: 0,0:18:45.60,0:18:45.65,Sign1,,0,0,0,,{\pos(692.812,582.75)\fscx101.306\fscy101.306\blur3\an5\frz345.725}Goodbye
-Dialogue: 0,0:18:45.65,0:18:45.65,Sign1,,0,0,0,,{\pos(1546.5,477)\fscx101.689\fscy101.689\blur3\fs39\an5\frz346.413}From:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\NPart-Time Warrior
-Dialogue: 0,0:18:45.65,0:18:45.69,Sign1,,0,0,0,,{\pos(1552.5,476.812)\fscx102.131\fscy102.131\blur3\fs39\an5\frz346.413}From:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\NPart-Time Warrior
-Dialogue: 0,0:18:45.65,0:18:45.65,Sign1,,0,0,0,,{\pos(1421.625,561.375)\fscx101.46\fscy101.46\blur3\an5\frz346.025\fs72}Subject: I'm sorry
-Dialogue: 0,0:18:45.65,0:18:45.69,Sign1,,0,0,0,,{\pos(1427.625,561.375)\fscx101.864\fscy101.864\blur3\an5\frz346.025\fs72}Subject: I'm sorry
-Dialogue: 0,0:18:45.65,0:18:45.65,Sign1,,0,0,0,,{\pos(696.75,582.75)\fscx101.699\fscy101.699\blur3\an5\frz345.725}Goodbye
-Dialogue: 0,0:18:45.65,0:18:45.69,Sign1,,0,0,0,,{\pos(701.062,583.125)\fscx102.143\fscy102.143\blur3\an5\frz345.725}Goodbye
-Dialogue: 0,0:18:45.69,0:18:45.73,Sign1,,0,0,0,,{\pos(1559.07,476.438)\fscx102.634\fscy102.634\blur3\fs39\an5\frz346.413}From:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\NPart-Time Warrior
-Dialogue: 0,0:18:45.69,0:18:45.73,Sign1,,0,0,0,,{\pos(1434.188,561.562)\fscx102.32\fscy102.32\blur3\an5\frz346.025\fs72}Subject: I'm sorry
-Dialogue: 0,0:18:45.69,0:18:45.73,Sign1,,0,0,0,,{\pos(705.938,583.312)\fscx102.55\fscy102.55\blur3\an5\frz345.725}Goodbye
-Dialogue: 0,0:18:45.73,0:18:45.81,Sign1,,0,0,0,,{\pos(1566.195,475.875)\fscx103.107\fscy103.107\blur3\fs39\an5\frz346.413}From:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\NPart-Time Warrior
-Dialogue: 0,0:18:45.73,0:18:45.81,Sign1,,0,0,0,,{\pos(1441.125,561.562)\fscx102.774\fscy102.774\blur3\an5\frz346.025\fs72}Subject: I'm sorry
-Dialogue: 0,0:18:45.73,0:18:45.81,Sign1,,0,0,0,,{\pos(711,583.5)\fscx103.035\fscy103.035\blur3\an5\frz345.725}Goodbye
-Dialogue: 0,0:18:45.81,0:18:45.85,Sign1,,0,0,0,,{\pos(1573.875,475.5)\fscx103.637\fscy103.637\blur3\fs39\an5\frz346.413}From:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\NPart-Time Warrior
-Dialogue: 0,0:18:45.81,0:18:45.85,Sign1,,0,0,0,,{\pos(1448.812,561.75)\fscx103.36\fscy103.36\blur3\an5\frz346.025\fs72}Subject: I'm sorry
-Dialogue: 0,0:18:45.81,0:18:45.85,Sign1,,0,0,0,,{\pos(716.438,583.875)\fscx103.674\fscy103.674\blur3\an5\frz345.725}Goodbye
-Dialogue: 0,0:18:45.85,0:18:45.90,Sign1,,0,0,0,,{\pos(1582.125,474.938)\fscx104.235\fscy104.235\blur3\fs39\an5\frz346.413}From:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\NPart-Time Warrior
-Dialogue: 0,0:18:45.85,0:18:45.90,Sign1,,0,0,0,,{\pos(1457.062,561.938)\fscx103.926\fscy103.926\blur3\an5\frz346.025\fs72}Subject: I'm sorry
-Dialogue: 0,0:18:45.85,0:18:45.90,Sign1,,0,0,0,,{\pos(722.438,584.062)\fscx104.14\fscy104.14\blur3\an5\frz345.725}Goodbye
-Dialogue: 0,0:18:45.90,0:18:45.90,Sign1,,0,0,0,,{\pos(1590.945,474.562)\fscx104.882\fscy104.882\blur3\fs39\an5\frz346.413}From:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\NPart-Time Warrior
-Dialogue: 0,0:18:45.90,0:18:45.94,Sign1,,0,0,0,,{\pos(1600.125,474)\fscx105.52\fscy105.52\blur3\fs39\an5\frz346.413}From:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\NPart-Time Warrior
-Dialogue: 0,0:18:45.90,0:18:45.90,Sign1,,0,0,0,,{\pos(1465.688,562.125)\fscx104.473\fscy104.473\blur3\an5\frz346.025\fs72}Subject: I'm sorry
-Dialogue: 0,0:18:45.90,0:18:45.94,Sign1,,0,0,0,,{\pos(1474.875,562.312)\fscx105.124\fscy105.124\blur3\an5\frz346.025\fs72}Subject: I'm sorry
-Dialogue: 0,0:18:45.90,0:18:45.90,Sign1,,0,0,0,,{\pos(728.625,584.438)\fscx104.858\fscy104.858\blur3\an5\frz345.725}Goodbye
-Dialogue: 0,0:18:45.90,0:18:45.94,Sign1,,0,0,0,,{\pos(735.188,584.625)\fscx105.425\fscy105.425\blur3\an5\frz345.725}Goodbye
-Dialogue: 0,0:18:45.94,0:18:46.02,Sign1,,0,0,0,,{\pos(1609.695,473.438)\fscx106.208\fscy106.208\blur3\fs39\an5\frz346.413}From:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\NPart-Time Warrior
-Dialogue: 0,0:18:45.94,0:18:46.02,Sign1,,0,0,0,,{\pos(1484.438,562.5)\fscx105.761\fscy105.761\blur3\an5\frz346.025\fs72}Subject: I'm sorry
-Dialogue: 0,0:18:45.94,0:18:46.02,Sign1,,0,0,0,,{\pos(742.125,585.188)\fscx106.14\fscy106.14\blur3\an5\frz345.725}Goodbye
-Dialogue: 0,0:18:46.02,0:18:46.06,Sign1,,0,0,0,,{\pos(1619.82,472.875)\fscx106.983\fscy106.983\blur3\fs39\an5\frz346.413}From:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\NPart-Time Warrior
-Dialogue: 0,0:18:46.02,0:18:46.06,Sign1,,0,0,0,,{\pos(1494.562,562.688)\fscx106.499\fscy106.499\blur3\an5\frz346.025\fs72}Subject: I'm sorry
-Dialogue: 0,0:18:46.02,0:18:46.06,Sign1,,0,0,0,,{\pos(749.438,585.562)\fscx106.925\fscy106.925\blur3\an5\frz345.725}Goodbye
-Dialogue: 0,0:18:46.06,0:18:46.10,Sign1,,0,0,0,,{\pos(1630.32,472.125)\fscx107.71\fscy107.71\blur3\fs39\an5\frz346.413}From:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\NPart-Time Warrior
-Dialogue: 0,0:18:46.06,0:18:46.10,Sign1,,0,0,0,,{\pos(1504.875,562.875)\fscx107.201\fscy107.201\blur3\an5\frz346.025\fs72}Subject: I'm sorry
-Dialogue: 0,0:18:46.06,0:18:46.10,Sign1,,0,0,0,,{\pos(756.938,585.75)\fscx107.624\fscy107.624\blur3\an5\frz345.725}Goodbye
-Dialogue: 0,0:18:46.10,0:18:46.15,Sign1,,0,0,0,,{\pos(1641.195,471.562)\fscx108.459\fscy108.459\blur3\fs39\an5\frz346.413}From:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\NPart-Time Warrior
-Dialogue: 0,0:18:46.10,0:18:46.15,Sign1,,0,0,0,,{\pos(1515.75,563.062)\fscx107.946\fscy107.946\blur3\an5\frz346.025\fs72}Subject: I'm sorry
-Dialogue: 0,0:18:46.10,0:18:46.15,Sign1,,0,0,0,,{\pos(764.812,586.312)\fscx108.409\fscy108.409\blur3\an5\frz345.725}Goodbye
-Dialogue: 0,0:18:46.15,0:18:46.15,Sign1,,0,0,0,,{\pos(1652.25,471)\fscx109.282\fscy109.282\blur3\fs39\an5\frz346.413}From:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\NPart-Time Warrior
-Dialogue: 0,0:18:46.15,0:18:46.19,Sign1,,0,0,0,,{\pos(1663.695,470.25)\fscx110.021\fscy110.021\blur3\fs39\an5\frz346.413}From:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\NPart-Time Warrior
-Dialogue: 0,0:18:46.15,0:18:46.15,Sign1,,0,0,0,,{\pos(1527,563.438)\fscx108.759\fscy108.759\blur3\an5\frz346.025\fs72}Subject: I'm sorry
-Dialogue: 0,0:18:46.15,0:18:46.19,Sign1,,0,0,0,,{\pos(1538.445,563.625)\fscx109.551\fscy109.551\blur3\an5\frz346.025\fs72}Subject: I'm sorry
-Dialogue: 0,0:18:46.15,0:18:46.15,Sign1,,0,0,0,,{\pos(772.875,586.688)\fscx109.211\fscy109.211\blur3\an5\frz345.725}Goodbye
-Dialogue: 0,0:18:46.15,0:18:46.19,Sign1,,0,0,0,,{\pos(781.125,587.062)\fscx110.012\fscy110.012\blur3\an5\frz345.725}Goodbye
-Dialogue: 0,0:18:46.19,0:18:46.27,Sign1,,0,0,0,,{\pos(1675.695,469.5)\fscx110.876\fscy110.876\blur3\fs39\an5\frz346.413}From:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\NPart-Time Warrior
-Dialogue: 0,0:18:46.19,0:18:46.27,Sign1,,0,0,0,,{\pos(1550.07,563.812)\fscx110.376\fscy110.376\blur3\an5\frz346.025\fs72}Subject: I'm sorry
-Dialogue: 0,0:18:46.19,0:18:46.27,Sign1,,0,0,0,,{\pos(789.562,587.438)\fscx110.886\fscy110.886\blur3\an5\frz345.725}Goodbye
-Dialogue: 0,0:18:46.27,0:18:46.31,Sign1,,0,0,0,,{\pos(1687.5,468.938)\fscx111.744\fscy111.744\blur3\fs39\an5\frz346.413}From:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\NPart-Time Warrior
-Dialogue: 0,0:18:46.27,0:18:46.31,Sign1,,0,0,0,,{\pos(1562.25,564.188)\fscx111.22\fscy111.22\blur3\an5\frz346.025\fs72}Subject: I'm sorry
-Dialogue: 0,0:18:46.27,0:18:46.31,Sign1,,0,0,0,,{\pos(798.188,588)\fscx111.732\fscy111.732\blur3\an5\frz345.725}Goodbye
-Dialogue: 0,0:18:46.31,0:18:46.36,Sign1,,0,0,0,,{\pos(1699.875,468)\fscx112.611\fscy112.611\blur3\fs39\an5\frz346.413}From:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\NPart-Time Warrior
-Dialogue: 0,0:18:46.31,0:18:46.36,Sign1,,0,0,0,,{\pos(1574.445,564.375)\fscx112.107\fscy112.107\blur3\an5\frz346.025\fs72}Subject: I'm sorry
-Dialogue: 0,0:18:46.31,0:18:46.36,Sign1,,0,0,0,,{\pos(807,588.375)\fscx112.581\fscy112.581\blur3\an5\frz345.725}Goodbye
-Dialogue: 0,0:18:46.36,0:18:46.40,Sign1,,0,0,0,,{\pos(1712.25,467.438)\fscx113.463\fscy113.463\blur3\fs39\an5\frz346.413}From:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\NPart-Time Warrior
-Dialogue: 0,0:18:46.36,0:18:46.40,Sign1,,0,0,0,,{\pos(1586.625,564.562)\fscx112.959\fscy112.959\blur3\an5\frz346.025\fs72}Subject: I'm sorry
-Dialogue: 0,0:18:46.36,0:18:46.40,Sign1,,0,0,0,,{\pos(816,588.75)\fscx113.503\fscy113.503\blur3\an5\frz345.725}Goodbye
-Dialogue: 0,0:18:46.40,0:18:46.40,Sign1,,0,0,0,,{\pos(1724.82,466.688)\fscx114.374\fscy114.374\blur3\fs39\an5\frz346.413}From:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\NPart-Time Warrior
-Dialogue: 0,0:18:46.40,0:18:46.44,Sign1,,0,0,0,,{\pos(1737.375,465.938)\fscx115.275\fscy115.275\blur3\fs39\an5\frz346.413}From:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\NPart-Time Warrior
-Dialogue: 0,0:18:46.40,0:18:46.40,Sign1,,0,0,0,,{\pos(1599.195,564.938)\fscx113.83\fscy113.83\blur3\an5\frz346.025\fs72}Subject: I'm sorry
-Dialogue: 0,0:18:46.40,0:18:46.44,Sign1,,0,0,0,,{\pos(1611.75,565.125)\fscx114.727\fscy114.727\blur3\an5\frz346.025\fs72}Subject: I'm sorry
-Dialogue: 0,0:18:46.40,0:18:46.40,Sign1,,0,0,0,,{\pos(825,589.312)\fscx114.366\fscy114.366\blur3\an5\frz345.725}Goodbye
-Dialogue: 0,0:18:46.40,0:18:46.44,Sign1,,0,0,0,,{\pos(834,589.688)\fscx115.241\fscy115.241\blur3\an5\frz345.725}Goodbye
-Dialogue: 0,0:18:46.44,0:18:46.52,Sign1,,0,0,0,,{\pos(1749.945,465.188)\fscx116.163\fscy116.163\blur3\fs39\an5\frz346.413}From:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\NPart-Time Warrior
-Dialogue: 0,0:18:46.44,0:18:46.52,Sign1,,0,0,0,,{\pos(1624.32,565.5)\fscx115.594\fscy115.594\blur3\an5\frz346.025\fs72}Subject: I'm sorry
-Dialogue: 0,0:18:46.44,0:18:46.52,Sign1,,0,0,0,,{\pos(843,590.25)\fscx116.158\fscy116.158\blur3\an5\frz345.725}Goodbye
-Dialogue: 0,0:18:46.52,0:18:46.56,Sign1,,0,0,0,,{\pos(1762.5,464.438)\fscx117.042\fscy117.042\blur3\fs39\an5\frz346.413}From:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\NPart-Time Warrior
-Dialogue: 0,0:18:46.52,0:18:46.56,Sign1,,0,0,0,,{\pos(1636.875,565.688)\fscx116.474\fscy116.474\blur3\an5\frz346.025\fs72}Subject: I'm sorry
-Dialogue: 0,0:18:46.52,0:18:46.56,Sign1,,0,0,0,,{\pos(852.188,590.625)\fscx117.047\fscy117.047\blur3\an5\frz345.725}Goodbye
-Dialogue: 0,0:18:46.56,0:18:46.61,Sign1,,0,0,0,,{\pos(1775.07,463.688)\fscx117.959\fscy117.959\blur3\fs39\an5\frz346.413}From:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\NPart-Time Warrior
-Dialogue: 0,0:18:46.56,0:18:46.61,Sign1,,0,0,0,,{\pos(1649.445,565.875)\fscx117.362\fscy117.362\blur3\an5\frz346.025\fs72}Subject: I'm sorry
-Dialogue: 0,0:18:46.56,0:18:46.61,Sign1,,0,0,0,,{\pos(861.188,591.188)\fscx117.935\fscy117.935\blur3\an5\frz345.725}Goodbye
-Dialogue: 0,0:18:46.61,0:18:46.61,Sign1,,0,0,0,,{\pos(1787.445,462.938)\fscx118.802\fscy118.802\blur3\fs39\an5\frz346.413}From:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\NPart-Time Warrior
-Dialogue: 0,0:18:46.61,0:18:46.65,Sign1,,0,0,0,,{\pos(1799.625,462.375)\fscx119.692\fscy119.692\blur3\fs39\an5\frz346.413}From:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\NPart-Time Warrior
-Dialogue: 0,0:18:46.61,0:18:46.61,Sign1,,0,0,0,,{\pos(1661.625,566.25)\fscx118.207\fscy118.207\blur3\an5\frz346.025\fs72}Subject: I'm sorry
-Dialogue: 0,0:18:46.61,0:18:46.65,Sign1,,0,0,0,,{\pos(1673.82,566.438)\fscx119.031\fscy119.031\blur3\an5\frz346.025\fs72}Subject: I'm sorry
-Dialogue: 0,0:18:46.61,0:18:46.61,Sign1,,0,0,0,,{\pos(870,591.562)\fscx118.843\fscy118.843\blur3\an5\frz345.725}Goodbye
-Dialogue: 0,0:18:46.61,0:18:46.65,Sign1,,0,0,0,,{\pos(878.812,591.938)\fscx119.685\fscy119.685\blur3\an5\frz345.725}Goodbye
-Dialogue: 0,0:18:46.65,0:18:46.69,Sign1,,0,0,0,,{\pos(1811.625,461.625)\fscx120.555\fscy120.555\blur3\fs39\an5\frz346.413}From:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\NPart-Time Warrior
-Dialogue: 0,0:18:46.65,0:18:46.69,Sign1,,0,0,0,,{\pos(1685.82,566.625)\fscx119.89\fscy119.89\blur3\an5\frz346.025\fs72}Subject: I'm sorry
-Dialogue: 0,0:18:46.65,0:18:46.69,Sign1,,0,0,0,,{\pos(887.438,592.5)\fscx120.562\fscy120.562\blur3\an5\frz345.725}Goodbye
-Dialogue: 0,0:18:46.69,0:18:46.77,Sign1,,0,0,0,,{\pos(1823.25,460.875)\fscx121.387\fscy121.387\blur3\fs39\an5\frz346.413}From:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\NPart-Time Warrior
-Dialogue: 0,0:18:46.69,0:18:46.77,Sign1,,0,0,0,,{\pos(1697.445,567)\fscx120.687\fscy120.687\blur3\an5\frz346.025\fs72}Subject: I'm sorry
-Dialogue: 0,0:18:46.69,0:18:46.77,Sign1,,0,0,0,,{\pos(895.875,592.875)\fscx121.405\fscy121.405\blur3\an5\frz345.725}Goodbye
-Dialogue: 0,0:18:46.77,0:18:46.81,Sign1,,0,0,0,,{\pos(1834.5,460.312)\fscx122.177\fscy122.177\blur3\fs39\an5\frz346.413}From:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\NPart-Time Warrior
-Dialogue: 0,0:18:46.77,0:18:46.81,Sign1,,0,0,0,,{\pos(1708.5,567.188)\fscx121.433\fscy121.433\blur3\an5\frz346.025\fs72}Subject: I'm sorry
-Dialogue: 0,0:18:46.77,0:18:46.81,Sign1,,0,0,0,,{\pos(903.938,593.25)\fscx122.12\fscy122.12\blur3\an5\frz345.725}Goodbye
-Dialogue: 0,0:18:46.81,0:18:46.86,Sign1,,0,0,0,,{\pos(1845.195,459.75)\fscx122.951\fscy122.951\blur3\fs39\an5\frz346.413}From:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\NPart-Time Warrior
-Dialogue: 0,0:18:46.81,0:18:46.86,Sign1,,0,0,0,,{\pos(1719.375,567.375)\fscx122.239\fscy122.239\blur3\an5\frz346.025\fs72}Subject: I'm sorry
-Dialogue: 0,0:18:46.81,0:18:46.86,Sign1,,0,0,0,,{\pos(911.625,593.625)\fscx122.946\fscy122.946\blur3\an5\frz345.725}Goodbye
-Dialogue: 0,0:18:46.86,0:18:46.86,Sign1,,0,0,0,,{\pos(1855.5,459)\fscx123.654\fscy123.654\blur3\fs39\an5\frz346.413}From:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\NPart-Time Warrior
-Dialogue: 0,0:18:46.86,0:18:46.90,Sign1,,0,0,0,,{\pos(1865.07,458.438)\fscx124.334\fscy124.334\blur3\fs39\an5\frz346.413}From:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\NPart-Time Warrior
-Dialogue: 0,0:18:46.86,0:18:46.86,Sign1,,0,0,0,,{\pos(1729.5,567.562)\fscx122.957\fscy122.957\blur3\an5\frz346.025\fs72}Subject: I'm sorry
-Dialogue: 0,0:18:46.86,0:18:46.90,Sign1,,0,0,0,,{\pos(1739.25,567.75)\fscx123.634\fscy123.634\blur3\an5\frz346.025\fs72}Subject: I'm sorry
-Dialogue: 0,0:18:46.86,0:18:46.86,Sign1,,0,0,0,,{\pos(918.938,594)\fscx123.617\fscy123.617\blur3\an5\frz345.725}Goodbye
-Dialogue: 0,0:18:46.86,0:18:46.90,Sign1,,0,0,0,,{\pos(925.875,594.375)\fscx124.317\fscy124.317\blur3\an5\frz345.725}Goodbye
-Dialogue: 0,0:18:46.90,0:18:46.94,Sign1,,0,0,0,,{\pos(1873.875,458.062)\fscx125.028\fscy125.028\blur3\fs39\an5\frz346.413}From:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\NPart-Time Warrior
-Dialogue: 0,0:18:46.90,0:18:46.94,Sign1,,0,0,0,,{\pos(1748.07,567.938)\fscx124.211\fscy124.211\blur3\an5\frz346.025\fs72}Subject: I'm sorry
-Dialogue: 0,0:18:46.90,0:18:46.94,Sign1,,0,0,0,,{\pos(932.25,594.75)\fscx124.937\fscy124.937\blur3\an5\frz345.725}Goodbye
-Dialogue: 0,0:18:46.94,0:18:47.02,Sign1,,0,0,0,,{\pos(1881.945,457.5)\fscx125.563\fscy125.563\blur3\fs39\an5\frz346.413}From:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\NPart-Time Warrior
-Dialogue: 0,0:18:46.94,0:18:47.02,Sign1,,0,0,0,,{\pos(1756.125,568.125)\fscx124.767\fscy124.767\blur3\an5\frz346.025\fs72}Subject: I'm sorry
-Dialogue: 0,0:18:46.94,0:18:47.02,Sign1,,0,0,0,,{\pos(938.062,594.938)\fscx125.558\fscy125.558\blur3\an5\frz345.725}Goodbye
-Dialogue: 0,0:18:47.02,0:18:47.06,Sign1,,0,0,0,,{\pos(1889.25,457.125)\fscx126.087\fscy126.087\blur3\fs39\an5\frz346.413}From:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\NPart-Time Warrior
-Dialogue: 0,0:18:47.02,0:18:47.06,Sign1,,0,0,0,,{\pos(1763.25,568.312)\fscx125.256\fscy125.256\blur3\an5\frz346.025\fs72}Subject: I'm sorry
-Dialogue: 0,0:18:47.02,0:18:47.06,Sign1,,0,0,0,,{\pos(943.312,595.312)\fscx125.981\fscy125.981\blur3\an5\frz345.725}Goodbye
-Dialogue: 0,0:18:47.06,0:18:47.11,Sign1,,0,0,0,,{\pos(1895.625,456.75)\fscx126.519\fscy126.519\blur3\fs39\an5\frz346.413}From:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\NPart-Time Warrior
-Dialogue: 0,0:18:47.06,0:18:47.11,Sign1,,0,0,0,,{\pos(1769.82,568.5)\fscx125.723\fscy125.723\blur3\an5\frz346.025\fs72}Subject: I'm sorry
-Dialogue: 0,0:18:47.06,0:18:47.11,Sign1,,0,0,0,,{\pos(948,595.5)\fscx126.499\fscy126.499\blur3\an5\frz345.725}Goodbye
-Dialogue: 0,0:18:47.11,0:18:47.11,Sign1,,0,0,0,,{\pos(1900.875,456.375)\fscx126.872\fscy126.872\blur3\fs39\an5\frz346.413}From:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\NPart-Time Warrior
-Dialogue: 0,0:18:47.11,0:18:47.15,Sign1,,0,0,0,,{\pos(1905.195,456.188)\fscx127.21\fscy127.21\blur3\fs39\an5\frz346.413}From:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\NPart-Time Warrior
-Dialogue: 0,0:18:47.11,0:18:47.11,Sign1,,0,0,0,,{\pos(1775.07,568.5)\fscx126.097\fscy126.097\blur3\an5\frz346.025\fs72}Subject: I'm sorry
-Dialogue: 0,0:18:47.11,0:18:47.15,Sign1,,0,0,0,,{\pos(1779.195,568.688)\fscx126.334\fscy126.334\blur3\an5\frz346.025\fs72}Subject: I'm sorry
-Dialogue: 0,0:18:47.11,0:18:47.11,Sign1,,0,0,0,,{\pos(951.75,595.688)\fscx126.966\fscy126.966\blur3\an5\frz345.725}Goodbye
-Dialogue: 0,0:18:47.11,0:18:47.15,Sign1,,0,0,0,,{\pos(954.75,595.875)\fscx127.188\fscy127.188\blur3\an5\frz345.725}Goodbye
-Dialogue: 0,0:18:47.15,0:18:47.19,Sign1,,0,0,0,,{\pos(1908.375,456)\fscx127.451\fscy127.451\blur3\fs39\an5\frz346.413}From:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\NPart-Time Warrior
-Dialogue: 0,0:18:47.15,0:18:47.19,Sign1,,0,0,0,,{\pos(1782.375,568.688)\fscx126.535\fscy126.535\blur3\an5\frz346.025\fs72}Subject: I'm sorry
-Dialogue: 0,0:18:47.15,0:18:47.19,Sign1,,0,0,0,,{\pos(957,595.875)\fscx127.404\fscy127.404\blur3\an5\frz345.725}Goodbye
-Dialogue: 0,0:18:47.19,0:18:47.27,Sign1,,0,0,0,,{\pos(1910.25,455.812)\fscx127.555\fscy127.555\blur3\fs39\an5\frz346.413}From:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\NPart-Time Warrior
-Dialogue: 0,0:18:47.19,0:18:47.27,Sign1,,0,0,0,,{\pos(1784.25,568.688)\fscx126.684\fscy126.684\blur3\an5\frz346.025\fs72}Subject: I'm sorry
-Dialogue: 0,0:18:47.19,0:18:47.27,Sign1,,0,0,0,,{\pos(958.5,596.062)\fscx127.638\fscy127.638\blur3\an5\frz345.725}Goodbye
-Dialogue: 0,0:18:47.27,0:18:47.31,Sign1,,0,0,0,,{\pos(1910.82,455.812)\fscx127.611\fscy127.611\blur3\fs39\an5\frz346.413}From:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\NPart-Time Warrior
-Dialogue: 0,0:18:47.27,0:18:47.31,Sign1,,0,0,0,,{\pos(1784.82,568.688)\fscx126.717\fscy126.717\blur3\an5\frz346.025\fs72}Subject: I'm sorry
-Dialogue: 0,0:18:47.27,0:18:47.31,Sign1,,0,0,0,,{\pos(958.875,596.062)\fscx127.605\fscy127.605\blur3\an5\frz345.725}Goodbye
+Dialogue: 0,0:18:45.19,0:18:45.27,Sign1,,0,0,0,,{\pos(1522.5,478.5)\fscx100\fscy100\blur3\fs39\an5\frz346.413}From:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\NPart-Time Warrior
+Dialogue: 0,0:18:45.19,0:18:45.27,Sign1,,0,0,0,,{\pos(1398,561)\fscx100\fscy100\blur3\an5\frz346.025\fs72}Subject: I'm sorry
+Dialogue: 0,0:18:45.19,0:18:45.27,Sign1,,0,0,0,,{\pos(679.5,582)\fscx99.999\fscy99.999\blur3\an5\frz345.725}Goodbye
+Dialogue: 0,0:18:45.27,0:18:45.31,Sign1,,0,0,0,,{\pos(1522.5,478.5)\fscx100\fscy100\blur3\fs39\an5\frz346.413}From:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\NPart-Time Warrior
+Dialogue: 0,0:18:45.27,0:18:45.31,Sign1,,0,0,0,,{\pos(1398,561)\fscx99.992\fscy99.992\blur3\an5\frz346.025\fs72}Subject: I'm sorry
+Dialogue: 0,0:18:45.27,0:18:45.31,Sign1,,0,0,0,,{\pos(679.5,582)\fscx100\fscy100\blur3\an5\frz345.725}Goodbye
+Dialogue: 0,0:18:45.31,0:18:45.35,Sign1,,0,0,0,,{\pos(1522.875,478.5)\fscx100\fscy100\blur3\fs39\an5\frz346.413}From:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\NPart-Time Warrior
+Dialogue: 0,0:18:45.31,0:18:45.35,Sign1,,0,0,0,,{\pos(1398.375,561)\fscx99.981\fscy99.981\blur3\an5\frz346.025\fs72}Subject: I'm sorry
+Dialogue: 0,0:18:45.31,0:18:45.35,Sign1,,0,0,0,,{\pos(679.875,582)\fscx99.984\fscy99.984\blur3\an5\frz345.725}Goodbye
+Dialogue: 0,0:18:45.35,0:18:45.35,Sign1,,0,0,0,,{\pos(1524,478.5)\fscx100\fscy100\blur3\fs39\an5\frz346.413}From:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\NPart-Time Warrior
+Dialogue: 0,0:18:45.35,0:18:45.40,Sign1,,0,0,0,,{\pos(1526.07,478.312)\fscx100.255\fscy100.255\blur3\fs39\an5\frz346.413}From:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\NPart-Time Warrior
+Dialogue: 0,0:18:45.35,0:18:45.35,Sign1,,0,0,0,,{\pos(1399.5,561)\fscx100.055\fscy100.055\blur3\an5\frz346.025\fs72}Subject: I'm sorry
+Dialogue: 0,0:18:45.35,0:18:45.40,Sign1,,0,0,0,,{\pos(1401.562,561)\fscx100.183\fscy100.183\blur3\an5\frz346.025\fs72}Subject: I'm sorry
+Dialogue: 0,0:18:45.35,0:18:45.35,Sign1,,0,0,0,,{\pos(680.625,582)\fscx100.028\fscy100.028\blur3\an5\frz345.725}Goodbye
+Dialogue: 0,0:18:45.35,0:18:45.40,Sign1,,0,0,0,,{\pos(681.938,582.188)\fscx100.184\fscy100.184\blur3\an5\frz345.725}Goodbye
+Dialogue: 0,0:18:45.40,0:18:45.44,Sign1,,0,0,0,,{\pos(1528.875,478.125)\fscx100.45\fscy100.45\blur3\fs39\an5\frz346.413}From:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\NPart-Time Warrior
+Dialogue: 0,0:18:45.40,0:18:45.44,Sign1,,0,0,0,,{\pos(1404.188,561)\fscx100.332\fscy100.332\blur3\an5\frz346.025\fs72}Subject: I'm sorry
+Dialogue: 0,0:18:45.40,0:18:45.44,Sign1,,0,0,0,,{\pos(684,582.188)\fscx100.358\fscy100.358\blur3\an5\frz345.725}Goodbye
+Dialogue: 0,0:18:45.44,0:18:45.52,Sign1,,0,0,0,,{\pos(1532.25,477.938)\fscx100.722\fscy100.722\blur3\fs39\an5\frz346.413}From:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\NPart-Time Warrior
+Dialogue: 0,0:18:45.44,0:18:45.52,Sign1,,0,0,0,,{\pos(1407.562,561)\fscx100.544\fscy100.544\blur3\an5\frz346.025\fs72}Subject: I'm sorry
+Dialogue: 0,0:18:45.44,0:18:45.52,Sign1,,0,0,0,,{\pos(686.625,582.188)\fscx100.619\fscy100.619\blur3\an5\frz345.725}Goodbye
+Dialogue: 0,0:18:45.52,0:18:45.56,Sign1,,0,0,0,,{\pos(1536.375,477.562)\fscx101.005\fscy101.005\blur3\fs39\an5\frz346.413}From:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\NPart-Time Warrior
+Dialogue: 0,0:18:45.52,0:18:45.56,Sign1,,0,0,0,,{\pos(1411.5,561)\fscx100.816\fscy100.816\blur3\an5\frz346.025\fs72}Subject: I'm sorry
+Dialogue: 0,0:18:45.52,0:18:45.56,Sign1,,0,0,0,,{\pos(689.438,582.562)\fscx100.936\fscy100.936\blur3\an5\frz345.725}Goodbye
+Dialogue: 0,0:18:45.56,0:18:45.60,Sign1,,0,0,0,,{\pos(1541.07,477.375)\fscx101.285\fscy101.285\blur3\fs39\an5\frz346.413}From:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\NPart-Time Warrior
+Dialogue: 0,0:18:45.56,0:18:45.60,Sign1,,0,0,0,,{\pos(1416.188,561.188)\fscx101.141\fscy101.141\blur3\an5\frz346.025\fs72}Subject: I'm sorry
+Dialogue: 0,0:18:45.56,0:18:45.60,Sign1,,0,0,0,,{\pos(692.812,582.75)\fscx101.306\fscy101.306\blur3\an5\frz345.725}Goodbye
+Dialogue: 0,0:18:45.60,0:18:45.60,Sign1,,0,0,0,,{\pos(1546.5,477)\fscx101.689\fscy101.689\blur3\fs39\an5\frz346.413}From:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\NPart-Time Warrior
+Dialogue: 0,0:18:45.60,0:18:45.65,Sign1,,0,0,0,,{\pos(1552.5,476.812)\fscx102.131\fscy102.131\blur3\fs39\an5\frz346.413}From:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\NPart-Time Warrior
+Dialogue: 0,0:18:45.60,0:18:45.60,Sign1,,0,0,0,,{\pos(1421.625,561.375)\fscx101.46\fscy101.46\blur3\an5\frz346.025\fs72}Subject: I'm sorry
+Dialogue: 0,0:18:45.60,0:18:45.65,Sign1,,0,0,0,,{\pos(1427.625,561.375)\fscx101.864\fscy101.864\blur3\an5\frz346.025\fs72}Subject: I'm sorry
+Dialogue: 0,0:18:45.60,0:18:45.60,Sign1,,0,0,0,,{\pos(696.75,582.75)\fscx101.699\fscy101.699\blur3\an5\frz345.725}Goodbye
+Dialogue: 0,0:18:45.60,0:18:45.65,Sign1,,0,0,0,,{\pos(701.062,583.125)\fscx102.143\fscy102.143\blur3\an5\frz345.725}Goodbye
+Dialogue: 0,0:18:45.65,0:18:45.69,Sign1,,0,0,0,,{\pos(1559.07,476.438)\fscx102.634\fscy102.634\blur3\fs39\an5\frz346.413}From:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\NPart-Time Warrior
+Dialogue: 0,0:18:45.65,0:18:45.69,Sign1,,0,0,0,,{\pos(1434.188,561.562)\fscx102.32\fscy102.32\blur3\an5\frz346.025\fs72}Subject: I'm sorry
+Dialogue: 0,0:18:45.65,0:18:45.69,Sign1,,0,0,0,,{\pos(705.938,583.312)\fscx102.55\fscy102.55\blur3\an5\frz345.725}Goodbye
+Dialogue: 0,0:18:45.69,0:18:45.77,Sign1,,0,0,0,,{\pos(1566.195,475.875)\fscx103.107\fscy103.107\blur3\fs39\an5\frz346.413}From:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\NPart-Time Warrior
+Dialogue: 0,0:18:45.69,0:18:45.77,Sign1,,0,0,0,,{\pos(1441.125,561.562)\fscx102.774\fscy102.774\blur3\an5\frz346.025\fs72}Subject: I'm sorry
+Dialogue: 0,0:18:45.69,0:18:45.77,Sign1,,0,0,0,,{\pos(711,583.5)\fscx103.035\fscy103.035\blur3\an5\frz345.725}Goodbye
+Dialogue: 0,0:18:45.77,0:18:45.81,Sign1,,0,0,0,,{\pos(1573.875,475.5)\fscx103.637\fscy103.637\blur3\fs39\an5\frz346.413}From:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\NPart-Time Warrior
+Dialogue: 0,0:18:45.77,0:18:45.81,Sign1,,0,0,0,,{\pos(1448.812,561.75)\fscx103.36\fscy103.36\blur3\an5\frz346.025\fs72}Subject: I'm sorry
+Dialogue: 0,0:18:45.77,0:18:45.81,Sign1,,0,0,0,,{\pos(716.438,583.875)\fscx103.674\fscy103.674\blur3\an5\frz345.725}Goodbye
+Dialogue: 0,0:18:45.81,0:18:45.85,Sign1,,0,0,0,,{\pos(1582.125,474.938)\fscx104.235\fscy104.235\blur3\fs39\an5\frz346.413}From:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\NPart-Time Warrior
+Dialogue: 0,0:18:45.81,0:18:45.85,Sign1,,0,0,0,,{\pos(1457.062,561.938)\fscx103.926\fscy103.926\blur3\an5\frz346.025\fs72}Subject: I'm sorry
+Dialogue: 0,0:18:45.81,0:18:45.85,Sign1,,0,0,0,,{\pos(722.438,584.062)\fscx104.14\fscy104.14\blur3\an5\frz345.725}Goodbye
+Dialogue: 0,0:18:45.85,0:18:45.85,Sign1,,0,0,0,,{\pos(1590.945,474.562)\fscx104.882\fscy104.882\blur3\fs39\an5\frz346.413}From:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\NPart-Time Warrior
+Dialogue: 0,0:18:45.85,0:18:45.90,Sign1,,0,0,0,,{\pos(1600.125,474)\fscx105.52\fscy105.52\blur3\fs39\an5\frz346.413}From:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\NPart-Time Warrior
+Dialogue: 0,0:18:45.85,0:18:45.85,Sign1,,0,0,0,,{\pos(1465.688,562.125)\fscx104.473\fscy104.473\blur3\an5\frz346.025\fs72}Subject: I'm sorry
+Dialogue: 0,0:18:45.85,0:18:45.90,Sign1,,0,0,0,,{\pos(1474.875,562.312)\fscx105.124\fscy105.124\blur3\an5\frz346.025\fs72}Subject: I'm sorry
+Dialogue: 0,0:18:45.85,0:18:45.85,Sign1,,0,0,0,,{\pos(728.625,584.438)\fscx104.858\fscy104.858\blur3\an5\frz345.725}Goodbye
+Dialogue: 0,0:18:45.85,0:18:45.90,Sign1,,0,0,0,,{\pos(735.188,584.625)\fscx105.425\fscy105.425\blur3\an5\frz345.725}Goodbye
+Dialogue: 0,0:18:45.90,0:18:45.98,Sign1,,0,0,0,,{\pos(1609.695,473.438)\fscx106.208\fscy106.208\blur3\fs39\an5\frz346.413}From:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\NPart-Time Warrior
+Dialogue: 0,0:18:45.90,0:18:45.98,Sign1,,0,0,0,,{\pos(1484.438,562.5)\fscx105.761\fscy105.761\blur3\an5\frz346.025\fs72}Subject: I'm sorry
+Dialogue: 0,0:18:45.90,0:18:45.98,Sign1,,0,0,0,,{\pos(742.125,585.188)\fscx106.14\fscy106.14\blur3\an5\frz345.725}Goodbye
+Dialogue: 0,0:18:45.98,0:18:46.02,Sign1,,0,0,0,,{\pos(1619.82,472.875)\fscx106.983\fscy106.983\blur3\fs39\an5\frz346.413}From:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\NPart-Time Warrior
+Dialogue: 0,0:18:45.98,0:18:46.02,Sign1,,0,0,0,,{\pos(1494.562,562.688)\fscx106.499\fscy106.499\blur3\an5\frz346.025\fs72}Subject: I'm sorry
+Dialogue: 0,0:18:45.98,0:18:46.02,Sign1,,0,0,0,,{\pos(749.438,585.562)\fscx106.925\fscy106.925\blur3\an5\frz345.725}Goodbye
+Dialogue: 0,0:18:46.02,0:18:46.06,Sign1,,0,0,0,,{\pos(1630.32,472.125)\fscx107.71\fscy107.71\blur3\fs39\an5\frz346.413}From:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\NPart-Time Warrior
+Dialogue: 0,0:18:46.02,0:18:46.06,Sign1,,0,0,0,,{\pos(1504.875,562.875)\fscx107.201\fscy107.201\blur3\an5\frz346.025\fs72}Subject: I'm sorry
+Dialogue: 0,0:18:46.02,0:18:46.06,Sign1,,0,0,0,,{\pos(756.938,585.75)\fscx107.624\fscy107.624\blur3\an5\frz345.725}Goodbye
+Dialogue: 0,0:18:46.06,0:18:46.10,Sign1,,0,0,0,,{\pos(1641.195,471.562)\fscx108.459\fscy108.459\blur3\fs39\an5\frz346.413}From:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\NPart-Time Warrior
+Dialogue: 0,0:18:46.06,0:18:46.10,Sign1,,0,0,0,,{\pos(1515.75,563.062)\fscx107.946\fscy107.946\blur3\an5\frz346.025\fs72}Subject: I'm sorry
+Dialogue: 0,0:18:46.06,0:18:46.10,Sign1,,0,0,0,,{\pos(764.812,586.312)\fscx108.409\fscy108.409\blur3\an5\frz345.725}Goodbye
+Dialogue: 0,0:18:46.10,0:18:46.10,Sign1,,0,0,0,,{\pos(1652.25,471)\fscx109.282\fscy109.282\blur3\fs39\an5\frz346.413}From:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\NPart-Time Warrior
+Dialogue: 0,0:18:46.10,0:18:46.15,Sign1,,0,0,0,,{\pos(1663.695,470.25)\fscx110.021\fscy110.021\blur3\fs39\an5\frz346.413}From:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\NPart-Time Warrior
+Dialogue: 0,0:18:46.10,0:18:46.10,Sign1,,0,0,0,,{\pos(1527,563.438)\fscx108.759\fscy108.759\blur3\an5\frz346.025\fs72}Subject: I'm sorry
+Dialogue: 0,0:18:46.10,0:18:46.15,Sign1,,0,0,0,,{\pos(1538.445,563.625)\fscx109.551\fscy109.551\blur3\an5\frz346.025\fs72}Subject: I'm sorry
+Dialogue: 0,0:18:46.10,0:18:46.10,Sign1,,0,0,0,,{\pos(772.875,586.688)\fscx109.211\fscy109.211\blur3\an5\frz345.725}Goodbye
+Dialogue: 0,0:18:46.10,0:18:46.15,Sign1,,0,0,0,,{\pos(781.125,587.062)\fscx110.012\fscy110.012\blur3\an5\frz345.725}Goodbye
+Dialogue: 0,0:18:46.15,0:18:46.23,Sign1,,0,0,0,,{\pos(1675.695,469.5)\fscx110.876\fscy110.876\blur3\fs39\an5\frz346.413}From:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\NPart-Time Warrior
+Dialogue: 0,0:18:46.15,0:18:46.23,Sign1,,0,0,0,,{\pos(1550.07,563.812)\fscx110.376\fscy110.376\blur3\an5\frz346.025\fs72}Subject: I'm sorry
+Dialogue: 0,0:18:46.15,0:18:46.23,Sign1,,0,0,0,,{\pos(789.562,587.438)\fscx110.886\fscy110.886\blur3\an5\frz345.725}Goodbye
+Dialogue: 0,0:18:46.23,0:18:46.27,Sign1,,0,0,0,,{\pos(1687.5,468.938)\fscx111.744\fscy111.744\blur3\fs39\an5\frz346.413}From:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\NPart-Time Warrior
+Dialogue: 0,0:18:46.23,0:18:46.27,Sign1,,0,0,0,,{\pos(1562.25,564.188)\fscx111.22\fscy111.22\blur3\an5\frz346.025\fs72}Subject: I'm sorry
+Dialogue: 0,0:18:46.23,0:18:46.27,Sign1,,0,0,0,,{\pos(798.188,588)\fscx111.732\fscy111.732\blur3\an5\frz345.725}Goodbye
+Dialogue: 0,0:18:46.27,0:18:46.31,Sign1,,0,0,0,,{\pos(1699.875,468)\fscx112.611\fscy112.611\blur3\fs39\an5\frz346.413}From:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\NPart-Time Warrior
+Dialogue: 0,0:18:46.27,0:18:46.31,Sign1,,0,0,0,,{\pos(1574.445,564.375)\fscx112.107\fscy112.107\blur3\an5\frz346.025\fs72}Subject: I'm sorry
+Dialogue: 0,0:18:46.27,0:18:46.31,Sign1,,0,0,0,,{\pos(807,588.375)\fscx112.581\fscy112.581\blur3\an5\frz345.725}Goodbye
+Dialogue: 0,0:18:46.31,0:18:46.36,Sign1,,0,0,0,,{\pos(1712.25,467.438)\fscx113.463\fscy113.463\blur3\fs39\an5\frz346.413}From:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\NPart-Time Warrior
+Dialogue: 0,0:18:46.31,0:18:46.36,Sign1,,0,0,0,,{\pos(1586.625,564.562)\fscx112.959\fscy112.959\blur3\an5\frz346.025\fs72}Subject: I'm sorry
+Dialogue: 0,0:18:46.31,0:18:46.36,Sign1,,0,0,0,,{\pos(816,588.75)\fscx113.503\fscy113.503\blur3\an5\frz345.725}Goodbye
+Dialogue: 0,0:18:46.36,0:18:46.36,Sign1,,0,0,0,,{\pos(1724.82,466.688)\fscx114.374\fscy114.374\blur3\fs39\an5\frz346.413}From:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\NPart-Time Warrior
+Dialogue: 0,0:18:46.36,0:18:46.40,Sign1,,0,0,0,,{\pos(1737.375,465.938)\fscx115.275\fscy115.275\blur3\fs39\an5\frz346.413}From:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\NPart-Time Warrior
+Dialogue: 0,0:18:46.36,0:18:46.36,Sign1,,0,0,0,,{\pos(1599.195,564.938)\fscx113.83\fscy113.83\blur3\an5\frz346.025\fs72}Subject: I'm sorry
+Dialogue: 0,0:18:46.36,0:18:46.40,Sign1,,0,0,0,,{\pos(1611.75,565.125)\fscx114.727\fscy114.727\blur3\an5\frz346.025\fs72}Subject: I'm sorry
+Dialogue: 0,0:18:46.36,0:18:46.36,Sign1,,0,0,0,,{\pos(825,589.312)\fscx114.366\fscy114.366\blur3\an5\frz345.725}Goodbye
+Dialogue: 0,0:18:46.36,0:18:46.40,Sign1,,0,0,0,,{\pos(834,589.688)\fscx115.241\fscy115.241\blur3\an5\frz345.725}Goodbye
+Dialogue: 0,0:18:46.40,0:18:46.48,Sign1,,0,0,0,,{\pos(1749.945,465.188)\fscx116.163\fscy116.163\blur3\fs39\an5\frz346.413}From:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\NPart-Time Warrior
+Dialogue: 0,0:18:46.40,0:18:46.48,Sign1,,0,0,0,,{\pos(1624.32,565.5)\fscx115.594\fscy115.594\blur3\an5\frz346.025\fs72}Subject: I'm sorry
+Dialogue: 0,0:18:46.40,0:18:46.48,Sign1,,0,0,0,,{\pos(843,590.25)\fscx116.158\fscy116.158\blur3\an5\frz345.725}Goodbye
+Dialogue: 0,0:18:46.48,0:18:46.52,Sign1,,0,0,0,,{\pos(1762.5,464.438)\fscx117.042\fscy117.042\blur3\fs39\an5\frz346.413}From:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\NPart-Time Warrior
+Dialogue: 0,0:18:46.48,0:18:46.52,Sign1,,0,0,0,,{\pos(1636.875,565.688)\fscx116.474\fscy116.474\blur3\an5\frz346.025\fs72}Subject: I'm sorry
+Dialogue: 0,0:18:46.48,0:18:46.52,Sign1,,0,0,0,,{\pos(852.188,590.625)\fscx117.047\fscy117.047\blur3\an5\frz345.725}Goodbye
+Dialogue: 0,0:18:46.52,0:18:46.56,Sign1,,0,0,0,,{\pos(1775.07,463.688)\fscx117.959\fscy117.959\blur3\fs39\an5\frz346.413}From:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\NPart-Time Warrior
+Dialogue: 0,0:18:46.52,0:18:46.56,Sign1,,0,0,0,,{\pos(1649.445,565.875)\fscx117.362\fscy117.362\blur3\an5\frz346.025\fs72}Subject: I'm sorry
+Dialogue: 0,0:18:46.52,0:18:46.56,Sign1,,0,0,0,,{\pos(861.188,591.188)\fscx117.935\fscy117.935\blur3\an5\frz345.725}Goodbye
+Dialogue: 0,0:18:46.56,0:18:46.56,Sign1,,0,0,0,,{\pos(1787.445,462.938)\fscx118.802\fscy118.802\blur3\fs39\an5\frz346.413}From:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\NPart-Time Warrior
+Dialogue: 0,0:18:46.56,0:18:46.61,Sign1,,0,0,0,,{\pos(1799.625,462.375)\fscx119.692\fscy119.692\blur3\fs39\an5\frz346.413}From:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\NPart-Time Warrior
+Dialogue: 0,0:18:46.56,0:18:46.56,Sign1,,0,0,0,,{\pos(1661.625,566.25)\fscx118.207\fscy118.207\blur3\an5\frz346.025\fs72}Subject: I'm sorry
+Dialogue: 0,0:18:46.56,0:18:46.61,Sign1,,0,0,0,,{\pos(1673.82,566.438)\fscx119.031\fscy119.031\blur3\an5\frz346.025\fs72}Subject: I'm sorry
+Dialogue: 0,0:18:46.56,0:18:46.56,Sign1,,0,0,0,,{\pos(870,591.562)\fscx118.843\fscy118.843\blur3\an5\frz345.725}Goodbye
+Dialogue: 0,0:18:46.56,0:18:46.61,Sign1,,0,0,0,,{\pos(878.812,591.938)\fscx119.685\fscy119.685\blur3\an5\frz345.725}Goodbye
+Dialogue: 0,0:18:46.61,0:18:46.65,Sign1,,0,0,0,,{\pos(1811.625,461.625)\fscx120.555\fscy120.555\blur3\fs39\an5\frz346.413}From:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\NPart-Time Warrior
+Dialogue: 0,0:18:46.61,0:18:46.65,Sign1,,0,0,0,,{\pos(1685.82,566.625)\fscx119.89\fscy119.89\blur3\an5\frz346.025\fs72}Subject: I'm sorry
+Dialogue: 0,0:18:46.61,0:18:46.65,Sign1,,0,0,0,,{\pos(887.438,592.5)\fscx120.562\fscy120.562\blur3\an5\frz345.725}Goodbye
+Dialogue: 0,0:18:46.65,0:18:46.73,Sign1,,0,0,0,,{\pos(1823.25,460.875)\fscx121.387\fscy121.387\blur3\fs39\an5\frz346.413}From:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\NPart-Time Warrior
+Dialogue: 0,0:18:46.65,0:18:46.73,Sign1,,0,0,0,,{\pos(1697.445,567)\fscx120.687\fscy120.687\blur3\an5\frz346.025\fs72}Subject: I'm sorry
+Dialogue: 0,0:18:46.65,0:18:46.73,Sign1,,0,0,0,,{\pos(895.875,592.875)\fscx121.405\fscy121.405\blur3\an5\frz345.725}Goodbye
+Dialogue: 0,0:18:46.73,0:18:46.77,Sign1,,0,0,0,,{\pos(1834.5,460.312)\fscx122.177\fscy122.177\blur3\fs39\an5\frz346.413}From:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\NPart-Time Warrior
+Dialogue: 0,0:18:46.73,0:18:46.77,Sign1,,0,0,0,,{\pos(1708.5,567.188)\fscx121.433\fscy121.433\blur3\an5\frz346.025\fs72}Subject: I'm sorry
+Dialogue: 0,0:18:46.73,0:18:46.77,Sign1,,0,0,0,,{\pos(903.938,593.25)\fscx122.12\fscy122.12\blur3\an5\frz345.725}Goodbye
+Dialogue: 0,0:18:46.77,0:18:46.81,Sign1,,0,0,0,,{\pos(1845.195,459.75)\fscx122.951\fscy122.951\blur3\fs39\an5\frz346.413}From:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\NPart-Time Warrior
+Dialogue: 0,0:18:46.77,0:18:46.81,Sign1,,0,0,0,,{\pos(1719.375,567.375)\fscx122.239\fscy122.239\blur3\an5\frz346.025\fs72}Subject: I'm sorry
+Dialogue: 0,0:18:46.77,0:18:46.81,Sign1,,0,0,0,,{\pos(911.625,593.625)\fscx122.946\fscy122.946\blur3\an5\frz345.725}Goodbye
+Dialogue: 0,0:18:46.81,0:18:46.81,Sign1,,0,0,0,,{\pos(1855.5,459)\fscx123.654\fscy123.654\blur3\fs39\an5\frz346.413}From:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\NPart-Time Warrior
+Dialogue: 0,0:18:46.81,0:18:46.86,Sign1,,0,0,0,,{\pos(1865.07,458.438)\fscx124.334\fscy124.334\blur3\fs39\an5\frz346.413}From:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\NPart-Time Warrior
+Dialogue: 0,0:18:46.81,0:18:46.81,Sign1,,0,0,0,,{\pos(1729.5,567.562)\fscx122.957\fscy122.957\blur3\an5\frz346.025\fs72}Subject: I'm sorry
+Dialogue: 0,0:18:46.81,0:18:46.86,Sign1,,0,0,0,,{\pos(1739.25,567.75)\fscx123.634\fscy123.634\blur3\an5\frz346.025\fs72}Subject: I'm sorry
+Dialogue: 0,0:18:46.81,0:18:46.81,Sign1,,0,0,0,,{\pos(918.938,594)\fscx123.617\fscy123.617\blur3\an5\frz345.725}Goodbye
+Dialogue: 0,0:18:46.81,0:18:46.86,Sign1,,0,0,0,,{\pos(925.875,594.375)\fscx124.317\fscy124.317\blur3\an5\frz345.725}Goodbye
+Dialogue: 0,0:18:46.86,0:18:46.90,Sign1,,0,0,0,,{\pos(1873.875,458.062)\fscx125.028\fscy125.028\blur3\fs39\an5\frz346.413}From:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\NPart-Time Warrior
+Dialogue: 0,0:18:46.86,0:18:46.90,Sign1,,0,0,0,,{\pos(1748.07,567.938)\fscx124.211\fscy124.211\blur3\an5\frz346.025\fs72}Subject: I'm sorry
+Dialogue: 0,0:18:46.86,0:18:46.90,Sign1,,0,0,0,,{\pos(932.25,594.75)\fscx124.937\fscy124.937\blur3\an5\frz345.725}Goodbye
+Dialogue: 0,0:18:46.90,0:18:46.98,Sign1,,0,0,0,,{\pos(1881.945,457.5)\fscx125.563\fscy125.563\blur3\fs39\an5\frz346.413}From:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\NPart-Time Warrior
+Dialogue: 0,0:18:46.90,0:18:46.98,Sign1,,0,0,0,,{\pos(1756.125,568.125)\fscx124.767\fscy124.767\blur3\an5\frz346.025\fs72}Subject: I'm sorry
+Dialogue: 0,0:18:46.90,0:18:46.98,Sign1,,0,0,0,,{\pos(938.062,594.938)\fscx125.558\fscy125.558\blur3\an5\frz345.725}Goodbye
+Dialogue: 0,0:18:46.98,0:18:47.02,Sign1,,0,0,0,,{\pos(1889.25,457.125)\fscx126.087\fscy126.087\blur3\fs39\an5\frz346.413}From:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\NPart-Time Warrior
+Dialogue: 0,0:18:46.98,0:18:47.02,Sign1,,0,0,0,,{\pos(1763.25,568.312)\fscx125.256\fscy125.256\blur3\an5\frz346.025\fs72}Subject: I'm sorry
+Dialogue: 0,0:18:46.98,0:18:47.02,Sign1,,0,0,0,,{\pos(943.312,595.312)\fscx125.981\fscy125.981\blur3\an5\frz345.725}Goodbye
+Dialogue: 0,0:18:47.02,0:18:47.06,Sign1,,0,0,0,,{\pos(1895.625,456.75)\fscx126.519\fscy126.519\blur3\fs39\an5\frz346.413}From:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\NPart-Time Warrior
+Dialogue: 0,0:18:47.02,0:18:47.06,Sign1,,0,0,0,,{\pos(1769.82,568.5)\fscx125.723\fscy125.723\blur3\an5\frz346.025\fs72}Subject: I'm sorry
+Dialogue: 0,0:18:47.02,0:18:47.06,Sign1,,0,0,0,,{\pos(948,595.5)\fscx126.499\fscy126.499\blur3\an5\frz345.725}Goodbye
+Dialogue: 0,0:18:47.06,0:18:47.06,Sign1,,0,0,0,,{\pos(1900.875,456.375)\fscx126.872\fscy126.872\blur3\fs39\an5\frz346.413}From:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\NPart-Time Warrior
+Dialogue: 0,0:18:47.06,0:18:47.11,Sign1,,0,0,0,,{\pos(1905.195,456.188)\fscx127.21\fscy127.21\blur3\fs39\an5\frz346.413}From:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\NPart-Time Warrior
+Dialogue: 0,0:18:47.06,0:18:47.06,Sign1,,0,0,0,,{\pos(1775.07,568.5)\fscx126.097\fscy126.097\blur3\an5\frz346.025\fs72}Subject: I'm sorry
+Dialogue: 0,0:18:47.06,0:18:47.11,Sign1,,0,0,0,,{\pos(1779.195,568.688)\fscx126.334\fscy126.334\blur3\an5\frz346.025\fs72}Subject: I'm sorry
+Dialogue: 0,0:18:47.06,0:18:47.06,Sign1,,0,0,0,,{\pos(951.75,595.688)\fscx126.966\fscy126.966\blur3\an5\frz345.725}Goodbye
+Dialogue: 0,0:18:47.06,0:18:47.11,Sign1,,0,0,0,,{\pos(954.75,595.875)\fscx127.188\fscy127.188\blur3\an5\frz345.725}Goodbye
+Dialogue: 0,0:18:47.11,0:18:47.15,Sign1,,0,0,0,,{\pos(1908.375,456)\fscx127.451\fscy127.451\blur3\fs39\an5\frz346.413}From:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\NPart-Time Warrior
+Dialogue: 0,0:18:47.11,0:18:47.15,Sign1,,0,0,0,,{\pos(1782.375,568.688)\fscx126.535\fscy126.535\blur3\an5\frz346.025\fs72}Subject: I'm sorry
+Dialogue: 0,0:18:47.11,0:18:47.15,Sign1,,0,0,0,,{\pos(957,595.875)\fscx127.404\fscy127.404\blur3\an5\frz345.725}Goodbye
+Dialogue: 0,0:18:47.15,0:18:47.23,Sign1,,0,0,0,,{\pos(1910.25,455.812)\fscx127.555\fscy127.555\blur3\fs39\an5\frz346.413}From:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\NPart-Time Warrior
+Dialogue: 0,0:18:47.15,0:18:47.23,Sign1,,0,0,0,,{\pos(1784.25,568.688)\fscx126.684\fscy126.684\blur3\an5\frz346.025\fs72}Subject: I'm sorry
+Dialogue: 0,0:18:47.15,0:18:47.23,Sign1,,0,0,0,,{\pos(958.5,596.062)\fscx127.638\fscy127.638\blur3\an5\frz345.725}Goodbye
+Dialogue: 0,0:18:47.23,0:18:47.27,Sign1,,0,0,0,,{\pos(1910.82,455.812)\fscx127.611\fscy127.611\blur3\fs39\an5\frz346.413}From:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\NPart-Time Warrior
+Dialogue: 0,0:18:47.23,0:18:47.27,Sign1,,0,0,0,,{\pos(1784.82,568.688)\fscx126.717\fscy126.717\blur3\an5\frz346.025\fs72}Subject: I'm sorry
+Dialogue: 0,0:18:47.23,0:18:47.27,Sign1,,0,0,0,,{\pos(958.875,596.062)\fscx127.605\fscy127.605\blur3\an5\frz345.725}Goodbye
 Dialogue: 0,0:18:47.31,0:18:47.98,Default,,0,0,0,,Damn her!
-Dialogue: 0,0:18:47.31,0:18:47.36,Sign1,,0,0,0,,{\pos(1910.82,455.812)\fscx127.615\fscy127.615\blur3\fs39\an5\frz346.413}From:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\NPart-Time Warrior
-Dialogue: 0,0:18:47.31,0:18:47.36,Sign1,,0,0,0,,{\pos(1784.82,568.688)\fscx126.72\fscy126.72\blur3\an5\frz346.025\fs72}Subject: I'm sorry
+Dialogue: 0,0:18:47.27,0:18:47.31,Sign1,,0,0,0,,{\pos(1910.82,455.812)\fscx127.615\fscy127.615\blur3\fs39\an5\frz346.413}From:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\NPart-Time Warrior
+Dialogue: 0,0:18:47.27,0:18:47.31,Sign1,,0,0,0,,{\pos(1784.82,568.688)\fscx126.72\fscy126.72\blur3\an5\frz346.025\fs72}Subject: I'm sorry
+Dialogue: 0,0:18:47.27,0:18:47.31,Sign1,,0,0,0,,{\pos(958.875,596.062)\fscx127.603\fscy127.603\blur3\an5\frz345.725}Goodbye
+Dialogue: 0,0:18:47.31,0:18:47.31,Sign1,,0,0,0,,{\pos(1910.82,455.812)\fscx127.614\fscy127.614\blur3\fs39\an5\frz346.413}From:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\NPart-Time Warrior
+Dialogue: 0,0:18:47.31,0:18:47.36,Sign1,,0,0,0,,{\pos(1910.82,455.812)\fscx127.614\fscy127.614\blur3\fs39\an5\frz346.413}From:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\NPart-Time Warrior
+Dialogue: 0,0:18:47.31,0:18:47.31,Sign1,,0,0,0,,{\pos(1784.82,568.688)\fscx126.718\fscy126.718\blur3\an5\frz346.025\fs72}Subject: I'm sorry
+Dialogue: 0,0:18:47.31,0:18:47.36,Sign1,,0,0,0,,{\pos(1784.82,568.688)\fscx126.717\fscy126.717\blur3\an5\frz346.025\fs72}Subject: I'm sorry
+Dialogue: 0,0:18:47.31,0:18:47.31,Sign1,,0,0,0,,{\pos(958.875,596.062)\fscx127.604\fscy127.604\blur3\an5\frz345.725}Goodbye
 Dialogue: 0,0:18:47.31,0:18:47.36,Sign1,,0,0,0,,{\pos(958.875,596.062)\fscx127.603\fscy127.603\blur3\an5\frz345.725}Goodbye
-Dialogue: 0,0:18:47.36,0:18:47.36,Sign1,,0,0,0,,{\pos(1910.82,455.812)\fscx127.614\fscy127.614\blur3\fs39\an5\frz346.413}From:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\NPart-Time Warrior
 Dialogue: 0,0:18:47.36,0:18:47.40,Sign1,,0,0,0,,{\pos(1910.82,455.812)\fscx127.614\fscy127.614\blur3\fs39\an5\frz346.413}From:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\NPart-Time Warrior
-Dialogue: 0,0:18:47.36,0:18:47.36,Sign1,,0,0,0,,{\pos(1784.82,568.688)\fscx126.718\fscy126.718\blur3\an5\frz346.025\fs72}Subject: I'm sorry
-Dialogue: 0,0:18:47.36,0:18:47.40,Sign1,,0,0,0,,{\pos(1784.82,568.688)\fscx126.717\fscy126.717\blur3\an5\frz346.025\fs72}Subject: I'm sorry
-Dialogue: 0,0:18:47.36,0:18:47.36,Sign1,,0,0,0,,{\pos(958.875,596.062)\fscx127.604\fscy127.604\blur3\an5\frz345.725}Goodbye
-Dialogue: 0,0:18:47.36,0:18:47.40,Sign1,,0,0,0,,{\pos(958.875,596.062)\fscx127.603\fscy127.603\blur3\an5\frz345.725}Goodbye
-Dialogue: 0,0:18:47.40,0:18:47.44,Sign1,,0,0,0,,{\pos(1910.82,455.812)\fscx127.614\fscy127.614\blur3\fs39\an5\frz346.413}From:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\NPart-Time Warrior
-Dialogue: 0,0:18:47.40,0:18:47.44,Sign1,,0,0,0,,{\pos(1784.82,568.688)\fscx126.716\fscy126.716\blur3\an5\frz346.025\fs72}Subject: I'm sorry
-Dialogue: 0,0:18:47.40,0:18:47.44,Sign1,,0,0,0,,{\pos(958.875,596.062)\fscx127.613\fscy127.613\blur3\an5\frz345.725}Goodbye
-Dialogue: 0,0:18:47.44,0:18:47.52,Sign1,,0,0,0,,{\pos(1910.82,455.812)\fscx127.614\fscy127.614\blur3\fs39\an5\frz346.413}From:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\NPart-Time Warrior
-Dialogue: 0,0:18:47.44,0:18:47.52,Sign1,,0,0,0,,{\pos(1784.82,568.688)\fscx126.716\fscy126.716\blur3\an5\frz346.025\fs72}Subject: I'm sorry
-Dialogue: 0,0:18:47.44,0:18:47.52,Sign1,,0,0,0,,{\pos(958.875,596.062)\fscx127.612\fscy127.612\blur3\an5\frz345.725}Goodbye
-Dialogue: 0,0:18:47.52,0:18:47.56,Sign1,,0,0,0,,{\pos(1910.82,455.812)\fscx127.613\fscy127.613\blur3\fs39\an5\frz346.413}From:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\NPart-Time Warrior
-Dialogue: 0,0:18:47.52,0:18:47.56,Sign1,,0,0,0,,{\pos(1784.82,568.688)\fscx126.714\fscy126.714\blur3\an5\frz346.025\fs72}Subject: I'm sorry
+Dialogue: 0,0:18:47.36,0:18:47.40,Sign1,,0,0,0,,{\pos(1784.82,568.688)\fscx126.716\fscy126.716\blur3\an5\frz346.025\fs72}Subject: I'm sorry
+Dialogue: 0,0:18:47.36,0:18:47.40,Sign1,,0,0,0,,{\pos(958.875,596.062)\fscx127.613\fscy127.613\blur3\an5\frz345.725}Goodbye
+Dialogue: 0,0:18:47.40,0:18:47.48,Sign1,,0,0,0,,{\pos(1910.82,455.812)\fscx127.614\fscy127.614\blur3\fs39\an5\frz346.413}From:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\NPart-Time Warrior
+Dialogue: 0,0:18:47.40,0:18:47.48,Sign1,,0,0,0,,{\pos(1784.82,568.688)\fscx126.716\fscy126.716\blur3\an5\frz346.025\fs72}Subject: I'm sorry
+Dialogue: 0,0:18:47.40,0:18:47.48,Sign1,,0,0,0,,{\pos(958.875,596.062)\fscx127.612\fscy127.612\blur3\an5\frz345.725}Goodbye
+Dialogue: 0,0:18:47.48,0:18:47.52,Sign1,,0,0,0,,{\pos(1910.82,455.812)\fscx127.613\fscy127.613\blur3\fs39\an5\frz346.413}From:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\NPart-Time Warrior
+Dialogue: 0,0:18:47.48,0:18:47.52,Sign1,,0,0,0,,{\pos(1784.82,568.688)\fscx126.714\fscy126.714\blur3\an5\frz346.025\fs72}Subject: I'm sorry
+Dialogue: 0,0:18:47.48,0:18:47.52,Sign1,,0,0,0,,{\pos(958.875,596.062)\fscx127.612\fscy127.612\blur3\an5\frz345.725}Goodbye
+Dialogue: 0,0:18:47.52,0:18:47.56,Sign1,,0,0,0,,{\pos(1910.82,455.812)\fscx127.612\fscy127.612\blur3\fs39\an5\frz346.413}From:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\NPart-Time Warrior
+Dialogue: 0,0:18:47.52,0:18:47.56,Sign1,,0,0,0,,{\pos(1784.82,568.688)\fscx126.71\fscy126.71\blur3\an5\frz346.025\fs72}Subject: I'm sorry
 Dialogue: 0,0:18:47.52,0:18:47.56,Sign1,,0,0,0,,{\pos(958.875,596.062)\fscx127.612\fscy127.612\blur3\an5\frz345.725}Goodbye
+Dialogue: 0,0:18:47.56,0:18:47.56,Sign1,,0,0,0,,{\pos(1910.82,455.812)\fscx127.613\fscy127.613\blur3\fs39\an5\frz346.413}From:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\NPart-Time Warrior
 Dialogue: 0,0:18:47.56,0:18:47.61,Sign1,,0,0,0,,{\pos(1910.82,455.812)\fscx127.612\fscy127.612\blur3\fs39\an5\frz346.413}From:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\NPart-Time Warrior
-Dialogue: 0,0:18:47.56,0:18:47.61,Sign1,,0,0,0,,{\pos(1784.82,568.688)\fscx126.71\fscy126.71\blur3\an5\frz346.025\fs72}Subject: I'm sorry
+Dialogue: 0,0:18:47.56,0:18:47.56,Sign1,,0,0,0,,{\pos(1784.82,568.688)\fscx126.709\fscy126.709\blur3\an5\frz346.025\fs72}Subject: I'm sorry
+Dialogue: 0,0:18:47.56,0:18:47.61,Sign1,,0,0,0,,{\pos(1784.82,568.688)\fscx126.707\fscy126.707\blur3\an5\frz346.025\fs72}Subject: I'm sorry
+Dialogue: 0,0:18:47.56,0:18:47.56,Sign1,,0,0,0,,{\pos(958.875,596.062)\fscx127.612\fscy127.612\blur3\an5\frz345.725}Goodbye
 Dialogue: 0,0:18:47.56,0:18:47.61,Sign1,,0,0,0,,{\pos(958.875,596.062)\fscx127.612\fscy127.612\blur3\an5\frz345.725}Goodbye
-Dialogue: 0,0:18:47.61,0:18:47.61,Sign1,,0,0,0,,{\pos(1910.82,455.812)\fscx127.613\fscy127.613\blur3\fs39\an5\frz346.413}From:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\NPart-Time Warrior
-Dialogue: 0,0:18:47.61,0:18:47.65,Sign1,,0,0,0,,{\pos(1910.82,455.812)\fscx127.612\fscy127.612\blur3\fs39\an5\frz346.413}From:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\NPart-Time Warrior
-Dialogue: 0,0:18:47.61,0:18:47.61,Sign1,,0,0,0,,{\pos(1784.82,568.688)\fscx126.709\fscy126.709\blur3\an5\frz346.025\fs72}Subject: I'm sorry
-Dialogue: 0,0:18:47.61,0:18:47.65,Sign1,,0,0,0,,{\pos(1784.82,568.688)\fscx126.707\fscy126.707\blur3\an5\frz346.025\fs72}Subject: I'm sorry
-Dialogue: 0,0:18:47.61,0:18:47.61,Sign1,,0,0,0,,{\pos(958.875,596.062)\fscx127.612\fscy127.612\blur3\an5\frz345.725}Goodbye
-Dialogue: 0,0:18:47.61,0:18:47.65,Sign1,,0,0,0,,{\pos(958.875,596.062)\fscx127.612\fscy127.612\blur3\an5\frz345.725}Goodbye
-Dialogue: 0,0:18:47.65,0:18:47.73,Sign1,,0,0,0,,{\pos(1910.82,455.812)\fscx127.612\fscy127.612\blur3\fs39\an5\frz346.413}From:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\NPart-Time Warrior
-Dialogue: 0,0:18:47.65,0:18:47.73,Sign1,,0,0,0,,{\pos(1784.82,568.688)\fscx126.706\fscy126.706\blur3\an5\frz346.025\fs72}Subject: I'm sorry
-Dialogue: 0,0:18:47.65,0:18:47.73,Sign1,,0,0,0,,{\pos(958.875,596.062)\fscx127.612\fscy127.612\blur3\an5\frz345.725}Goodbye
+Dialogue: 0,0:18:47.61,0:18:47.69,Sign1,,0,0,0,,{\pos(1910.82,455.812)\fscx127.612\fscy127.612\blur3\fs39\an5\frz346.413}From:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\NPart-Time Warrior
+Dialogue: 0,0:18:47.61,0:18:47.69,Sign1,,0,0,0,,{\pos(1784.82,568.688)\fscx126.706\fscy126.706\blur3\an5\frz346.025\fs72}Subject: I'm sorry
+Dialogue: 0,0:18:47.61,0:18:47.69,Sign1,,0,0,0,,{\pos(958.875,596.062)\fscx127.612\fscy127.612\blur3\an5\frz345.725}Goodbye
+Dialogue: 0,0:18:47.69,0:18:47.73,Sign1,,0,0,0,,{\pos(1910.82,455.812)\fscx127.611\fscy127.611\blur3\fs39\an5\frz346.413}From:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\NPart-Time Warrior
+Dialogue: 0,0:18:47.69,0:18:47.73,Sign1,,0,0,0,,{\pos(1784.82,568.688)\fscx126.705\fscy126.705\blur3\an5\frz346.025\fs72}Subject: I'm sorry
+Dialogue: 0,0:18:47.69,0:18:47.73,Sign1,,0,0,0,,{\pos(958.875,596.062)\fscx127.612\fscy127.612\blur3\an5\frz345.725}Goodbye
 Dialogue: 0,0:18:47.73,0:18:47.77,Sign1,,0,0,0,,{\pos(1910.82,455.812)\fscx127.611\fscy127.611\blur3\fs39\an5\frz346.413}From:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\NPart-Time Warrior
-Dialogue: 0,0:18:47.73,0:18:47.77,Sign1,,0,0,0,,{\pos(1784.82,568.688)\fscx126.705\fscy126.705\blur3\an5\frz346.025\fs72}Subject: I'm sorry
+Dialogue: 0,0:18:47.73,0:18:47.77,Sign1,,0,0,0,,{\pos(1784.82,568.688)\fscx126.704\fscy126.704\blur3\an5\frz346.025\fs72}Subject: I'm sorry
 Dialogue: 0,0:18:47.73,0:18:47.77,Sign1,,0,0,0,,{\pos(958.875,596.062)\fscx127.612\fscy127.612\blur3\an5\frz345.725}Goodbye
 Dialogue: 0,0:18:47.77,0:18:47.81,Sign1,,0,0,0,,{\pos(1910.82,455.812)\fscx127.611\fscy127.611\blur3\fs39\an5\frz346.413}From:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\NPart-Time Warrior
-Dialogue: 0,0:18:47.77,0:18:47.81,Sign1,,0,0,0,,{\pos(1784.82,568.688)\fscx126.704\fscy126.704\blur3\an5\frz346.025\fs72}Subject: I'm sorry
+Dialogue: 0,0:18:47.77,0:18:47.81,Sign1,,0,0,0,,{\pos(1784.82,568.688)\fscx126.703\fscy126.703\blur3\an5\frz346.025\fs72}Subject: I'm sorry
 Dialogue: 0,0:18:47.77,0:18:47.81,Sign1,,0,0,0,,{\pos(958.875,596.062)\fscx127.612\fscy127.612\blur3\an5\frz345.725}Goodbye
-Dialogue: 0,0:18:47.81,0:18:47.86,Sign1,,0,0,0,,{\pos(1910.82,455.812)\fscx127.611\fscy127.611\blur3\fs39\an5\frz346.413}From:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\NPart-Time Warrior
-Dialogue: 0,0:18:47.81,0:18:47.86,Sign1,,0,0,0,,{\pos(1784.82,568.688)\fscx126.703\fscy126.703\blur3\an5\frz346.025\fs72}Subject: I'm sorry
+Dialogue: 0,0:18:47.81,0:18:47.81,Sign1,,0,0,0,,{\pos(1910.82,455.812)\fscx127.611\fscy127.611\blur3\fs39\an5\frz346.413}From:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\NPart-Time Warrior
+Dialogue: 0,0:18:47.81,0:18:47.86,Sign1,,0,0,0,,{\pos(1910.82,455.812)\fscx127.61\fscy127.61\blur3\fs39\an5\frz346.413}From:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\NPart-Time Warrior
+Dialogue: 0,0:18:47.81,0:18:47.81,Sign1,,0,0,0,,{\pos(1784.82,568.688)\fscx126.702\fscy126.702\blur3\an5\frz346.025\fs72}Subject: I'm sorry
+Dialogue: 0,0:18:47.81,0:18:47.86,Sign1,,0,0,0,,{\pos(1784.82,568.688)\fscx126.701\fscy126.701\blur3\an5\frz346.025\fs72}Subject: I'm sorry
+Dialogue: 0,0:18:47.81,0:18:47.81,Sign1,,0,0,0,,{\pos(958.875,596.062)\fscx127.612\fscy127.612\blur3\an5\frz345.725}Goodbye
 Dialogue: 0,0:18:47.81,0:18:47.86,Sign1,,0,0,0,,{\pos(958.875,596.062)\fscx127.612\fscy127.612\blur3\an5\frz345.725}Goodbye
-Dialogue: 0,0:18:47.86,0:18:47.86,Sign1,,0,0,0,,{\pos(1910.82,455.812)\fscx127.611\fscy127.611\blur3\fs39\an5\frz346.413}From:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\NPart-Time Warrior
-Dialogue: 0,0:18:47.86,0:18:47.90,Sign1,,0,0,0,,{\pos(1910.82,455.812)\fscx127.61\fscy127.61\blur3\fs39\an5\frz346.413}From:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\NPart-Time Warrior
-Dialogue: 0,0:18:47.86,0:18:47.86,Sign1,,0,0,0,,{\pos(1784.82,568.688)\fscx126.702\fscy126.702\blur3\an5\frz346.025\fs72}Subject: I'm sorry
-Dialogue: 0,0:18:47.86,0:18:47.90,Sign1,,0,0,0,,{\pos(1784.82,568.688)\fscx126.701\fscy126.701\blur3\an5\frz346.025\fs72}Subject: I'm sorry
-Dialogue: 0,0:18:47.86,0:18:47.86,Sign1,,0,0,0,,{\pos(958.875,596.062)\fscx127.612\fscy127.612\blur3\an5\frz345.725}Goodbye
-Dialogue: 0,0:18:47.86,0:18:47.90,Sign1,,0,0,0,,{\pos(958.875,596.062)\fscx127.612\fscy127.612\blur3\an5\frz345.725}Goodbye
-Dialogue: 0,0:18:47.90,0:18:47.98,Sign1,,0,0,0,,{\pos(1910.82,455.812)\fscx127.61\fscy127.61\blur3\fs39\an5\frz346.413}From:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\NPart-Time Warrior
-Dialogue: 0,0:18:47.90,0:18:47.98,Sign1,,0,0,0,,{\pos(1784.82,568.688)\fscx126.7\fscy126.7\blur3\an5\frz346.025\fs72}Subject: I'm sorry
-Dialogue: 0,0:18:47.90,0:18:47.98,Sign1,,0,0,0,,{\pos(958.875,596.062)\fscx127.612\fscy127.612\blur3\an5\frz345.725}Goodbye
-Dialogue: 0,0:18:47.98,0:18:48.02,Sign1,,0,0,0,,{\pos(1910.82,455.812)\fscx127.61\fscy127.61\blur3\fs39\an5\frz346.413}From:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\NPart-Time Warrior
-Dialogue: 0,0:18:47.98,0:18:48.02,Sign1,,0,0,0,,{\pos(1784.82,568.688)\fscx126.699\fscy126.699\blur3\an5\frz346.025\fs72}Subject: I'm sorry
-Dialogue: 0,0:18:47.98,0:18:48.02,Sign1,,0,0,0,,{\pos(958.875,596.062)\fscx127.612\fscy127.612\blur3\an5\frz345.725}Goodbye
+Dialogue: 0,0:18:47.86,0:18:47.94,Sign1,,0,0,0,,{\pos(1910.82,455.812)\fscx127.61\fscy127.61\blur3\fs39\an5\frz346.413}From:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\NPart-Time Warrior
+Dialogue: 0,0:18:47.86,0:18:47.94,Sign1,,0,0,0,,{\pos(1784.82,568.688)\fscx126.7\fscy126.7\blur3\an5\frz346.025\fs72}Subject: I'm sorry
+Dialogue: 0,0:18:47.86,0:18:47.94,Sign1,,0,0,0,,{\pos(958.875,596.062)\fscx127.612\fscy127.612\blur3\an5\frz345.725}Goodbye
+Dialogue: 0,0:18:47.94,0:18:47.98,Sign1,,0,0,0,,{\pos(1910.82,455.812)\fscx127.61\fscy127.61\blur3\fs39\an5\frz346.413}From:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\NPart-Time Warrior
+Dialogue: 0,0:18:47.94,0:18:47.98,Sign1,,0,0,0,,{\pos(1784.82,568.688)\fscx126.699\fscy126.699\blur3\an5\frz346.025\fs72}Subject: I'm sorry
+Dialogue: 0,0:18:47.94,0:18:47.98,Sign1,,0,0,0,,{\pos(958.875,596.062)\fscx127.612\fscy127.612\blur3\an5\frz345.725}Goodbye
 Dialogue: 0,0:18:56.70,0:19:00.12,Default,,0,0,0,,Does she plan to leave the city by herself?
 Dialogue: 0,0:19:00.99,0:19:05.08,Default,,0,0,0,,I, Hououin Kyouma, will not allow that!
 Dialogue: 0,0:19:09.75,0:19:10.30,Default,,0,0,0,,Damn it!
