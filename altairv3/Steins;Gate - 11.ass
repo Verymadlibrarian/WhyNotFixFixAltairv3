@@ -29,8 +29,9 @@ Video File: //192.168.1.99/mnt/12tb/media/_downloads/temp/[AOmundson] Steins;Gat
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 156
-Active Line: 164
+Scroll Position: 402
+Active Line: 409
+Video Position: 3422
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -455,8 +456,6 @@ Dialogue: 0,0:02:48.32,0:02:48.52,op kara,,0,0,0,fx,{\pos(955.5,55.5)\alpha&H70&
 Dialogue: 0,0:02:48.52,0:02:48.72,op kara,,0,0,0,fx,{\pos(960,49.5)\alpha&H00&\blur1.5\bord1.5}nomikomareteyuku kodoku no kansokusha
 Dialogue: 0,0:02:48.72,0:02:48.92,op kara,,0,0,0,fx,{\pos(960,52.5)\alpha&H00&\blur3}nomikomareteyuku kodoku no kansokusha
 Dialogue: 0,0:02:48.92,0:02:48.97,op kara,,0,0,0,fx,{\pos(955.5,55.5)\alpha&H70&\blur3}nomikomareteyuku kodoku no kansokusha
-Dialogue: 0,0:02:50.06,0:02:52.06,op trans,,0,0,0,,
-Dialogue: 0,0:02:50.06,0:02:52.06,op trans,,0,0,0,,
 Dialogue: 0,0:02:51.97,0:02:56.98,Title1,,0,0,0,gradient @e6f 1,{\clip(1227,542,1508,552)\pos(1228.5,543)\1c&H5C5F60&}Dogma
 Dialogue: 0,0:02:51.97,0:02:56.98,Title1,,0,0,0,gradient @e6f 2,{\clip(1227,552,1508,563)\pos(1228.5,543)\1c&H5C5F63&}Dogma
 Dialogue: 0,0:02:51.97,0:02:56.98,Title1,,0,0,0,gradient @e6f 3,{\clip(1227,563,1508,573)\pos(1228.5,543)\1c&H5D6068&}Dogma
