@@ -29,9 +29,9 @@ Video File: //192.168.1.99/mnt/12tb/media/_downloads/temp/[AOmundson] Steins;Gat
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 195
-Active Line: 31
-Video Position: 4709
+Scroll Position: 743
+Active Line: 752
+Video Position: 31707
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -461,392 +461,392 @@ Dialogue: 0,0:04:24.33,0:04:24.54,op kara,,0,0,0,fx,{\pos(955.5,55.5)\alpha&H70&
 Dialogue: 0,0:04:24.54,0:04:24.74,op kara,,0,0,0,fx,{\pos(960,49.5)\alpha&H00&\blur1.5\bord1.5}nomikomareteyuku kodoku no kansokusha
 Dialogue: 0,0:04:24.74,0:04:24.91,op kara,,0,0,0,fx,{\pos(960,52.5)\alpha&H00&\blur3}nomikomareteyuku kodoku no kansokusha
 Dialogue: 0,0:04:24.91,0:04:24.99,op kara,,0,0,0,fx,{\pos(955.5,55.5)\alpha&H70&\blur3}nomikomareteyuku kodoku no kansokusha
-Dialogue: 0,0:04:28.04,0:04:33.04,Title1,,0,0,0,gradient @3b2 1,{\fs97.5\clip(1109,576,1562,587)\pos(1110,682.5)\1c&H5E606A&}Metaphysics
-Dialogue: 0,0:04:28.04,0:04:33.04,Title1,,0,0,0,gradient @3b2 2,{\fs97.5\clip(1109,587,1562,597)\pos(1110,682.5)\1c&H5E606C&}Metaphysics
-Dialogue: 0,0:04:28.04,0:04:33.04,Title1,,0,0,0,gradient @3b2 3,{\fs97.5\clip(1109,597,1562,608)\pos(1110,682.5)\1c&H5E606E&}Metaphysics
-Dialogue: 0,0:04:28.04,0:04:33.04,Title1,,0,0,0,gradient @3b2 4,{\fs97.5\clip(1109,608,1562,618)\pos(1110,682.5)\1c&H5F6170&}Metaphysics
-Dialogue: 0,0:04:28.04,0:04:33.04,Title1,,0,0,0,gradient @3b2 5,{\fs97.5\clip(1109,618,1562,629)\pos(1110,682.5)\1c&H5F6173&}Metaphysics
-Dialogue: 0,0:04:28.04,0:04:33.04,Title1,,0,0,0,gradient @3b2 6,{\fs97.5\clip(1109,629,1562,639)\pos(1110,682.5)\1c&H606275&}Metaphysics
-Dialogue: 0,0:04:28.04,0:04:33.04,Title1,,0,0,0,gradient @3b2 7,{\fs97.5\clip(1109,639,1562,650)\pos(1110,682.5)\1c&H606277&}Metaphysics
-Dialogue: 0,0:04:28.04,0:04:33.04,Title1,,0,0,0,gradient @3b2 8,{\fs97.5\clip(1109,650,1562,660)\pos(1110,682.5)\1c&H616279&}Metaphysics
-Dialogue: 0,0:04:28.04,0:04:33.04,Title1,,0,0,0,gradient @3b2 9,{\fs97.5\clip(1109,660,1562,671)\pos(1110,682.5)\1c&H61627B&}Metaphysics
-Dialogue: 0,0:04:28.04,0:04:33.04,Title1,,0,0,0,gradient @3b2 10,{\fs97.5\clip(1109,671,1562,681)\pos(1110,682.5)\1c&H61637D&}Metaphysics
-Dialogue: 0,0:04:28.04,0:04:33.04,Title1,,0,0,0,gradient @3b2 11,{\fs97.5\clip(1109,681,1562,692)\pos(1110,682.5)\1c&H62647E&}Metaphysics
-Dialogue: 0,0:04:28.04,0:04:33.04,Title1,,0,0,0,gradient @3b2 1,{\clip(1359,690,1683,701)\pos(1360.5,796.5)\1c&H5E606A&}Necrosis
-Dialogue: 0,0:04:28.04,0:04:33.04,Title1,,0,0,0,gradient @3b2 2,{\clip(1359,701,1683,711)\pos(1360.5,796.5)\1c&H5E606C&}Necrosis
-Dialogue: 0,0:04:28.04,0:04:33.04,Title1,,0,0,0,gradient @3b2 3,{\clip(1359,711,1683,722)\pos(1360.5,796.5)\1c&H5E606E&}Necrosis
-Dialogue: 0,0:04:28.04,0:04:33.04,Title1,,0,0,0,gradient @3b2 4,{\clip(1359,722,1683,732)\pos(1360.5,796.5)\1c&H5F6170&}Necrosis
-Dialogue: 0,0:04:28.04,0:04:33.04,Title1,,0,0,0,gradient @3b2 5,{\clip(1359,732,1683,743)\pos(1360.5,796.5)\1c&H5F6173&}Necrosis
-Dialogue: 0,0:04:28.04,0:04:33.04,Title1,,0,0,0,gradient @3b2 6,{\clip(1359,743,1683,753)\pos(1360.5,796.5)\1c&H606275&}Necrosis
-Dialogue: 0,0:04:28.04,0:04:33.04,Title1,,0,0,0,gradient @3b2 7,{\clip(1359,753,1683,764)\pos(1360.5,796.5)\1c&H606277&}Necrosis
-Dialogue: 0,0:04:28.04,0:04:33.04,Title1,,0,0,0,gradient @3b2 8,{\clip(1359,764,1683,774)\pos(1360.5,796.5)\1c&H616279&}Necrosis
-Dialogue: 0,0:04:28.04,0:04:33.04,Title1,,0,0,0,gradient @3b2 9,{\clip(1359,774,1683,785)\pos(1360.5,796.5)\1c&H61627B&}Necrosis
-Dialogue: 0,0:04:28.04,0:04:33.04,Title1,,0,0,0,gradient @3b2 10,{\clip(1359,785,1683,795)\pos(1360.5,796.5)\1c&H61637D&}Necrosis
-Dialogue: 0,0:04:28.04,0:04:33.04,Title1,,0,0,0,gradient @3b2 11,{\clip(1359,795,1683,806)\pos(1360.5,796.5)\1c&H62647E&}Necrosis
-Dialogue: 0,0:04:34.25,0:04:36.30,Default,,0,0,0,,{\i1}Mayuri was still in elementary school
-Dialogue: 0,0:04:36.96,0:04:40.84,Default,,0,0,0,,{\i1}when her grandmother died.
-Dialogue: 0,0:04:42.85,0:04:44.89,Default,,0,0,0,,{\i1}She went to her grave every day.
-Dialogue: 0,0:04:46.18,0:04:48.89,Default,,0,0,0,,{\i1}Even six months after her grandmother's death,
-Dialogue: 0,0:04:48.89,0:04:50.73,Default,,0,0,0,,{\i1}she kept going.
-Dialogue: 0,0:04:52.36,0:04:54.48,Default,,0,0,0,,{\i1}She always had her grandmother's \Npocket watch in her hand,
-Dialogue: 0,0:04:55.61,0:04:58.82,Default,,0,0,0,,{\i1}and she was always, always looking up at the sky...
-Dialogue: 0,0:05:00.36,0:05:04.87,Default,,0,0,0,,{\i1}...like she was waiting for \Nher grandmother to come and get her.
-Dialogue: 0,0:05:06.79,0:05:10.04,Default,,0,0,0,,{\i1}And then one day, there was a ray of light.
-Dialogue: 0,0:05:16.96,0:05:18.55,Default,,0,0,0,,{\i1}It was the kind called Rembrandt lighting...
-Dialogue: 0,0:05:19.88,0:05:22.09,Default,,0,0,0,,{\i1}...or an angel's ladder.
-Dialogue: 0,0:05:23.51,0:05:26.22,Default,,0,0,0,,{\i1}It felt like the light was drawing her up...
-Dialogue: 0,0:05:28.98,0:05:32.60,Default,,0,0,0,,{\i1}...like she was going to disappear...
-Dialogue: 0,0:05:33.27,0:05:33.98,Default,,0,0,0,,Mayuri!
-Dialogue: 0,0:05:38.99,0:05:40.19,Default,,0,0,0,,Okarin...
-Dialogue: 0,0:05:40.99,0:05:42.53,Default,,0,0,0,,I won't let it take you.
-Dialogue: 0,0:05:43.32,0:05:45.45,Default,,0,0,0,,You're going to be my hostage.
-Dialogue: 0,0:05:45.45,0:05:48.16,Default,,0,0,0,,I'll use you for human experimentation.
-Dialogue: 0,0:05:48.87,0:05:51.25,Default,,0,0,0,,{\i1}The words that came out of my mouth
-Dialogue: 0,0:05:51.25,0:05:53.42,Default,,0,0,0,,{\i1}were from some show I'd seen as a little kid.
-Dialogue: 0,0:05:55.04,0:05:57.00,Default,,0,0,0,,{\i1}Mayuri and I had watched it together.
-Dialogue: 0,0:05:57.96,0:06:01.17,Default,,0,0,0,,{\i1}Some mad scientist, screaming like an idiot...
-Dialogue: 0,0:06:02.97,0:06:04.39,Default,,0,0,0,,I see.
-Dialogue: 0,0:06:06.30,0:06:11.10,Default,,0,0,0,,So Mayushii is your hostage, right?
-Dialogue: 0,0:06:13.27,0:06:16.15,Default,,0,0,0,,Then I guess I can't go, huh?
-Dialogue: 0,0:06:33.37,0:06:34.67,Default,,0,0,0,,What's wrong?
-Dialogue: 0,0:06:36.04,0:06:38.00,Default,,0,0,0,,Were you napping?
-Dialogue: 0,0:06:49.56,0:06:50.72,Default,,0,0,0,,What time is it?
-Dialogue: 0,0:06:51.72,0:06:52.60,Default,,0,0,0,,What time is it?!
-Dialogue: 0,0:06:52.60,0:06:54.23,Default,,0,0,0,,What?
-Dialogue: 0,0:06:54.23,0:06:55.60,Default,,0,0,0,,It's almost five.
-Dialogue: 0,0:06:56.10,0:06:57.73,Default,,0,0,0,,You're going shopping, right?
-Dialogue: 0,0:06:58.36,0:06:59.44,Default,,0,0,0,,Shopping...
-Dialogue: 0,0:07:00.32,0:07:02.74,Default,,0,0,0,,I'll order pizza.
-Dialogue: 0,0:07:02.74,0:07:03.86,Default,,0,0,0,,Thanks.
-Dialogue: 0,0:07:03.86,0:07:05.74,Default,,0,0,0,,Just don't get the tropical special.
-Dialogue: 0,0:07:05.74,0:07:06.91,Default,,0,0,0,,I hate that thing.
-Dialogue: 0,0:07:06.91,0:07:08.74,Default,,0,0,0,,Agreed.
-Dialogue: 0,0:07:08.99,0:07:12.24,Default,,0,0,0,,The time leap worked?
-Dialogue: 0,0:07:12.79,0:07:13.58,Default,,0,0,0,,Okabe?
-Dialogue: 0,0:07:13.58,0:07:16.00,Default,,0,0,0,,Where's Mayuri? Where is she?!
-Dialogue: 0,0:07:16.00,0:07:18.38,Default,,0,0,0,,What's wrong with you all of a sudden?
-Dialogue: 0,0:07:18.38,0:07:23.59,Default,,0,0,0,,Mayushii said she was going to Miss Luka's \Nto invite her to the party, remember?
-Dialogue: 0,0:07:25.05,0:07:26.30,Default,,0,0,0,,Are you going shopping?
-Dialogue: 0,0:07:27.05,0:07:29.01,Default,,0,0,0,,The development conference is canceled.
-Dialogue: 0,0:07:29.01,0:07:29.97,Default,,0,0,0,,Canceled?
-Dialogue: 0,0:07:29.97,0:07:30.72,Default,,0,0,0,,Why?
-Dialogue: 0,0:07:30.72,0:07:31.68,Default,,0,0,0,,Did something happen?
-Dialogue: 0,0:07:32.26,0:07:34.93,Default,,0,0,0,,We're done here for today.
-Dialogue: 0,0:07:34.93,0:07:36.98,Default,,0,0,0,,Both of you, go home now!
-Dialogue: 0,0:07:36.98,0:07:37.65,Default,,0,0,0,,What's going on?
-Dialogue: 0,0:07:37.65,0:07:38.98,Default,,0,0,0,,Just go home!
-Dialogue: 0,0:07:38.98,0:07:40.15,Default,,0,0,0,,Okay? Just do it!
-Dialogue: 0,0:07:42.23,0:07:43.40,Default,,0,0,0,,What's with him?
-Dialogue: 0,0:07:43.94,0:07:46.07,Default,,0,0,0,,His phone starts ringing, and then...
-Dialogue: 0,0:07:48.20,0:07:49.16,Default,,0,0,0,,Phone?
-Dialogue: 0,0:07:54.16,0:07:55.79,Default,,0,0,0,,This is Mayushii.
-Dialogue: 0,0:07:55.79,0:07:57.87,Default,,0,0,0,,I can't answer the phone right now!
-Dialogue: 0,0:07:58.58,0:08:00.50,Default,,0,0,0,,If you'd like to leave a message—
-Dialogue: 0,0:08:03.67,0:08:06.34,Default,,0,0,0,,{\i1}There's nothing to indicate \Nthat the worldline changed.
-Dialogue: 0,0:08:07.17,0:08:09.34,Default,,0,0,0,,{\i1}It's different from a D-Mail.
-Dialogue: 0,0:08:09.34,0:08:11.89,Default,,0,0,0,,{\i1}I really am back at 5:00 PM.
-Dialogue: 0,0:08:15.02,0:08:16.93,Default,,0,0,0,,It's the bullet train!
-Dialogue: 0,0:08:17.27,0:08:20.90,Default,,0,0,0,,No, the bullet train is white.
-Dialogue: 0,0:08:21.81,0:08:25.44,Default,,0,0,0,,{\i1}After this, Mayuri will return with Suzuha.
-Dialogue: 0,0:08:28.03,0:08:29.91,Default,,0,0,0,,{\i1}Should I go to the police?
-Dialogue: 0,0:08:29.91,0:08:32.41,Default,,0,0,0,,{\i1}No, who would believe me?
-Dialogue: 0,0:08:32.41,0:08:34.04,Default,,0,0,0,,{\i1}That I've come from the future?
-Dialogue: 0,0:08:35.45,0:08:36.70,Default,,0,0,0,,{\i1}Three hours left...
-Dialogue: 0,0:08:36.70,0:08:38.04,Default,,0,0,0,,{\i1}I have to do something!
-Dialogue: 0,0:08:39.71,0:08:40.46,Default,,0,0,0,,Mayuri!
-Dialogue: 0,0:08:41.21,0:08:41.79,Default,,0,0,0,,Mayuri?!
-Dialogue: 0,0:08:42.54,0:08:45.21,Default,,0,0,0,,O-Oka... No, Kyouma—
-Dialogue: 0,0:08:45.21,0:08:46.71,Default,,0,0,0,,Where's Mayuri?!
-Dialogue: 0,0:08:46.71,0:08:48.72,Default,,0,0,0,,Sh-She already left.
-Dialogue: 0,0:08:48.72,0:08:49.59,Default,,0,0,0,,Left?
-Dialogue: 0,0:08:49.59,0:08:50.47,Default,,0,0,0,,When?
-Dialogue: 0,0:08:50.47,0:08:52.85,Default,,0,0,0,,Th-Thirty minutes ago, I guess.
-Dialogue: 0,0:08:53.47,0:08:55.81,Default,,0,0,0,,She said she was going back to the lab.
-Dialogue: 0,0:08:55.81,0:08:57.56,Default,,0,0,0,,Didn't she get back?
-Dialogue: 0,0:08:57.98,0:08:59.77,Default,,0,0,0,,Um, I'm sorry.
-Dialogue: 0,0:08:59.77,0:09:04.27,Default,,0,0,0,,It was so nice of you to \Ninvite me to the party, but—
-Dialogue: 0,0:09:04.27,0:09:06.36,Default,,0,0,0,,Did she say she was stopping anywhere?
-Dialogue: 0,0:09:06.36,0:09:08.49,Default,,0,0,0,,Mayuri?
-Dialogue: 0,0:09:08.49,0:09:09.20,Default,,0,0,0,,No...
-Dialogue: 0,0:09:09.20,0:09:12.82,Default,,0,0,0,,If you see her, tell her to call me right away!
-Dialogue: 0,0:09:12.82,0:09:14.95,Default,,0,0,0,,O-Okay.
-Dialogue: 0,0:09:15.49,0:09:17.45,Default,,0,0,0,,{\i1}If the worldline hasn't changed...
-Dialogue: 0,0:09:18.66,0:09:20.25,Default,,0,0,0,,{\i1}If I don't do anything differently,
-Dialogue: 0,0:09:20.71,0:09:22.96,Default,,0,0,0,,{\i1}she should do what she did before.
-Dialogue: 0,0:09:23.83,0:09:24.38,Default,,0,0,0,,{\i1}Where is she?
-Dialogue: 0,0:09:26.09,0:09:27.34,Default,,0,0,0,,Nyan-nyan!
-Dialogue: 0,0:09:27.34,0:09:29.84,Default,,0,0,0,,Faris can't answer the phone right now.
-Dialogue: 0,0:09:29.84,0:09:31.22,Default,,0,0,0,,If you need something—
-Dialogue: 0,0:09:38.22,0:09:39.85,Default,,0,0,0,,Where are you, Mayuri?
-Dialogue: 0,0:09:41.27,0:09:42.35,Default,,0,0,0,,Mayuri?
-Dialogue: 0,0:09:42.35,0:09:43.65,Default,,0,0,0,,Too bad.
-Dialogue: 0,0:09:44.15,0:09:45.40,Default,,0,0,0,,Assistant...
-Dialogue: 0,0:09:46.15,0:09:47.86,Default,,0,0,0,,I told you that we were done for the day.
-Dialogue: 0,0:09:47.86,0:09:48.57,Default,,0,0,0,,Go home—
-Dialogue: 0,0:09:48.57,0:09:49.65,Default,,0,0,0,,Be honest.
-Dialogue: 0,0:09:50.11,0:09:53.20,Default,,0,0,0,,You time leaped from the future, didn't you?
-Dialogue: 0,0:09:56.78,0:09:58.66,Default,,0,0,0,,How could you tell?
-Dialogue: 0,0:09:58.66,0:10:02.54,Default,,0,0,0,,The second you answered the phone, \Nyou seemed to change.
-Dialogue: 0,0:10:02.92,0:10:04.08,Default,,0,0,0,,From the way you're acting,
-Dialogue: 0,0:10:04.08,0:10:05.50,Default,,0,0,0,,I can guess that something happened.
-Dialogue: 0,0:10:05.96,0:10:06.88,Default,,0,0,0,,Yeah...
-Dialogue: 0,0:10:07.59,0:10:09.76,Default,,0,0,0,,...but I don't have time to give you the details.
-Dialogue: 0,0:10:10.34,0:10:11.63,Default,,0,0,0,,Just run.
-Dialogue: 0,0:10:11.63,0:10:13.68,Default,,0,0,0,,Run? Where?
-Dialogue: 0,0:10:13.68,0:10:15.05,Default,,0,0,0,,Anywhere.
-Dialogue: 0,0:10:15.05,0:10:16.93,Default,,0,0,0,,Just get away from the lab.
-Dialogue: 0,0:10:16.93,0:10:18.01,Default,,0,0,0,,Got it?
-Dialogue: 0,0:10:18.47,0:10:20.60,Default,,0,0,0,,Tell me later, okay?
-Dialogue: 0,0:10:20.60,0:10:23.19,Default,,0,0,0,,Yeah. Tell Daru too.
-Dialogue: 0,0:10:23.19,0:10:24.10,Default,,0,0,0,,Got it.
-Dialogue: 0,0:10:24.77,0:10:25.86,Default,,0,0,0,,Okabe...
-Dialogue: 0,0:10:25.86,0:10:26.48,Default,,0,0,0,,What is it?
-Dialogue: 0,0:10:27.48,0:10:29.53,Default,,0,0,0,,Don't do anything stupid.
-Dialogue: 0,0:10:31.53,0:10:32.78,Default,,0,0,0,,I know.
-Dialogue: 0,0:10:36.16,0:10:37.70,Default,,0,0,0,,Okabe Rintaro!
-Dialogue: 0,0:10:38.03,0:10:39.41,Default,,0,0,0,,Hey, where's Ochanomizu—{that's a neighborhood name}
-Dialogue: 0,0:10:39.41,0:10:41.00,Default,,0,0,0,,Have you seen Mayuri?!
-Dialogue: 0,0:10:41.66,0:10:43.29,Default,,0,0,0,,Shiina Mayuri?
-Dialogue: 0,0:10:44.54,0:10:46.29,Default,,0,0,0,,She just invited me to your party—
-Dialogue: 0,0:10:46.29,0:10:47.04,Default,,0,0,0,,Where is she?
-Dialogue: 0,0:10:47.04,0:10:49.96,Default,,0,0,0,,Turn right, up there...
-Dialogue: 0,0:10:49.96,0:10:52.46,Default,,0,0,0,,Hey, which way is Ochanomizu?
-Dialogue: 0,0:10:52.46,0:10:55.51,Default,,0,0,0,,I have to take Nae shopping...
-Dialogue: 0,0:10:55.51,0:10:56.84,Default,,0,0,0,,Ask at the police substation{box}!
-Dialogue: 0,0:10:57.14,0:10:59.68,Default,,0,0,0,,And once you've taken her, don't come back!
-Dialogue: 0,0:10:59.68,0:11:01.31,Default,,0,0,0,,What do you mean?
-Dialogue: 0,0:11:01.31,0:11:02.98,Default,,0,0,0,,I'll tell you later.
-Dialogue: 0,0:11:18.82,0:11:19.99,Default,,0,0,0,,Mayuri...
-Dialogue: 0,0:11:20.24,0:11:21.12,Default,,0,0,0,,Mayuri!
-Dialogue: 0,0:11:22.04,0:11:22.62,Default,,0,0,0,,Okarin!
-Dialogue: 0,0:11:23.20,0:11:25.25,Default,,0,0,0,,Look! It's the first star!
-Dialogue: 0,0:11:26.04,0:11:26.92,Default,,0,0,0,,What?
-Dialogue: 0,0:11:26.92,0:11:28.96,Default,,0,0,0,,Just come with me!
-Dialogue: 0,0:11:29.79,0:11:30.84,Default,,0,0,0,,What about the party?
-Dialogue: 0,0:11:30.84,0:11:33.92,Default,,0,0,0,,It was canceled. I told Kurisu and Daru.
-Dialogue: 0,0:11:34.51,0:11:35.51,Default,,0,0,0,,Why?
-Dialogue: 0,0:11:35.51,0:11:37.18,Default,,0,0,0,,I'll tell you later!
-Dialogue: 0,0:11:37.18,0:11:39.55,Default,,0,0,0,,But I asked Suzu to come too,
-Dialogue: 0,0:11:39.55,0:11:41.06,Default,,0,0,0,,and Daru was ordering pizza...
-Dialogue: 0,0:11:41.06,0:11:42.31,Default,,0,0,0,,Just listen to me!
-Dialogue: 0,0:11:44.06,0:11:45.43,Default,,0,0,0,,Okarin...
-Dialogue: 0,0:11:47.23,0:11:48.15,Default,,0,0,0,,I'm sorry.
-Dialogue: 0,0:11:50.52,0:11:54.61,Default,,0,0,0,,Mayushii doesn't understand...
-Dialogue: 0,0:11:54.61,0:11:58.28,Default,,0,0,0,,You always do things I don't understand,
-Dialogue: 0,0:11:58.28,0:12:01.24,Default,,0,0,0,,but today, I really don't understand you.
-Dialogue: 0,0:12:02.45,0:12:06.04,Default,,0,0,0,,Did you really want to \Ndo the experiment, after all?
-Dialogue: 0,0:12:06.41,0:12:07.29,Default,,0,0,0,,Mayuri...
-Dialogue: 0,0:12:11.75,0:12:13.71,Default,,0,0,0,,That's not it.
-Dialogue: 0,0:12:13.71,0:12:16.30,Default,,0,0,0,,But just for now, can you listen to me?
-Dialogue: 0,0:12:18.30,0:12:19.47,Default,,0,0,0,,There's no time.
-Dialogue: 0,0:12:20.64,0:12:22.35,Default,,0,0,0,,I'll explain the details later. I promise.
-Dialogue: 0,0:12:23.97,0:12:25.18,Default,,0,0,0,,Okay.
-Dialogue: 0,0:12:25.18,0:12:28.81,Default,,0,0,0,,Sorry. Mayushii just got scared.
-Dialogue: 0,0:12:29.19,0:12:30.15,Default,,0,0,0,,Don't apologize.
-Dialogue: 0,0:12:31.23,0:12:32.48,Default,,0,0,0,,It's not your fault.
-Dialogue: 0,0:12:40.66,0:12:42.74,Default,,0,0,0,,There are so many people here.
-Dialogue: 0,0:12:42.74,0:12:44.91,Default,,0,0,0,,It's rush hour.
-Dialogue: 0,0:12:45.95,0:12:47.20,Default,,0,0,0,,Huh?
-Dialogue: 0,0:12:47.20,0:12:49.58,Default,,0,0,0,,But no one's on the platform...
-Dialogue: 0,0:12:51.25,0:12:52.75,Default,,0,0,0,,Once again,
-Dialogue: 0,0:12:53.34,0:12:56.92,Default,,0,0,0,,the following lines have been shut down due to a bomb threat.
-Dialogue: 0,0:12:56.92,0:12:59.72,Default,,0,0,0,,They said they don't know when \Nthe trains will start again.
-Dialogue: 0,0:12:59.93,0:13:02.05,Default,,0,0,0,,How stupid of me!
-Dialogue: 0,0:13:02.05,0:13:02.97,Default,,0,0,0,,Not now...
-Dialogue: 0,0:13:03.18,0:13:04.01,Default,,0,0,0,,Okarin?
-Dialogue: 0,0:13:04.01,0:13:06.31,Default,,0,0,0,,Mayuri, get to the subway now!
-Dialogue: 0,0:13:07.14,0:13:09.02,Default,,0,0,0,,Okabe Rintaro, right?
-Dialogue: 0,0:13:13.23,0:13:14.48,Default,,0,0,0,,What's wrong?
-Dialogue: 0,0:13:18.53,0:13:19.99,Default,,0,0,0,,You're coming with me.
-Dialogue: 0,0:13:20.40,0:13:21.99,Default,,0,0,0,,What are you standing there for?
-Dialogue: 0,0:13:21.99,0:13:23.32,Default,,0,0,0,,Move!
-Dialogue: 0,0:13:24.12,0:13:25.12,Default,,0,0,0,,Run!
-Dialogue: 0,0:13:32.46,0:13:33.50,Default,,0,0,0,,Run!
-Dialogue: 0,0:13:33.50,0:13:34.88,Default,,0,0,0,,Run as fast as you can!
-Dialogue: 0,0:13:37.17,0:13:38.38,Default,,0,0,0,,Who are they?
-Dialogue: 0,0:13:40.38,0:13:41.26,Default,,0,0,0,,Okarin!
-Dialogue: 0,0:13:41.26,0:13:41.97,Default,,0,0,0,,Go, quickly!
-Dialogue: 0,0:13:42.55,0:13:44.14,Default,,0,0,0,,Run, Mayuri!
-Dialogue: 0,0:14:04.99,0:14:07.41,Default,,0,0,0,,Shiina Mayuri was the one who died.
-Dialogue: 0,0:14:07.41,0:14:08.45,Default,,0,0,0,,Okabe...
-Dialogue: 0,0:14:08.45,0:14:11.79,Default,,0,0,0,,I mean, Okabe Rintaro has been captured.
-Dialogue: 0,0:14:11.79,0:14:12.46,Default,,0,0,0,,Mayuri!
-Dialogue: 0,0:14:13.96,0:14:15.88,Default,,0,0,0,,Damn it!
-Dialogue: 0,0:14:16.71,0:14:17.88,Default,,0,0,0,,I won't let you kill her!
-Dialogue: 0,0:14:17.88,0:14:20.55,Default,,0,0,0,,{\fad(1,1809)}Mayuri, I will save you!
-Dialogue: 0,0:14:23.84,0:14:24.68,Default,,0,0,0,,I'll save you...
-Dialogue: 0,0:14:29.77,0:14:30.77,Default,,0,0,0,,...no matter what!
-Dialogue: 0,0:14:38.40,0:14:39.27,Default,,0,0,0,,Canceled?
-Dialogue: 0,0:14:39.27,0:14:40.03,Default,,0,0,0,,Why?
-Dialogue: 0,0:14:40.23,0:14:41.82,Default,,0,0,0,,Did something happen?
-Dialogue: 0,0:14:42.74,0:14:44.74,Default,,0,0,0,,Yeah. Actually...
-Dialogue: 0,0:14:45.53,0:14:46.99,Default,,0,0,0,,I got word
-Dialogue: 0,0:14:46.99,0:14:49.54,Default,,0,0,0,,that Mr. Braun is planning to return tonight.
-Dialogue: 0,0:14:49.54,0:14:52.62,Default,,0,0,0,,Okarin, did you do something again?
-Dialogue: 0,0:14:52.62,0:14:54.62,Default,,0,0,0,,Yeah, I suppose so.
-Dialogue: 0,0:14:54.62,0:14:55.75,Default,,0,0,0,,But what about Mayuri?
-Dialogue: 0,0:14:55.75,0:14:57.25,Default,,0,0,0,,I'll talk to her.
-Dialogue: 0,0:14:57.67,0:15:00.34,Default,,0,0,0,,It's dangerous to be here.
-Dialogue: 0,0:15:00.34,0:15:01.71,Default,,0,0,0,,We're done here for today.
-Dialogue: 0,0:15:04.84,0:15:06.18,Default,,0,0,0,,{\i1}Was I too forceful?
-Dialogue: 0,0:15:07.30,0:15:08.30,Default,,0,0,0,,{\i1}No...
-Dialogue: 0,0:15:08.76,0:15:10.60,Default,,0,0,0,,{\i1}It doesn't matter if I was acting weird.
-Dialogue: 0,0:15:11.31,0:15:15.35,Default,,0,0,0,,{\i1}For now, I just need them away from the lab!
-Dialogue: 0,0:15:17.10,0:15:18.69,Default,,0,0,0,,This is Mayushii.
-Dialogue: 0,0:15:18.69,0:15:20.82,Default,,0,0,0,,I can't answer the phone right now!
-Dialogue: 0,0:15:25.11,0:15:26.57,Default,,0,0,0,,{\i1}Why is it taking so long?
-Dialogue: 0,0:15:27.49,0:15:29.45,Default,,0,0,0,,{\i1}It's going to end up like last time!
-Dialogue: 0,0:15:29.45,0:15:30.91,Default,,0,0,0,,{\i1}I need to find Mayuri.
-Dialogue: 0,0:15:32.74,0:15:34.20,Sign1,,0,0,0,,{\frz20.104\fs75\blur3\b1\bord0\pos(1147.5,699)}Lukako
-Dialogue: 0,0:15:38.00,0:15:38.58,Default,,0,0,0,,Hello?
-Dialogue: 0,0:15:38.58,0:15:40.84,Default,,0,0,0,,Lukako! It's me! Okabe!
-Dialogue: 0,0:15:40.84,0:15:43.13,Default,,0,0,0,,Oka... I'm sorry, Kyouma—
-Dialogue: 0,0:15:43.13,0:15:44.21,Default,,0,0,0,,Where's Mayuri?!
-Dialogue: 0,0:15:44.21,0:15:45.42,Default,,0,0,0,,Is Mayuri there?
-Dialogue: 0,0:15:45.42,0:15:47.22,Default,,0,0,0,,Mayuri?
-Dialogue: 0,0:15:47.22,0:15:48.01,Default,,0,0,0,,Yes.
-Dialogue: 0,0:15:48.01,0:15:48.93,Default,,0,0,0,,She's just heading bac—
-Dialogue: 0,0:15:48.93,0:15:50.35,Default,,0,0,0,,Stop her!
-Dialogue: 0,0:15:50.35,0:15:54.02,Default,,0,0,0,,Tell her not to move until I get there!
-Dialogue: 0,0:15:54.02,0:15:55.48,Default,,0,0,0,,She said she was going back to the lab.
-Dialogue: 0,0:15:55.48,0:15:57.69,Default,,0,0,0,,Just do as I say!
-Dialogue: 0,0:15:57.69,0:15:58.65,Default,,0,0,0,,O-Okay.
-Dialogue: 0,0:15:58.94,0:16:00.56,Default,,0,0,0,,Mayuri!
-Dialogue: 0,0:16:04.53,0:16:06.70,Default,,0,0,0,,It's the bullet train!
-Dialogue: 0,0:16:06.70,0:16:09.95,Default,,0,0,0,,No, the bullet train is white.
-Dialogue: 0,0:16:11.91,0:16:12.87,Default,,0,0,0,,Mayuri!
-Dialogue: 0,0:16:13.95,0:16:15.12,Default,,0,0,0,,Okarin!
-Dialogue: 0,0:16:19.33,0:16:20.83,Default,,0,0,0,,Are you okay?
-Dialogue: 0,0:16:20.83,0:16:22.92,Default,,0,0,0,,I was about to go fix Fubuki's costume
-Dialogue: 0,0:16:22.92,0:16:24.84,Default,,0,0,0,,and then go to the lab.
-Dialogue: 0,0:16:24.84,0:16:26.17,Default,,0,0,0,,Fubuki?
-Dialogue: 0,0:16:26.17,0:16:27.26,Default,,0,0,0,,A cosplay friend of yours?
-Dialogue: 0,0:16:27.63,0:16:28.43,Default,,0,0,0,,Yeah!
-Dialogue: 0,0:16:28.43,0:16:32.26,Default,,0,0,0,,She said a thread on the costume \NI made came undone.
-Dialogue: 0,0:16:32.26,0:16:33.26,Default,,0,0,0,,I just got a message from her.
-Dialogue: 0,0:16:33.26,0:16:35.22,Default,,0,0,0,,{\i1}So that's it.
-Dialogue: 0,0:16:35.60,0:16:38.10,Default,,0,0,0,,Once it's fixed, I'll go right to the lab,
-Dialogue: 0,0:16:38.10,0:16:39.65,Default,,0,0,0,,so I'll make it to the party.
-Dialogue: 0,0:16:39.65,0:16:41.19,Default,,0,0,0,,Wait. The party...
-Dialogue: 0,0:16:41.81,0:16:42.98,Default,,0,0,0,,The party was cancel—
-Dialogue: 0,0:16:44.53,0:16:45.44,Default,,0,0,0,,I mean, it was postponed.
-Dialogue: 0,0:16:46.28,0:16:47.61,Default,,0,0,0,,Why?
-Dialogue: 0,0:16:47.61,0:16:50.11,Default,,0,0,0,,We can't use the lab...
-Dialogue: 0,0:16:50.78,0:16:51.66,Default,,0,0,0,,{It can't be helped.}...due to unforeseen consequences.
-Dialogue: 0,0:16:52.78,0:16:54.33,Default,,0,0,0,,I see...
-Dialogue: 0,0:16:54.33,0:16:57.62,Default,,0,0,0,,So I wanted you to come with me for a bit.
-Dialogue: 0,0:16:58.41,0:16:59.71,Default,,0,0,0,,Right now.
-Dialogue: 0,0:16:59.71,0:17:00.54,Default,,0,0,0,,What about Fubuki?
-Dialogue: 0,0:17:00.54,0:17:02.58,Default,,0,0,0,,I'm sorry, but save it for later.
-Dialogue: 0,0:17:02.58,0:17:03.38,Default,,0,0,0,,This is an emergency.
-Dialogue: 0,0:17:03.71,0:17:06.34,Default,,0,0,0,,Um, did something happen?
-Dialogue: 0,0:17:06.34,0:17:09.34,Default,,0,0,0,,Yeah, we're going away for a while.
-Dialogue: 0,0:17:09.88,0:17:10.84,Default,,0,0,0,,On a trip.
-Dialogue: 0,0:17:11.97,0:17:13.76,Default,,0,0,0,,Together?
-Dialogue: 0,0:17:13.76,0:17:15.22,Default,,0,0,0,,Um, well...
-Dialogue: 0,0:17:16.64,0:17:19.27,Default,,0,0,0,,I can put Fubuki off until tomorrow,
-Dialogue: 0,0:17:19.27,0:17:20.73,Default,,0,0,0,,but this is very sudden.
-Dialogue: 0,0:17:20.73,0:17:21.85,Default,,0,0,0,,Where are we going?
-Dialogue: 0,0:17:21.85,0:17:23.36,Default,,0,0,0,,I'll tell you later.
-Dialogue: 0,0:17:23.86,0:17:25.69,Default,,0,0,0,,We don't have much time to catch the train.
-Dialogue: 0,0:17:25.69,0:17:29.36,Default,,0,0,0,,But Mayushii isn't ready at all, and—
-Dialogue: 0,0:17:29.36,0:17:31.45,Default,,0,0,0,,Don't worry about it.
-Dialogue: 0,0:17:31.45,0:17:32.99,Default,,0,0,0,,Come on, let's go.
-Dialogue: 0,0:17:33.57,0:17:35.53,Default,,0,0,0,,Wait, Okarin!
-Dialogue: 0,0:17:36.79,0:17:37.95,Default,,0,0,0,,Um...
-Dialogue: 0,0:17:38.29,0:17:39.00,Default,,0,0,0,,Huh?
-Dialogue: 0,0:17:39.00,0:17:41.04,Default,,0,0,0,,G-Goodbye.
-Dialogue: 0,0:17:41.04,0:17:43.00,Default,,0,0,0,,Yeah, bye-bye!
-Dialogue: 0,0:17:49.63,0:17:53.26,Default,,0,0,0,,Isn't Akihabara Station that way?
-Dialogue: 0,0:17:53.26,0:17:54.43,Default,,0,0,0,,We're taking the subway.
-Dialogue: 0,0:17:55.22,0:17:56.51,Default,,0,0,0,,I see.
-Dialogue: 0,0:18:10.07,0:18:13.95,Default,,0,0,0,,It's been a really long time
-Dialogue: 0,0:18:13.95,0:18:15.62,Default,,0,0,0,,since you dragged me along like this.
-Dialogue: 0,0:18:16.83,0:18:17.58,Default,,0,0,0,,Yeah.
-Dialogue: 0,0:18:30.09,0:18:30.92,Default,,0,0,0,,We're heading back.
-Dialogue: 0,0:18:31.51,0:18:32.38,Default,,0,0,0,,Huh?
-Dialogue: 0,0:18:52.44,0:18:53.11,Default,,0,0,0,,Okay.
-Dialogue: 0,0:18:53.70,0:18:54.49,Default,,0,0,0,,Let's go.
-Dialogue: 0,0:18:57.16,0:18:59.45,Sign1,,0,0,0,,{\blur2.25\fs51\frx14\fry8\frz12.5\pos(877.5,129)}Assistant
-Dialogue: 0,0:18:57.16,0:18:59.45,Sign1,,0,0,0,,{\blur2.25\fs42\frz12.44\frx13\fry0\pos(894,168)\fax.1}Did something happen?
-Dialogue: 0,0:18:57.16,0:18:59.45,Sign1,,0,0,0,,{\blur2.25\frx4\fry6\frz12.46\pos(484.5,471)\fax.075}Tell me later, okay?
-Dialogue: 0,0:19:00.99,0:19:02.12,Default,,0,0,0,,Kurisu, huh?
-Dialogue: 0,0:19:15.18,0:19:19.05,Default,,0,0,0,,My watch isn't working...
-Dialogue: 0,0:19:19.05,0:19:20.43,Default,,0,0,0,,That's strange.
-Dialogue: 0,0:19:20.43,0:19:23.10,Default,,0,0,0,,I just wound it.
-Dialogue: 0,0:19:27.19,0:19:29.27,Default,,0,0,0,,There are so many people here.
-Dialogue: 0,0:19:29.90,0:19:31.57,Default,,0,0,0,,The Sobu line shut down.
-Dialogue: 0,0:19:32.57,0:19:34.40,Default,,0,0,0,,Shut down?
-Dialogue: 0,0:19:34.40,0:19:35.15,Default,,0,0,0,,Yeah.
-Dialogue: 0,0:19:36.11,0:19:39.03,Default,,0,0,0,,A bomb threat was called in.
-Dialogue: 0,0:19:40.58,0:19:42.04,Default,,0,0,0,,I see...
-Dialogue: 0,0:19:45.08,0:19:46.42,Default,,0,0,0,,Hey, Okarin.
-Dialogue: 0,0:19:48.17,0:19:49.46,Default,,0,0,0,,Um, well...
-Dialogue: 0,0:19:49.46,0:19:53.26,Default,,0,0,0,,Mayushii has a lot of questions she wants to ask,
-Dialogue: 0,0:19:53.26,0:19:55.13,Default,,0,0,0,,but it's okay for now.
-Dialogue: 0,0:19:57.34,0:19:58.93,Default,,0,0,0,,In exchange,
-Dialogue: 0,0:19:58.93,0:20:01.72,Default,,0,0,0,,when this is over, \NI want you to tell me everything.
-Dialogue: 0,0:20:05.31,0:20:06.64,Default,,0,0,0,,Yeah.
-Dialogue: 0,0:20:08.73,0:20:09.77,Default,,0,0,0,,I promise.
-Dialogue: 0,0:20:12.77,0:20:13.90,Default,,0,0,0,,I'm sorry...
-Dialogue: 0,0:20:15.90,0:20:19.87,Default,,0,0,0,,I'm sorry I can't help you.
-Dialogue: 0,0:20:26.37,0:20:29.12,Default,,0,0,0,,Let's have that party sometime.
-Dialogue: 0,0:20:31.04,0:20:31.75,Default,,0,0,0,,Yeah...
-Dialogue: 0,0:20:32.29,0:20:33.17,Default,,0,0,0,,Sometime.
-Dialogue: 0,0:20:39.38,0:20:40.43,Default,,0,0,0,,Sometime...
-Dialogue: 0,0:20:41.76,0:20:42.80,Default,,0,0,0,,For sure.
-Dialogue: 0,0:20:47.93,0:20:49.73,Default,,0,0,0,,Big sis Mayuri!
-Dialogue: 0,0:21:36.57,0:21:38.28,Default,,0,0,0,,It wasn't...
-Dialogue: 0,0:21:39.53,0:21:41.11,Default,,0,0,0,,I didn't mean to...
-Dialogue: 0,0:21:43.49,0:21:48.79,Default,,0,0,0,,I just wanted to surprise her...
-Dialogue: 0,0:21:58.34,0:21:59.55,Default,,0,0,0,,I won't let you kill her!
-Dialogue: 0,0:22:01.05,0:22:03.59,Default,,0,0,0,,Mayuri, I {\i1}will{\i0}...
-Dialogue: 0,0:22:05.76,0:22:06.64,Default,,0,0,0,,...save you!
-Dialogue: 1,0:22:21.28,0:22:30.33,EDRom,,0,0,0,,{\blur1.8\fad(250,1500)}kisei sareta shikai mujihi naru
-Dialogue: 0,0:22:21.28,0:22:30.33,EDRom,,0,0,0,,{\blur4.8\alpha&H70&\bord8.25\3c&H5E382E&\fad(250,1500)}kisei sareta shikai mujihi naru
-Dialogue: 1,0:22:21.28,0:22:30.33,EDTL,,0,0,0,,{\blur1.8\fad(250,1500)}With my field of view restricted
-Dialogue: 0,0:22:21.28,0:22:30.33,EDTL,,0,0,0,,{\blur4.8\\alpha&H70&\bord8.25\3c&H5E382E&\fad(250,1500)}With my field of view restricted
-Dialogue: 1,0:22:30.33,0:22:37.92,EDRom,,0,0,0,,{\blur1.8\fad(250,300)}juuni no shihai nogarerarenai
-Dialogue: 0,0:22:30.33,0:22:37.92,EDRom,,0,0,0,,{\blur4.8\alpha&H70&\bord8.25\3c&H5E382E&\fad(250,300)}juuni no shihai nogarerarenai
-Dialogue: 1,0:22:30.33,0:22:37.92,EDTL,,0,0,0,,{\blur1.8\fad(250,300)}I cannot escape the merciless control of the twelve
-Dialogue: 0,0:22:30.33,0:22:37.92,EDTL,,0,0,0,,{\blur4.8\\alpha&H70&\bord8.25\3c&H5E382E&\fad(250,300)}I cannot escape the merciless control of the twelve
-Dialogue: 1,0:22:37.92,0:22:46.26,EDRom,,0,0,0,,{\blur1.8\fad(250,300)}ansoku no asu wo negatta
-Dialogue: 0,0:22:37.92,0:22:46.26,EDRom,,0,0,0,,{\blur4.8\alpha&H70&\bord8.25\3c&H5E382E&\fad(250,300)}ansoku no asu wo negatta
-Dialogue: 1,0:22:37.92,0:22:46.26,EDTL,,0,0,0,,{\blur1.8\fad(250,300)}While wishing for a tomorrow of repose
-Dialogue: 0,0:22:37.92,0:22:46.26,EDTL,,0,0,0,,{\blur4.8\alpha&H70&\bord8.25\3c&H5E382E&\fad(250,300)}While wishing for a tomorrow of repose
-Dialogue: 1,0:22:46.80,0:22:55.35,EDRom,,0,0,0,,{\blur1.8\fad(250,300)}te no naka no toutoi jishou no chihei he
-Dialogue: 0,0:22:46.80,0:22:55.35,EDRom,,0,0,0,,{\blur4.8\alpha&H70&\bord8.25\3c&H5E382E&\fad(250,300)}te no naka no toutoi jishou no chihei he
-Dialogue: 1,0:22:46.80,0:22:55.35,EDTL,,0,0,0,,{\blur1.8\fad(250,300)}I headed for the sacred event horizon in my hand
-Dialogue: 0,0:22:46.80,0:22:55.35,EDTL,,0,0,0,,{\blur4.8\alpha&H70&\bord8.25\3c&H5E382E&\fad(250,300)}I headed for the sacred event horizon in my hand
-Dialogue: 1,0:22:55.48,0:23:03.90,EDRom,,0,0,0,,{\blur1.8\fad(100,300)}toraware shi meiyaku arawareta gishou no rinkaku
-Dialogue: 0,0:22:55.48,0:23:03.90,EDRom,,0,0,0,,{\blur4.8\alpha&H70&\bord8.25\3c&H5E382E&\fad(100,300)}toraware shi meiyaku arawareta gishou no rinkaku
-Dialogue: 1,0:22:55.48,0:23:03.90,EDTL,,0,0,0,,{\blur1.8\fad(250,300)}Pledges are imprisoned, and false evidences are showing their outline
-Dialogue: 0,0:22:55.48,0:23:03.90,EDTL,,0,0,0,,{\blur4.8\alpha&H70&\bord8.25\3c&H5E382E&\fad(250,300)}Pledges are imprisoned, and false evidences are showing their outline
-Dialogue: 1,0:23:03.90,0:23:13.33,EDRom,,0,0,0,,{\blur1.8\fad(250,300)}seimei no tenchi wa moumoku na jikan wo kizanda
-Dialogue: 0,0:23:03.90,0:23:13.33,EDRom,,0,0,0,,{\blur4.8\alpha&H70&\bord8.25\3c&H5E382E&\fad(250,300)}seimei no tenchi wa moumoku na jikan wo kizanda
-Dialogue: 1,0:23:03.90,0:23:13.33,EDTL,,0,0,0,,{\blur1.8\fad(250,300)}This world of life blindly lets the time pass by
-Dialogue: 0,0:23:03.90,0:23:13.33,EDTL,,0,0,0,,{\blur4.8\alpha&H70&\bord8.25\3c&H5E382E&\fad(250,300)}This world of life blindly lets the time pass by
-Dialogue: 1,0:23:13.33,0:23:15.50,EDRom,,0,0,0,,{\blur1.8\fad(250,300)}habatake butterfly
-Dialogue: 0,0:23:13.33,0:23:15.50,EDRom,,0,0,0,,{\blur4.8\alpha&H70&\bord8.25\3c&H5E382E&\fad(250,300)}habatake butterfly
-Dialogue: 1,0:23:13.33,0:23:15.50,EDTL,,0,0,0,,{\blur1.8\fad(250,300)}Spread your wings
-Dialogue: 0,0:23:13.33,0:23:15.50,EDTL,,0,0,0,,{\blur4.8\alpha&H70&\bord8.25\3c&H5E382E&\fad(250,300)}Spread your wings
-Dialogue: 1,0:23:15.50,0:23:18.46,EDRom,,0,0,0,,{\blur1.8\fad(250,400)}kiseki no butterfly
-Dialogue: 0,0:23:15.50,0:23:18.46,EDRom,,0,0,0,,{\blur4.8\alpha&H70&\bord8.25\3c&H5E382E&\fad(250,400)}kiseki no butterfly
-Dialogue: 1,0:23:15.50,0:23:18.46,EDTL,,0,0,0,,{\blur1.8\fad(250,400)}butterfly of miracles
-Dialogue: 0,0:23:15.50,0:23:18.46,EDTL,,0,0,0,,{\blur4.8\alpha&H70&\bord8.25\3c&H5E382E&\fad(250,400)}butterfly of miracles
-Dialogue: 1,0:23:18.46,0:23:22.13,EDRom,,0,0,0,,{\blur1.8\fad(250,300)}anata he sasagu
-Dialogue: 0,0:23:18.46,0:23:22.13,EDRom,,0,0,0,,{\blur4.8\alpha&H70&\bord8.25\3c&H5E382E&\fad(250,300)}anata he sasagu
-Dialogue: 1,0:23:18.46,0:23:22.13,EDTL,,0,0,0,,{\blur1.8\fad(250,300)}I dedicate it to you
-Dialogue: 0,0:23:18.46,0:23:22.13,EDTL,,0,0,0,,{\blur4.8\alpha&H70&\bord8.25\3c&H5E382E&\fad(250,300)}I dedicate it to you
-Dialogue: 1,0:23:22.13,0:23:24.38,EDRom,,0,0,0,,{\blur1.8\fad(250,300)}namida no butterfly
-Dialogue: 0,0:23:22.13,0:23:24.38,EDRom,,0,0,0,,{\blur4.8\alpha&H70&\bord8.25\3c&H5E382E&\fad(250,300)}namida no butterfly
-Dialogue: 1,0:23:22.13,0:23:24.38,EDTL,,0,0,0,,{\blur1.8\fad(250,300)}Oh butterfly of tears
-Dialogue: 0,0:23:22.13,0:23:24.38,EDTL,,0,0,0,,{\blur4.8\alpha&H70&\bord8.25\3c&H5E382E&\fad(250,300)}Oh butterfly of tears
-Dialogue: 1,0:23:24.38,0:23:26.34,EDRom,,0,0,0,,{\blur1.8\fad(250,300)}mabushii butterfly
-Dialogue: 0,0:23:24.38,0:23:26.34,EDRom,,0,0,0,,{\blur4.8\alpha&H70&\bord8.25\3c&H5E382E&\fad(250,300)}mabushii butterfly
-Dialogue: 1,0:23:24.38,0:23:26.34,EDTL,,0,0,0,,{\blur1.8\fad(250,300)}butterfly of radiance
-Dialogue: 0,0:23:24.38,0:23:26.34,EDTL,,0,0,0,,{\blur4.8\alpha&H70&\bord8.25\3c&H5E382E&\fad(250,300)}butterfly of radiance
-Dialogue: 1,0:23:26.34,0:23:34.18,EDRom,,0,0,0,,{\blur1.8\fad(250,1000)}subete ga ima kakikaerareru
-Dialogue: 0,0:23:26.34,0:23:34.18,EDRom,,0,0,0,,{\blur4.8\alpha&H70&\bord8.25\3c&H5E382E&\fad(250,1000)}subete ga ima kakikaerareru
-Dialogue: 1,0:23:26.34,0:23:34.18,EDTL,,0,0,0,,{\blur1.8\fad(250,1000)}everything will now be rewritten
-Dialogue: 0,0:23:26.34,0:23:34.18,EDTL,,0,0,0,,{\blur4.8\alpha&H70&\bord8.25\3c&H5E382E&\fad(250,1000)}everything will now be rewritten
+Dialogue: 0,0:04:28.00,0:04:33.00,Title1,,0,0,0,gradient @3b2 1,{\fs97.5\clip(1109,576,1562,587)\pos(1110,682.5)\1c&H5E606A&}Metaphysics
+Dialogue: 0,0:04:28.00,0:04:33.00,Title1,,0,0,0,gradient @3b2 2,{\fs97.5\clip(1109,587,1562,597)\pos(1110,682.5)\1c&H5E606C&}Metaphysics
+Dialogue: 0,0:04:28.00,0:04:33.00,Title1,,0,0,0,gradient @3b2 3,{\fs97.5\clip(1109,597,1562,608)\pos(1110,682.5)\1c&H5E606E&}Metaphysics
+Dialogue: 0,0:04:28.00,0:04:33.00,Title1,,0,0,0,gradient @3b2 4,{\fs97.5\clip(1109,608,1562,618)\pos(1110,682.5)\1c&H5F6170&}Metaphysics
+Dialogue: 0,0:04:28.00,0:04:33.00,Title1,,0,0,0,gradient @3b2 5,{\fs97.5\clip(1109,618,1562,629)\pos(1110,682.5)\1c&H5F6173&}Metaphysics
+Dialogue: 0,0:04:28.00,0:04:33.00,Title1,,0,0,0,gradient @3b2 6,{\fs97.5\clip(1109,629,1562,639)\pos(1110,682.5)\1c&H606275&}Metaphysics
+Dialogue: 0,0:04:28.00,0:04:33.00,Title1,,0,0,0,gradient @3b2 7,{\fs97.5\clip(1109,639,1562,650)\pos(1110,682.5)\1c&H606277&}Metaphysics
+Dialogue: 0,0:04:28.00,0:04:33.00,Title1,,0,0,0,gradient @3b2 8,{\fs97.5\clip(1109,650,1562,660)\pos(1110,682.5)\1c&H616279&}Metaphysics
+Dialogue: 0,0:04:28.00,0:04:33.00,Title1,,0,0,0,gradient @3b2 9,{\fs97.5\clip(1109,660,1562,671)\pos(1110,682.5)\1c&H61627B&}Metaphysics
+Dialogue: 0,0:04:28.00,0:04:33.00,Title1,,0,0,0,gradient @3b2 10,{\fs97.5\clip(1109,671,1562,681)\pos(1110,682.5)\1c&H61637D&}Metaphysics
+Dialogue: 0,0:04:28.00,0:04:33.00,Title1,,0,0,0,gradient @3b2 11,{\fs97.5\clip(1109,681,1562,692)\pos(1110,682.5)\1c&H62647E&}Metaphysics
+Dialogue: 0,0:04:28.00,0:04:33.00,Title1,,0,0,0,gradient @3b2 1,{\clip(1359,690,1683,701)\pos(1360.5,796.5)\1c&H5E606A&}Necrosis
+Dialogue: 0,0:04:28.00,0:04:33.00,Title1,,0,0,0,gradient @3b2 2,{\clip(1359,701,1683,711)\pos(1360.5,796.5)\1c&H5E606C&}Necrosis
+Dialogue: 0,0:04:28.00,0:04:33.00,Title1,,0,0,0,gradient @3b2 3,{\clip(1359,711,1683,722)\pos(1360.5,796.5)\1c&H5E606E&}Necrosis
+Dialogue: 0,0:04:28.00,0:04:33.00,Title1,,0,0,0,gradient @3b2 4,{\clip(1359,722,1683,732)\pos(1360.5,796.5)\1c&H5F6170&}Necrosis
+Dialogue: 0,0:04:28.00,0:04:33.00,Title1,,0,0,0,gradient @3b2 5,{\clip(1359,732,1683,743)\pos(1360.5,796.5)\1c&H5F6173&}Necrosis
+Dialogue: 0,0:04:28.00,0:04:33.00,Title1,,0,0,0,gradient @3b2 6,{\clip(1359,743,1683,753)\pos(1360.5,796.5)\1c&H606275&}Necrosis
+Dialogue: 0,0:04:28.00,0:04:33.00,Title1,,0,0,0,gradient @3b2 7,{\clip(1359,753,1683,764)\pos(1360.5,796.5)\1c&H606277&}Necrosis
+Dialogue: 0,0:04:28.00,0:04:33.00,Title1,,0,0,0,gradient @3b2 8,{\clip(1359,764,1683,774)\pos(1360.5,796.5)\1c&H616279&}Necrosis
+Dialogue: 0,0:04:28.00,0:04:33.00,Title1,,0,0,0,gradient @3b2 9,{\clip(1359,774,1683,785)\pos(1360.5,796.5)\1c&H61627B&}Necrosis
+Dialogue: 0,0:04:28.00,0:04:33.00,Title1,,0,0,0,gradient @3b2 10,{\clip(1359,785,1683,795)\pos(1360.5,796.5)\1c&H61637D&}Necrosis
+Dialogue: 0,0:04:28.00,0:04:33.00,Title1,,0,0,0,gradient @3b2 11,{\clip(1359,795,1683,806)\pos(1360.5,796.5)\1c&H62647E&}Necrosis
+Dialogue: 0,0:04:34.21,0:04:36.26,Default,,0,0,0,,{\i1}Mayuri was still in elementary school
+Dialogue: 0,0:04:36.92,0:04:40.80,Default,,0,0,0,,{\i1}when her grandmother died.
+Dialogue: 0,0:04:42.80,0:04:44.85,Default,,0,0,0,,{\i1}She went to her grave every day.
+Dialogue: 0,0:04:46.14,0:04:48.85,Default,,0,0,0,,{\i1}Even six months after her grandmother's death,
+Dialogue: 0,0:04:48.85,0:04:50.69,Default,,0,0,0,,{\i1}she kept going.
+Dialogue: 0,0:04:52.31,0:04:54.44,Default,,0,0,0,,{\i1}She always had her grandmother's \Npocket watch in her hand,
+Dialogue: 0,0:04:55.57,0:04:58.78,Default,,0,0,0,,{\i1}and she was always, always looking up at the sky...
+Dialogue: 0,0:05:00.32,0:05:04.83,Default,,0,0,0,,{\i1}...like she was waiting for \Nher grandmother to come and get her.
+Dialogue: 0,0:05:06.74,0:05:10.00,Default,,0,0,0,,{\i1}And then one day, there was a ray of light.
+Dialogue: 0,0:05:16.92,0:05:18.51,Default,,0,0,0,,{\i1}It was the kind called Rembrandt lighting...
+Dialogue: 0,0:05:19.84,0:05:22.05,Default,,0,0,0,,{\i1}...or an angel's ladder.
+Dialogue: 0,0:05:23.47,0:05:26.18,Default,,0,0,0,,{\i1}It felt like the light was drawing her up...
+Dialogue: 0,0:05:28.93,0:05:32.56,Default,,0,0,0,,{\i1}...like she was going to disappear...
+Dialogue: 0,0:05:33.23,0:05:33.94,Default,,0,0,0,,Mayuri!
+Dialogue: 0,0:05:38.94,0:05:40.15,Default,,0,0,0,,Okarin...
+Dialogue: 0,0:05:40.95,0:05:42.49,Default,,0,0,0,,I won't let it take you.
+Dialogue: 0,0:05:43.28,0:05:45.41,Default,,0,0,0,,You're going to be my hostage.
+Dialogue: 0,0:05:45.41,0:05:48.12,Default,,0,0,0,,I'll use you for human experimentation.
+Dialogue: 0,0:05:48.83,0:05:51.21,Default,,0,0,0,,{\i1}The words that came out of my mouth
+Dialogue: 0,0:05:51.21,0:05:53.37,Default,,0,0,0,,{\i1}were from some show I'd seen as a little kid.
+Dialogue: 0,0:05:55.00,0:05:56.96,Default,,0,0,0,,{\i1}Mayuri and I had watched it together.
+Dialogue: 0,0:05:57.92,0:06:01.13,Default,,0,0,0,,{\i1}Some mad scientist, screaming like an idiot...
+Dialogue: 0,0:06:02.93,0:06:04.34,Default,,0,0,0,,I see.
+Dialogue: 0,0:06:06.26,0:06:11.06,Default,,0,0,0,,So Mayushii is your hostage, right?
+Dialogue: 0,0:06:13.23,0:06:16.11,Default,,0,0,0,,Then I guess I can't go, huh?
+Dialogue: 0,0:06:33.33,0:06:34.62,Default,,0,0,0,,What's wrong?
+Dialogue: 0,0:06:36.00,0:06:37.96,Default,,0,0,0,,Were you napping?
+Dialogue: 0,0:06:49.51,0:06:50.68,Default,,0,0,0,,What time is it?
+Dialogue: 0,0:06:51.68,0:06:52.56,Default,,0,0,0,,What time is it?!
+Dialogue: 0,0:06:52.56,0:06:54.19,Default,,0,0,0,,What?
+Dialogue: 0,0:06:54.19,0:06:55.56,Default,,0,0,0,,It's almost five.
+Dialogue: 0,0:06:56.06,0:06:57.69,Default,,0,0,0,,You're going shopping, right?
+Dialogue: 0,0:06:58.31,0:06:59.40,Default,,0,0,0,,Shopping...
+Dialogue: 0,0:07:00.27,0:07:02.69,Default,,0,0,0,,I'll order pizza.
+Dialogue: 0,0:07:02.69,0:07:03.82,Default,,0,0,0,,Thanks.
+Dialogue: 0,0:07:03.82,0:07:05.70,Default,,0,0,0,,Just don't get the tropical special.
+Dialogue: 0,0:07:05.70,0:07:06.86,Default,,0,0,0,,I hate that thing.
+Dialogue: 0,0:07:06.86,0:07:08.70,Default,,0,0,0,,Agreed.
+Dialogue: 0,0:07:08.95,0:07:12.20,Default,,0,0,0,,The time leap worked?
+Dialogue: 0,0:07:12.75,0:07:13.54,Default,,0,0,0,,Okabe?
+Dialogue: 0,0:07:13.54,0:07:15.96,Default,,0,0,0,,Where's Mayuri? Where is she?!
+Dialogue: 0,0:07:15.96,0:07:18.33,Default,,0,0,0,,What's wrong with you all of a sudden?
+Dialogue: 0,0:07:18.33,0:07:23.55,Default,,0,0,0,,Mayushii said she was going to Miss Luka's \Nto invite her to the party, remember?
+Dialogue: 0,0:07:25.01,0:07:26.26,Default,,0,0,0,,Are you going shopping?
+Dialogue: 0,0:07:27.01,0:07:28.97,Default,,0,0,0,,The development conference is canceled.
+Dialogue: 0,0:07:28.97,0:07:29.93,Default,,0,0,0,,Canceled?
+Dialogue: 0,0:07:29.93,0:07:30.68,Default,,0,0,0,,Why?
+Dialogue: 0,0:07:30.68,0:07:31.64,Default,,0,0,0,,Did something happen?
+Dialogue: 0,0:07:32.22,0:07:34.89,Default,,0,0,0,,We're done here for today.
+Dialogue: 0,0:07:34.89,0:07:36.94,Default,,0,0,0,,Both of you, go home now!
+Dialogue: 0,0:07:36.94,0:07:37.60,Default,,0,0,0,,What's going on?
+Dialogue: 0,0:07:37.60,0:07:38.94,Default,,0,0,0,,Just go home!
+Dialogue: 0,0:07:38.94,0:07:40.11,Default,,0,0,0,,Okay? Just do it!
+Dialogue: 0,0:07:42.19,0:07:43.36,Default,,0,0,0,,What's with him?
+Dialogue: 0,0:07:43.90,0:07:46.03,Default,,0,0,0,,His phone starts ringing, and then...
+Dialogue: 0,0:07:48.16,0:07:49.12,Default,,0,0,0,,Phone?
+Dialogue: 0,0:07:54.12,0:07:55.75,Default,,0,0,0,,This is Mayushii.
+Dialogue: 0,0:07:55.75,0:07:57.83,Default,,0,0,0,,I can't answer the phone right now!
+Dialogue: 0,0:07:58.54,0:08:00.46,Default,,0,0,0,,If you'd like to leave a message—
+Dialogue: 0,0:08:03.63,0:08:06.30,Default,,0,0,0,,{\i1}There's nothing to indicate \Nthat the worldline changed.
+Dialogue: 0,0:08:07.13,0:08:09.30,Default,,0,0,0,,{\i1}It's different from a D-Mail.
+Dialogue: 0,0:08:09.30,0:08:11.85,Default,,0,0,0,,{\i1}I really am back at 5:00 PM.
+Dialogue: 0,0:08:14.97,0:08:16.89,Default,,0,0,0,,It's the bullet train!
+Dialogue: 0,0:08:17.23,0:08:20.86,Default,,0,0,0,,No, the bullet train is white.
+Dialogue: 0,0:08:21.77,0:08:25.40,Default,,0,0,0,,{\i1}After this, Mayuri will return with Suzuha.
+Dialogue: 0,0:08:27.99,0:08:29.86,Default,,0,0,0,,{\i1}Should I go to the police?
+Dialogue: 0,0:08:29.86,0:08:32.37,Default,,0,0,0,,{\i1}No, who would believe me?
+Dialogue: 0,0:08:32.37,0:08:33.99,Default,,0,0,0,,{\i1}That I've come from the future?
+Dialogue: 0,0:08:35.41,0:08:36.66,Default,,0,0,0,,{\i1}Three hours left...
+Dialogue: 0,0:08:36.66,0:08:38.00,Default,,0,0,0,,{\i1}I have to do something!
+Dialogue: 0,0:08:39.67,0:08:40.42,Default,,0,0,0,,Mayuri!
+Dialogue: 0,0:08:41.17,0:08:41.75,Default,,0,0,0,,Mayuri?!
+Dialogue: 0,0:08:42.50,0:08:45.17,Default,,0,0,0,,O-Oka... No, Kyouma—
+Dialogue: 0,0:08:45.17,0:08:46.67,Default,,0,0,0,,Where's Mayuri?!
+Dialogue: 0,0:08:46.67,0:08:48.67,Default,,0,0,0,,Sh-She already left.
+Dialogue: 0,0:08:48.67,0:08:49.55,Default,,0,0,0,,Left?
+Dialogue: 0,0:08:49.55,0:08:50.43,Default,,0,0,0,,When?
+Dialogue: 0,0:08:50.43,0:08:52.80,Default,,0,0,0,,Th-Thirty minutes ago, I guess.
+Dialogue: 0,0:08:53.43,0:08:55.77,Default,,0,0,0,,She said she was going back to the lab.
+Dialogue: 0,0:08:55.77,0:08:57.52,Default,,0,0,0,,Didn't she get back?
+Dialogue: 0,0:08:57.93,0:08:59.73,Default,,0,0,0,,Um, I'm sorry.
+Dialogue: 0,0:08:59.73,0:09:04.23,Default,,0,0,0,,It was so nice of you to \Ninvite me to the party, but—
+Dialogue: 0,0:09:04.23,0:09:06.32,Default,,0,0,0,,Did she say she was stopping anywhere?
+Dialogue: 0,0:09:06.32,0:09:08.44,Default,,0,0,0,,Mayuri?
+Dialogue: 0,0:09:08.44,0:09:09.15,Default,,0,0,0,,No...
+Dialogue: 0,0:09:09.15,0:09:12.78,Default,,0,0,0,,If you see her, tell her to call me right away!
+Dialogue: 0,0:09:12.78,0:09:14.91,Default,,0,0,0,,O-Okay.
+Dialogue: 0,0:09:15.45,0:09:17.41,Default,,0,0,0,,{\i1}If the worldline hasn't changed...
+Dialogue: 0,0:09:18.62,0:09:20.21,Default,,0,0,0,,{\i1}If I don't do anything differently,
+Dialogue: 0,0:09:20.66,0:09:22.92,Default,,0,0,0,,{\i1}she should do what she did before.
+Dialogue: 0,0:09:23.79,0:09:24.34,Default,,0,0,0,,{\i1}Where is she?
+Dialogue: 0,0:09:26.05,0:09:27.30,Default,,0,0,0,,Nyan-nyan!
+Dialogue: 0,0:09:27.30,0:09:29.80,Default,,0,0,0,,Faris can't answer the phone right now.
+Dialogue: 0,0:09:29.80,0:09:31.18,Default,,0,0,0,,If you need something—
+Dialogue: 0,0:09:38.18,0:09:39.81,Default,,0,0,0,,Where are you, Mayuri?
+Dialogue: 0,0:09:41.23,0:09:42.31,Default,,0,0,0,,Mayuri?
+Dialogue: 0,0:09:42.31,0:09:43.60,Default,,0,0,0,,Too bad.
+Dialogue: 0,0:09:44.11,0:09:45.36,Default,,0,0,0,,Assistant...
+Dialogue: 0,0:09:46.11,0:09:47.82,Default,,0,0,0,,I told you that we were done for the day.
+Dialogue: 0,0:09:47.82,0:09:48.53,Default,,0,0,0,,Go home—
+Dialogue: 0,0:09:48.53,0:09:49.61,Default,,0,0,0,,Be honest.
+Dialogue: 0,0:09:50.07,0:09:53.16,Default,,0,0,0,,You time leaped from the future, didn't you?
+Dialogue: 0,0:09:56.74,0:09:58.62,Default,,0,0,0,,How could you tell?
+Dialogue: 0,0:09:58.62,0:10:02.50,Default,,0,0,0,,The second you answered the phone, \Nyou seemed to change.
+Dialogue: 0,0:10:02.87,0:10:04.04,Default,,0,0,0,,From the way you're acting,
+Dialogue: 0,0:10:04.04,0:10:05.46,Default,,0,0,0,,I can guess that something happened.
+Dialogue: 0,0:10:05.92,0:10:06.84,Default,,0,0,0,,Yeah...
+Dialogue: 0,0:10:07.55,0:10:09.71,Default,,0,0,0,,...but I don't have time to give you the details.
+Dialogue: 0,0:10:10.30,0:10:11.59,Default,,0,0,0,,Just run.
+Dialogue: 0,0:10:11.59,0:10:13.63,Default,,0,0,0,,Run? Where?
+Dialogue: 0,0:10:13.63,0:10:15.01,Default,,0,0,0,,Anywhere.
+Dialogue: 0,0:10:15.01,0:10:16.89,Default,,0,0,0,,Just get away from the lab.
+Dialogue: 0,0:10:16.89,0:10:17.97,Default,,0,0,0,,Got it?
+Dialogue: 0,0:10:18.43,0:10:20.56,Default,,0,0,0,,Tell me later, okay?
+Dialogue: 0,0:10:20.56,0:10:23.14,Default,,0,0,0,,Yeah. Tell Daru too.
+Dialogue: 0,0:10:23.14,0:10:24.06,Default,,0,0,0,,Got it.
+Dialogue: 0,0:10:24.73,0:10:25.81,Default,,0,0,0,,Okabe...
+Dialogue: 0,0:10:25.81,0:10:26.44,Default,,0,0,0,,What is it?
+Dialogue: 0,0:10:27.44,0:10:29.48,Default,,0,0,0,,Don't do anything stupid.
+Dialogue: 0,0:10:31.49,0:10:32.74,Default,,0,0,0,,I know.
+Dialogue: 0,0:10:36.12,0:10:37.66,Default,,0,0,0,,Okabe Rintaro!
+Dialogue: 0,0:10:37.99,0:10:39.37,Default,,0,0,0,,Hey, where's Ochanomizu—{that's a neighborhood name}
+Dialogue: 0,0:10:39.37,0:10:40.95,Default,,0,0,0,,Have you seen Mayuri?!
+Dialogue: 0,0:10:41.62,0:10:43.25,Default,,0,0,0,,Shiina Mayuri?
+Dialogue: 0,0:10:44.50,0:10:46.25,Default,,0,0,0,,She just invited me to your party—
+Dialogue: 0,0:10:46.25,0:10:47.00,Default,,0,0,0,,Where is she?
+Dialogue: 0,0:10:47.00,0:10:49.92,Default,,0,0,0,,Turn right, up there...
+Dialogue: 0,0:10:49.92,0:10:52.42,Default,,0,0,0,,Hey, which way is Ochanomizu?
+Dialogue: 0,0:10:52.42,0:10:55.47,Default,,0,0,0,,I have to take Nae shopping...
+Dialogue: 0,0:10:55.47,0:10:56.80,Default,,0,0,0,,Ask at the police substation{box}!
+Dialogue: 0,0:10:57.09,0:10:59.64,Default,,0,0,0,,And once you've taken her, don't come back!
+Dialogue: 0,0:10:59.64,0:11:01.27,Default,,0,0,0,,What do you mean?
+Dialogue: 0,0:11:01.27,0:11:02.93,Default,,0,0,0,,I'll tell you later.
+Dialogue: 0,0:11:18.78,0:11:19.95,Default,,0,0,0,,Mayuri...
+Dialogue: 0,0:11:20.20,0:11:21.08,Default,,0,0,0,,Mayuri!
+Dialogue: 0,0:11:21.99,0:11:22.58,Default,,0,0,0,,Okarin!
+Dialogue: 0,0:11:23.16,0:11:25.21,Default,,0,0,0,,Look! It's the first star!
+Dialogue: 0,0:11:26.00,0:11:26.87,Default,,0,0,0,,What?
+Dialogue: 0,0:11:26.87,0:11:28.92,Default,,0,0,0,,Just come with me!
+Dialogue: 0,0:11:29.75,0:11:30.79,Default,,0,0,0,,What about the party?
+Dialogue: 0,0:11:30.79,0:11:33.88,Default,,0,0,0,,It was canceled. I told Kurisu and Daru.
+Dialogue: 0,0:11:34.47,0:11:35.47,Default,,0,0,0,,Why?
+Dialogue: 0,0:11:35.47,0:11:37.13,Default,,0,0,0,,I'll tell you later!
+Dialogue: 0,0:11:37.13,0:11:39.51,Default,,0,0,0,,But I asked Suzu to come too,
+Dialogue: 0,0:11:39.51,0:11:41.01,Default,,0,0,0,,and Daru was ordering pizza...
+Dialogue: 0,0:11:41.01,0:11:42.26,Default,,0,0,0,,Just listen to me!
+Dialogue: 0,0:11:44.02,0:11:45.39,Default,,0,0,0,,Okarin...
+Dialogue: 0,0:11:47.19,0:11:48.10,Default,,0,0,0,,I'm sorry.
+Dialogue: 0,0:11:50.48,0:11:54.57,Default,,0,0,0,,Mayushii doesn't understand...
+Dialogue: 0,0:11:54.57,0:11:58.24,Default,,0,0,0,,You always do things I don't understand,
+Dialogue: 0,0:11:58.24,0:12:01.20,Default,,0,0,0,,but today, I really don't understand you.
+Dialogue: 0,0:12:02.41,0:12:06.00,Default,,0,0,0,,Did you really want to \Ndo the experiment, after all?
+Dialogue: 0,0:12:06.37,0:12:07.25,Default,,0,0,0,,Mayuri...
+Dialogue: 0,0:12:11.71,0:12:13.67,Default,,0,0,0,,That's not it.
+Dialogue: 0,0:12:13.67,0:12:16.26,Default,,0,0,0,,But just for now, can you listen to me?
+Dialogue: 0,0:12:18.26,0:12:19.43,Default,,0,0,0,,There's no time.
+Dialogue: 0,0:12:20.59,0:12:22.30,Default,,0,0,0,,I'll explain the details later. I promise.
+Dialogue: 0,0:12:23.93,0:12:25.14,Default,,0,0,0,,Okay.
+Dialogue: 0,0:12:25.14,0:12:28.77,Default,,0,0,0,,Sorry. Mayushii just got scared.
+Dialogue: 0,0:12:29.14,0:12:30.10,Default,,0,0,0,,Don't apologize.
+Dialogue: 0,0:12:31.19,0:12:32.44,Default,,0,0,0,,It's not your fault.
+Dialogue: 0,0:12:40.61,0:12:42.70,Default,,0,0,0,,There are so many people here.
+Dialogue: 0,0:12:42.70,0:12:44.87,Default,,0,0,0,,It's rush hour.
+Dialogue: 0,0:12:45.91,0:12:47.16,Default,,0,0,0,,Huh?
+Dialogue: 0,0:12:47.16,0:12:49.54,Default,,0,0,0,,But no one's on the platform...
+Dialogue: 0,0:12:51.21,0:12:52.71,Default,,0,0,0,,Once again,
+Dialogue: 0,0:12:53.29,0:12:56.88,Default,,0,0,0,,the following lines have been shut down due to a bomb threat.
+Dialogue: 0,0:12:56.88,0:12:59.68,Default,,0,0,0,,They said they don't know when \Nthe trains will start again.
+Dialogue: 0,0:12:59.88,0:13:02.01,Default,,0,0,0,,How stupid of me!
+Dialogue: 0,0:13:02.01,0:13:02.93,Default,,0,0,0,,Not now...
+Dialogue: 0,0:13:03.14,0:13:03.97,Default,,0,0,0,,Okarin?
+Dialogue: 0,0:13:03.97,0:13:06.27,Default,,0,0,0,,Mayuri, get to the subway now!
+Dialogue: 0,0:13:07.10,0:13:08.98,Default,,0,0,0,,Okabe Rintaro, right?
+Dialogue: 0,0:13:13.19,0:13:14.44,Default,,0,0,0,,What's wrong?
+Dialogue: 0,0:13:18.49,0:13:19.95,Default,,0,0,0,,You're coming with me.
+Dialogue: 0,0:13:20.36,0:13:21.95,Default,,0,0,0,,What are you standing there for?
+Dialogue: 0,0:13:21.95,0:13:23.28,Default,,0,0,0,,Move!
+Dialogue: 0,0:13:24.07,0:13:25.08,Default,,0,0,0,,Run!
+Dialogue: 0,0:13:32.42,0:13:33.46,Default,,0,0,0,,Run!
+Dialogue: 0,0:13:33.46,0:13:34.84,Default,,0,0,0,,Run as fast as you can!
+Dialogue: 0,0:13:37.13,0:13:38.34,Default,,0,0,0,,Who are they?
+Dialogue: 0,0:13:40.34,0:13:41.22,Default,,0,0,0,,Okarin!
+Dialogue: 0,0:13:41.22,0:13:41.93,Default,,0,0,0,,Go, quickly!
+Dialogue: 0,0:13:42.51,0:13:44.09,Default,,0,0,0,,Run, Mayuri!
+Dialogue: 0,0:14:04.95,0:14:07.37,Default,,0,0,0,,Shiina Mayuri was the one who died.
+Dialogue: 0,0:14:07.37,0:14:08.41,Default,,0,0,0,,Okabe...
+Dialogue: 0,0:14:08.41,0:14:11.75,Default,,0,0,0,,I mean, Okabe Rintaro has been captured.
+Dialogue: 0,0:14:11.75,0:14:12.41,Default,,0,0,0,,Mayuri!
+Dialogue: 0,0:14:13.92,0:14:15.83,Default,,0,0,0,,Damn it!
+Dialogue: 0,0:14:16.67,0:14:17.84,Default,,0,0,0,,I won't let you kill her!
+Dialogue: 0,0:14:17.84,0:14:20.51,Default,,0,0,0,,{\fad(1,1809)}Mayuri, I will save you!
+Dialogue: 0,0:14:23.80,0:14:24.64,Default,,0,0,0,,I'll save you...
+Dialogue: 0,0:14:29.72,0:14:30.72,Default,,0,0,0,,...no matter what!
+Dialogue: 0,0:14:38.36,0:14:39.23,Default,,0,0,0,,Canceled?
+Dialogue: 0,0:14:39.23,0:14:39.98,Default,,0,0,0,,Why?
+Dialogue: 0,0:14:40.19,0:14:41.78,Default,,0,0,0,,Did something happen?
+Dialogue: 0,0:14:42.69,0:14:44.70,Default,,0,0,0,,Yeah. Actually...
+Dialogue: 0,0:14:45.49,0:14:46.95,Default,,0,0,0,,I got word
+Dialogue: 0,0:14:46.95,0:14:49.49,Default,,0,0,0,,that Mr. Braun is planning to return tonight.
+Dialogue: 0,0:14:49.49,0:14:52.58,Default,,0,0,0,,Okarin, did you do something again?
+Dialogue: 0,0:14:52.58,0:14:54.58,Default,,0,0,0,,Yeah, I suppose so.
+Dialogue: 0,0:14:54.58,0:14:55.71,Default,,0,0,0,,But what about Mayuri?
+Dialogue: 0,0:14:55.71,0:14:57.21,Default,,0,0,0,,I'll talk to her.
+Dialogue: 0,0:14:57.63,0:15:00.30,Default,,0,0,0,,It's dangerous to be here.
+Dialogue: 0,0:15:00.30,0:15:01.67,Default,,0,0,0,,We're done here for today.
+Dialogue: 0,0:15:04.80,0:15:06.14,Default,,0,0,0,,{\i1}Was I too forceful?
+Dialogue: 0,0:15:07.26,0:15:08.26,Default,,0,0,0,,{\i1}No...
+Dialogue: 0,0:15:08.72,0:15:10.56,Default,,0,0,0,,{\i1}It doesn't matter if I was acting weird.
+Dialogue: 0,0:15:11.27,0:15:15.31,Default,,0,0,0,,{\i1}For now, I just need them away from the lab!
+Dialogue: 0,0:15:17.06,0:15:18.65,Default,,0,0,0,,This is Mayushii.
+Dialogue: 0,0:15:18.65,0:15:20.77,Default,,0,0,0,,I can't answer the phone right now!
+Dialogue: 0,0:15:25.07,0:15:26.53,Default,,0,0,0,,{\i1}Why is it taking so long?
+Dialogue: 0,0:15:27.45,0:15:29.41,Default,,0,0,0,,{\i1}It's going to end up like last time!
+Dialogue: 0,0:15:29.41,0:15:30.87,Default,,0,0,0,,{\i1}I need to find Mayuri.
+Dialogue: 0,0:15:32.70,0:15:34.16,Sign1,,0,0,0,,{\frz20.104\fs75\blur3\b1\bord0\pos(1147.5,699)}Lukako
+Dialogue: 0,0:15:37.96,0:15:38.54,Default,,0,0,0,,Hello?
+Dialogue: 0,0:15:38.54,0:15:40.79,Default,,0,0,0,,Lukako! It's me! Okabe!
+Dialogue: 0,0:15:40.79,0:15:43.09,Default,,0,0,0,,Oka... I'm sorry, Kyouma—
+Dialogue: 0,0:15:43.09,0:15:44.17,Default,,0,0,0,,Where's Mayuri?!
+Dialogue: 0,0:15:44.17,0:15:45.38,Default,,0,0,0,,Is Mayuri there?
+Dialogue: 0,0:15:45.38,0:15:47.18,Default,,0,0,0,,Mayuri?
+Dialogue: 0,0:15:47.18,0:15:47.97,Default,,0,0,0,,Yes.
+Dialogue: 0,0:15:47.97,0:15:48.89,Default,,0,0,0,,She's just heading bac—
+Dialogue: 0,0:15:48.89,0:15:50.30,Default,,0,0,0,,Stop her!
+Dialogue: 0,0:15:50.30,0:15:53.97,Default,,0,0,0,,Tell her not to move until I get there!
+Dialogue: 0,0:15:53.97,0:15:55.43,Default,,0,0,0,,She said she was going back to the lab.
+Dialogue: 0,0:15:55.43,0:15:57.64,Default,,0,0,0,,Just do as I say!
+Dialogue: 0,0:15:57.64,0:15:58.60,Default,,0,0,0,,O-Okay.
+Dialogue: 0,0:15:58.90,0:16:00.52,Default,,0,0,0,,Mayuri!
+Dialogue: 0,0:16:04.49,0:16:06.65,Default,,0,0,0,,It's the bullet train!
+Dialogue: 0,0:16:06.65,0:16:09.91,Default,,0,0,0,,No, the bullet train is white.
+Dialogue: 0,0:16:11.87,0:16:12.83,Default,,0,0,0,,Mayuri!
+Dialogue: 0,0:16:13.91,0:16:15.08,Default,,0,0,0,,Okarin!
+Dialogue: 0,0:16:19.29,0:16:20.79,Default,,0,0,0,,Are you okay?
+Dialogue: 0,0:16:20.79,0:16:22.88,Default,,0,0,0,,I was about to go fix Fubuki's costume
+Dialogue: 0,0:16:22.88,0:16:24.80,Default,,0,0,0,,and then go to the lab.
+Dialogue: 0,0:16:24.80,0:16:26.13,Default,,0,0,0,,Fubuki?
+Dialogue: 0,0:16:26.13,0:16:27.22,Default,,0,0,0,,A cosplay friend of yours?
+Dialogue: 0,0:16:27.59,0:16:28.38,Default,,0,0,0,,Yeah!
+Dialogue: 0,0:16:28.38,0:16:32.22,Default,,0,0,0,,She said a thread on the costume \NI made came undone.
+Dialogue: 0,0:16:32.22,0:16:33.22,Default,,0,0,0,,I just got a message from her.
+Dialogue: 0,0:16:33.22,0:16:35.18,Default,,0,0,0,,{\i1}So that's it.
+Dialogue: 0,0:16:35.56,0:16:38.06,Default,,0,0,0,,Once it's fixed, I'll go right to the lab,
+Dialogue: 0,0:16:38.06,0:16:39.60,Default,,0,0,0,,so I'll make it to the party.
+Dialogue: 0,0:16:39.60,0:16:41.15,Default,,0,0,0,,Wait. The party...
+Dialogue: 0,0:16:41.77,0:16:42.94,Default,,0,0,0,,The party was cancel—
+Dialogue: 0,0:16:44.48,0:16:45.40,Default,,0,0,0,,I mean, it was postponed.
+Dialogue: 0,0:16:46.24,0:16:47.57,Default,,0,0,0,,Why?
+Dialogue: 0,0:16:47.57,0:16:50.07,Default,,0,0,0,,We can't use the lab...
+Dialogue: 0,0:16:50.74,0:16:51.62,Default,,0,0,0,,{It can't be helped.}...due to unforeseen consequences.
+Dialogue: 0,0:16:52.74,0:16:54.28,Default,,0,0,0,,I see...
+Dialogue: 0,0:16:54.28,0:16:57.58,Default,,0,0,0,,So I wanted you to come with me for a bit.
+Dialogue: 0,0:16:58.37,0:16:59.67,Default,,0,0,0,,Right now.
+Dialogue: 0,0:16:59.67,0:17:00.50,Default,,0,0,0,,What about Fubuki?
+Dialogue: 0,0:17:00.50,0:17:02.54,Default,,0,0,0,,I'm sorry, but save it for later.
+Dialogue: 0,0:17:02.54,0:17:03.34,Default,,0,0,0,,This is an emergency.
+Dialogue: 0,0:17:03.67,0:17:06.30,Default,,0,0,0,,Um, did something happen?
+Dialogue: 0,0:17:06.30,0:17:09.30,Default,,0,0,0,,Yeah, we're going away for a while.
+Dialogue: 0,0:17:09.84,0:17:10.80,Default,,0,0,0,,On a trip.
+Dialogue: 0,0:17:11.93,0:17:13.72,Default,,0,0,0,,Together?
+Dialogue: 0,0:17:13.72,0:17:15.18,Default,,0,0,0,,Um, well...
+Dialogue: 0,0:17:16.60,0:17:19.23,Default,,0,0,0,,I can put Fubuki off until tomorrow,
+Dialogue: 0,0:17:19.23,0:17:20.69,Default,,0,0,0,,but this is very sudden.
+Dialogue: 0,0:17:20.69,0:17:21.81,Default,,0,0,0,,Where are we going?
+Dialogue: 0,0:17:21.81,0:17:23.31,Default,,0,0,0,,I'll tell you later.
+Dialogue: 0,0:17:23.81,0:17:25.65,Default,,0,0,0,,We don't have much time to catch the train.
+Dialogue: 0,0:17:25.65,0:17:29.32,Default,,0,0,0,,But Mayushii isn't ready at all, and—
+Dialogue: 0,0:17:29.32,0:17:31.41,Default,,0,0,0,,Don't worry about it.
+Dialogue: 0,0:17:31.41,0:17:32.95,Default,,0,0,0,,Come on, let's go.
+Dialogue: 0,0:17:33.53,0:17:35.49,Default,,0,0,0,,Wait, Okarin!
+Dialogue: 0,0:17:36.74,0:17:37.91,Default,,0,0,0,,Um...
+Dialogue: 0,0:17:38.25,0:17:38.95,Default,,0,0,0,,Huh?
+Dialogue: 0,0:17:38.95,0:17:41.00,Default,,0,0,0,,G-Goodbye.
+Dialogue: 0,0:17:41.00,0:17:42.96,Default,,0,0,0,,Yeah, bye-bye!
+Dialogue: 0,0:17:49.59,0:17:53.22,Default,,0,0,0,,Isn't Akihabara Station that way?
+Dialogue: 0,0:17:53.22,0:17:54.39,Default,,0,0,0,,We're taking the subway.
+Dialogue: 0,0:17:55.18,0:17:56.47,Default,,0,0,0,,I see.
+Dialogue: 0,0:18:10.03,0:18:13.91,Default,,0,0,0,,It's been a really long time
+Dialogue: 0,0:18:13.91,0:18:15.57,Default,,0,0,0,,since you dragged me along like this.
+Dialogue: 0,0:18:16.78,0:18:17.53,Default,,0,0,0,,Yeah.
+Dialogue: 0,0:18:30.05,0:18:30.88,Default,,0,0,0,,We're heading back.
+Dialogue: 0,0:18:31.47,0:18:32.34,Default,,0,0,0,,Huh?
+Dialogue: 0,0:18:52.40,0:18:53.07,Default,,0,0,0,,Okay.
+Dialogue: 0,0:18:53.65,0:18:54.45,Default,,0,0,0,,Let's go.
+Dialogue: 0,0:18:57.12,0:18:59.41,Sign1,,0,0,0,,{\blur2.25\fs51\frx14\fry8\frz12.5\pos(877.5,129)}Assistant
+Dialogue: 0,0:18:57.12,0:18:59.41,Sign1,,0,0,0,,{\blur2.25\fs42\frz12.44\frx13\fry0\pos(894,168)\fax.1}Did something happen?
+Dialogue: 0,0:18:57.12,0:18:59.41,Sign1,,0,0,0,,{\blur2.25\frx4\fry6\frz12.46\pos(484.5,471)\fax.075}Tell me later, okay?
+Dialogue: 0,0:19:00.95,0:19:02.08,Default,,0,0,0,,Kurisu, huh?
+Dialogue: 0,0:19:15.13,0:19:19.01,Default,,0,0,0,,My watch isn't working...
+Dialogue: 0,0:19:19.01,0:19:20.39,Default,,0,0,0,,That's strange.
+Dialogue: 0,0:19:20.39,0:19:23.06,Default,,0,0,0,,I just wound it.
+Dialogue: 0,0:19:27.15,0:19:29.23,Default,,0,0,0,,There are so many people here.
+Dialogue: 0,0:19:29.86,0:19:31.53,Default,,0,0,0,,The Sobu line shut down.
+Dialogue: 0,0:19:32.53,0:19:34.36,Default,,0,0,0,,Shut down?
+Dialogue: 0,0:19:34.36,0:19:35.11,Default,,0,0,0,,Yeah.
+Dialogue: 0,0:19:36.07,0:19:38.99,Default,,0,0,0,,A bomb threat was called in.
+Dialogue: 0,0:19:40.53,0:19:41.99,Default,,0,0,0,,I see...
+Dialogue: 0,0:19:45.04,0:19:46.37,Default,,0,0,0,,Hey, Okarin.
+Dialogue: 0,0:19:48.13,0:19:49.42,Default,,0,0,0,,Um, well...
+Dialogue: 0,0:19:49.42,0:19:53.21,Default,,0,0,0,,Mayushii has a lot of questions she wants to ask,
+Dialogue: 0,0:19:53.21,0:19:55.09,Default,,0,0,0,,but it's okay for now.
+Dialogue: 0,0:19:57.30,0:19:58.89,Default,,0,0,0,,In exchange,
+Dialogue: 0,0:19:58.89,0:20:01.68,Default,,0,0,0,,when this is over, \NI want you to tell me everything.
+Dialogue: 0,0:20:05.27,0:20:06.60,Default,,0,0,0,,Yeah.
+Dialogue: 0,0:20:08.69,0:20:09.73,Default,,0,0,0,,I promise.
+Dialogue: 0,0:20:12.73,0:20:13.86,Default,,0,0,0,,I'm sorry...
+Dialogue: 0,0:20:15.86,0:20:19.82,Default,,0,0,0,,I'm sorry I can't help you.
+Dialogue: 0,0:20:26.33,0:20:29.08,Default,,0,0,0,,Let's have that party sometime.
+Dialogue: 0,0:20:31.00,0:20:31.71,Default,,0,0,0,,Yeah...
+Dialogue: 0,0:20:32.25,0:20:33.13,Default,,0,0,0,,Sometime.
+Dialogue: 0,0:20:39.34,0:20:40.39,Default,,0,0,0,,Sometime...
+Dialogue: 0,0:20:41.72,0:20:42.76,Default,,0,0,0,,For sure.
+Dialogue: 0,0:20:47.89,0:20:49.69,Default,,0,0,0,,Big sis Mayuri!
+Dialogue: 0,0:21:36.53,0:21:38.24,Default,,0,0,0,,It wasn't...
+Dialogue: 0,0:21:39.49,0:21:41.07,Default,,0,0,0,,I didn't mean to...
+Dialogue: 0,0:21:43.45,0:21:48.75,Default,,0,0,0,,I just wanted to surprise her...
+Dialogue: 0,0:21:58.30,0:21:59.51,Default,,0,0,0,,I won't let you kill her!
+Dialogue: 0,0:22:01.01,0:22:03.55,Default,,0,0,0,,Mayuri, I {\i1}will{\i0}...
+Dialogue: 0,0:22:05.72,0:22:06.60,Default,,0,0,0,,...save you!
+Dialogue: 1,0:22:21.24,0:22:30.29,EDRom,,0,0,0,,{\blur1.8\fad(250,1500)}kisei sareta shikai mujihi naru
+Dialogue: 0,0:22:21.24,0:22:30.29,EDRom,,0,0,0,,{\blur4.8\alpha&H70&\bord8.25\3c&H5E382E&\fad(250,1500)}kisei sareta shikai mujihi naru
+Dialogue: 1,0:22:21.24,0:22:30.29,EDTL,,0,0,0,,{\blur1.8\fad(250,1500)}With my field of view restricted
+Dialogue: 0,0:22:21.24,0:22:30.29,EDTL,,0,0,0,,{\blur4.8\\alpha&H70&\bord8.25\3c&H5E382E&\fad(250,1500)}With my field of view restricted
+Dialogue: 1,0:22:30.29,0:22:37.88,EDRom,,0,0,0,,{\blur1.8\fad(250,300)}juuni no shihai nogarerarenai
+Dialogue: 0,0:22:30.29,0:22:37.88,EDRom,,0,0,0,,{\blur4.8\alpha&H70&\bord8.25\3c&H5E382E&\fad(250,300)}juuni no shihai nogarerarenai
+Dialogue: 1,0:22:30.29,0:22:37.88,EDTL,,0,0,0,,{\blur1.8\fad(250,300)}I cannot escape the merciless control of the twelve
+Dialogue: 0,0:22:30.29,0:22:37.88,EDTL,,0,0,0,,{\blur4.8\\alpha&H70&\bord8.25\3c&H5E382E&\fad(250,300)}I cannot escape the merciless control of the twelve
+Dialogue: 1,0:22:37.88,0:22:46.22,EDRom,,0,0,0,,{\blur1.8\fad(250,300)}ansoku no asu wo negatta
+Dialogue: 0,0:22:37.88,0:22:46.22,EDRom,,0,0,0,,{\blur4.8\alpha&H70&\bord8.25\3c&H5E382E&\fad(250,300)}ansoku no asu wo negatta
+Dialogue: 1,0:22:37.88,0:22:46.22,EDTL,,0,0,0,,{\blur1.8\fad(250,300)}While wishing for a tomorrow of repose
+Dialogue: 0,0:22:37.88,0:22:46.22,EDTL,,0,0,0,,{\blur4.8\alpha&H70&\bord8.25\3c&H5E382E&\fad(250,300)}While wishing for a tomorrow of repose
+Dialogue: 1,0:22:46.76,0:22:55.31,EDRom,,0,0,0,,{\blur1.8\fad(250,300)}te no naka no toutoi jishou no chihei he
+Dialogue: 0,0:22:46.76,0:22:55.31,EDRom,,0,0,0,,{\blur4.8\alpha&H70&\bord8.25\3c&H5E382E&\fad(250,300)}te no naka no toutoi jishou no chihei he
+Dialogue: 1,0:22:46.76,0:22:55.31,EDTL,,0,0,0,,{\blur1.8\fad(250,300)}I headed for the sacred event horizon in my hand
+Dialogue: 0,0:22:46.76,0:22:55.31,EDTL,,0,0,0,,{\blur4.8\alpha&H70&\bord8.25\3c&H5E382E&\fad(250,300)}I headed for the sacred event horizon in my hand
+Dialogue: 1,0:22:55.44,0:23:03.86,EDRom,,0,0,0,,{\blur1.8\fad(100,300)}toraware shi meiyaku arawareta gishou no rinkaku
+Dialogue: 0,0:22:55.44,0:23:03.86,EDRom,,0,0,0,,{\blur4.8\alpha&H70&\bord8.25\3c&H5E382E&\fad(100,300)}toraware shi meiyaku arawareta gishou no rinkaku
+Dialogue: 1,0:22:55.44,0:23:03.86,EDTL,,0,0,0,,{\blur1.8\fad(250,300)}Pledges are imprisoned, and false evidences are showing their outline
+Dialogue: 0,0:22:55.44,0:23:03.86,EDTL,,0,0,0,,{\blur4.8\alpha&H70&\bord8.25\3c&H5E382E&\fad(250,300)}Pledges are imprisoned, and false evidences are showing their outline
+Dialogue: 1,0:23:03.86,0:23:13.29,EDRom,,0,0,0,,{\blur1.8\fad(250,300)}seimei no tenchi wa moumoku na jikan wo kizanda
+Dialogue: 0,0:23:03.86,0:23:13.29,EDRom,,0,0,0,,{\blur4.8\alpha&H70&\bord8.25\3c&H5E382E&\fad(250,300)}seimei no tenchi wa moumoku na jikan wo kizanda
+Dialogue: 1,0:23:03.86,0:23:13.29,EDTL,,0,0,0,,{\blur1.8\fad(250,300)}This world of life blindly lets the time pass by
+Dialogue: 0,0:23:03.86,0:23:13.29,EDTL,,0,0,0,,{\blur4.8\alpha&H70&\bord8.25\3c&H5E382E&\fad(250,300)}This world of life blindly lets the time pass by
+Dialogue: 1,0:23:13.29,0:23:15.46,EDRom,,0,0,0,,{\blur1.8\fad(250,300)}habatake butterfly
+Dialogue: 0,0:23:13.29,0:23:15.46,EDRom,,0,0,0,,{\blur4.8\alpha&H70&\bord8.25\3c&H5E382E&\fad(250,300)}habatake butterfly
+Dialogue: 1,0:23:13.29,0:23:15.46,EDTL,,0,0,0,,{\blur1.8\fad(250,300)}Spread your wings
+Dialogue: 0,0:23:13.29,0:23:15.46,EDTL,,0,0,0,,{\blur4.8\alpha&H70&\bord8.25\3c&H5E382E&\fad(250,300)}Spread your wings
+Dialogue: 1,0:23:15.46,0:23:18.42,EDRom,,0,0,0,,{\blur1.8\fad(250,400)}kiseki no butterfly
+Dialogue: 0,0:23:15.46,0:23:18.42,EDRom,,0,0,0,,{\blur4.8\alpha&H70&\bord8.25\3c&H5E382E&\fad(250,400)}kiseki no butterfly
+Dialogue: 1,0:23:15.46,0:23:18.42,EDTL,,0,0,0,,{\blur1.8\fad(250,400)}butterfly of miracles
+Dialogue: 0,0:23:15.46,0:23:18.42,EDTL,,0,0,0,,{\blur4.8\alpha&H70&\bord8.25\3c&H5E382E&\fad(250,400)}butterfly of miracles
+Dialogue: 1,0:23:18.42,0:23:22.09,EDRom,,0,0,0,,{\blur1.8\fad(250,300)}anata he sasagu
+Dialogue: 0,0:23:18.42,0:23:22.09,EDRom,,0,0,0,,{\blur4.8\alpha&H70&\bord8.25\3c&H5E382E&\fad(250,300)}anata he sasagu
+Dialogue: 1,0:23:18.42,0:23:22.09,EDTL,,0,0,0,,{\blur1.8\fad(250,300)}I dedicate it to you
+Dialogue: 0,0:23:18.42,0:23:22.09,EDTL,,0,0,0,,{\blur4.8\alpha&H70&\bord8.25\3c&H5E382E&\fad(250,300)}I dedicate it to you
+Dialogue: 1,0:23:22.09,0:23:24.34,EDRom,,0,0,0,,{\blur1.8\fad(250,300)}namida no butterfly
+Dialogue: 0,0:23:22.09,0:23:24.34,EDRom,,0,0,0,,{\blur4.8\alpha&H70&\bord8.25\3c&H5E382E&\fad(250,300)}namida no butterfly
+Dialogue: 1,0:23:22.09,0:23:24.34,EDTL,,0,0,0,,{\blur1.8\fad(250,300)}Oh butterfly of tears
+Dialogue: 0,0:23:22.09,0:23:24.34,EDTL,,0,0,0,,{\blur4.8\alpha&H70&\bord8.25\3c&H5E382E&\fad(250,300)}Oh butterfly of tears
+Dialogue: 1,0:23:24.34,0:23:26.30,EDRom,,0,0,0,,{\blur1.8\fad(250,300)}mabushii butterfly
+Dialogue: 0,0:23:24.34,0:23:26.30,EDRom,,0,0,0,,{\blur4.8\alpha&H70&\bord8.25\3c&H5E382E&\fad(250,300)}mabushii butterfly
+Dialogue: 1,0:23:24.34,0:23:26.30,EDTL,,0,0,0,,{\blur1.8\fad(250,300)}butterfly of radiance
+Dialogue: 0,0:23:24.34,0:23:26.30,EDTL,,0,0,0,,{\blur4.8\alpha&H70&\bord8.25\3c&H5E382E&\fad(250,300)}butterfly of radiance
+Dialogue: 1,0:23:26.30,0:23:34.14,EDRom,,0,0,0,,{\blur1.8\fad(250,1000)}subete ga ima kakikaerareru
+Dialogue: 0,0:23:26.30,0:23:34.14,EDRom,,0,0,0,,{\blur4.8\alpha&H70&\bord8.25\3c&H5E382E&\fad(250,1000)}subete ga ima kakikaerareru
+Dialogue: 1,0:23:26.30,0:23:34.14,EDTL,,0,0,0,,{\blur1.8\fad(250,1000)}everything will now be rewritten
+Dialogue: 0,0:23:26.30,0:23:34.14,EDTL,,0,0,0,,{\blur4.8\alpha&H70&\bord8.25\3c&H5E382E&\fad(250,1000)}everything will now be rewritten
