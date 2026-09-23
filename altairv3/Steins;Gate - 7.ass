@@ -29,9 +29,9 @@ Video File: //192.168.1.99/mnt/12tb/media/_downloads/temp/[AOmundson] Steins;Gat
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 17
-Active Line: 33
-Video Position: 2814
+Scroll Position: 419
+Active Line: 423
+Video Position: 4962
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -469,7 +469,6 @@ Dialogue: 0,0:03:23.31,0:03:23.52,op kara,,0,0,0,fx,{\pos(955.5,55.5)\alpha&H70&
 Dialogue: 0,0:03:23.52,0:03:23.73,op kara,,0,0,0,fx,{\pos(960,49.5)\alpha&H00&\blur1.5\bord1.5}nomikomareteyuku kodoku no kansokusha
 Dialogue: 0,0:03:23.73,0:03:23.89,op kara,,0,0,0,fx,{\pos(960,52.5)\alpha&H00&\blur3}nomikomareteyuku kodoku no kansokusha
 Dialogue: 0,0:03:23.89,0:03:23.98,op kara,,0,0,0,fx,{\pos(955.5,55.5)\alpha&H70&\blur3}nomikomareteyuku kodoku no kansokusha
-Dialogue: 0,0:03:25.98,0:03:27.98,op trans,,0,0,0,,
 Dialogue: 0,0:03:27.02,0:03:32.07,Title1,,0,0,0,gradient @39b 1,{\fscx57.5\fscy68.75\fsp-6\clip(1269,615,1950,630)\pos(1270.5,616.5)\1c&H5C5F60&}Divergence
 Dialogue: 0,0:03:27.02,0:03:32.07,Title1,,0,0,0,gradient @39b 2,{\fscx57.5\fscy68.75\fsp-6\clip(1269,630,1950,645)\pos(1270.5,616.5)\1c&H5C5F60&}Divergence
 Dialogue: 0,0:03:27.02,0:03:32.07,Title1,,0,0,0,gradient @39b 3,{\fscx57.5\fscy68.75\fsp-6\clip(1269,645,1950,660)\pos(1270.5,616.5)\1c&H5C5F60&}Divergence
