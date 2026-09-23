@@ -29,9 +29,9 @@ Video File: //192.168.1.99/mnt/12tb/media/_downloads/temp/[AOmundson] Steins;Gat
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 643
-Active Line: 656
-Video Position: 21269
+Scroll Position: 805
+Active Line: 811
+Video Position: 31256
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -869,12 +869,12 @@ Dialogue: 0,0:21:36.98,0:21:37.61,Sign1,,0,0,0,,{\blur3\b1\bord1.5\3c&HEEE9E9&\f
 Dialogue: 0,0:21:37.61,0:21:38.07,Sign1,,0,0,0,,{\blur3\b1\bord1.5\3c&HEEE9E9&\fscx211.25\fscy138.75\pos(52.5,783)}Makise Kurisu."
 Dialogue: 0,0:21:38.61,0:21:39.28,Default,,0,0,0,,See?
 Dialogue: 0,0:21:40.28,0:21:43.62,Default,,0,0,0,,Last week... Let me check my sent folder.
-Dialogue: 0,0:21:43.66,0:21:44.62,Sign1,SIGNS MAKE NO SENSE!,0,0,0,,{\pos(196.5,312)\blur1.5\fs45\c&HDBD6D7&}Mayuri \NRe: Upa...
-Dialogue: 0,0:21:43.66,0:21:44.62,Sign1,SIGNS MAKE NO SENSE!,0,0,0,,{\pos(196.5,628.5)\blur1.5\fs45\c&HDBD6D7&}Daru \NLet's go!
-Dialogue: 0,0:21:43.66,0:21:44.62,Sign1,SIGNS MAKE NO SENSE!,0,0,0,,{\pos(196.5,895.5)\blur1.5\fs45\c&HDBD6D7&}Mayuri \NLook at \Nthis
-Dialogue: 0,0:21:44.62,0:21:44.83,Sign1,SIGNS MAKE NO SENSE!,0,0,0,,{\blur1.5\fs45\c&HDBD6D7&\pos(196.5,304.5)}\NDaru \NLet's go!
-Dialogue: 0,0:21:44.62,0:21:44.83,Sign1,SIGNS MAKE NO SENSE!,0,0,0,,{\blur1.5\fs45\c&HDBD6D7&\pos(196.5,586.5)}Mayuri \NLook at \Nthis
-Dialogue: 0,0:21:44.62,0:21:44.83,Sign1,SIGNS MAKE NO SENSE!,0,0,0,,{\blur1.5\fs45\c&HDBD6D7&\pos(196.5,898.5)}Mayuri \NRe: Don't \Nsell it
+Dialogue: 0,0:21:43.62,0:21:44.66,Sign1,SIGNS MAKE NO SENSE!,0,0,0,,{\pos(196.5,312)\blur1.5\fs45\c&HDBD6D7&}Mayuri \NRe: Upa...
+Dialogue: 0,0:21:43.62,0:21:44.66,Sign1,SIGNS MAKE NO SENSE!,0,0,0,,{\pos(196.5,628.5)\blur1.5\fs45\c&HDBD6D7&}Daru \NLet's go!
+Dialogue: 0,0:21:43.62,0:21:44.66,Sign1,SIGNS MAKE NO SENSE!,0,0,0,,{\pos(196.5,895.5)\blur1.5\fs45\c&HDBD6D7&}Mayuri \NLook at \Nthis
+Dialogue: 0,0:21:44.66,0:21:44.83,Sign1,SIGNS MAKE NO SENSE!,0,0,0,,{\blur1.5\fs45\c&HDBD6D7&\pos(196.5,304.5)}\NDaru \NLet's go!
+Dialogue: 0,0:21:44.66,0:21:44.83,Sign1,SIGNS MAKE NO SENSE!,0,0,0,,{\blur1.5\fs45\c&HDBD6D7&\pos(196.5,586.5)}Mayuri \NLook at \Nthis
+Dialogue: 0,0:21:44.66,0:21:44.83,Sign1,SIGNS MAKE NO SENSE!,0,0,0,,{\blur1.5\fs45\c&HDBD6D7&\pos(196.5,898.5)}Mayuri \NRe: Don't \Nsell it
 Dialogue: 0,0:21:44.83,0:21:44.99,Sign1,SIGNS MAKE NO SENSE!,0,0,0,,{\blur1.5\fs45\c&HDBD6D7&\pos(196.5,264)}\NMayuri \NLook at \Nthis
 Dialogue: 0,0:21:44.83,0:21:44.99,Sign1,SIGNS MAKE NO SENSE!,0,0,0,,{\blur1.5\fs45\c&HDBD6D7&\pos(196.5,594)}Mayuri \NRe: Don't \Nsell it
 Dialogue: 0,0:21:44.83,0:21:44.99,Sign1,SIGNS MAKE NO SENSE!,0,0,0,,{\blur1.5\fs45\c&HDBD6D7&\pos(196.5,865.5)}Faris \NRe: \NRevival Prophecy \NSong
