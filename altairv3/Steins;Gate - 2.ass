@@ -29,9 +29,9 @@ Video File: //192.168.1.99/mnt/12tb/media/_downloads/temp/[AOmundson] Steins;Gat
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 264
-Active Line: 267
-Video Position: 3257
+Scroll Position: 777
+Active Line: 782
+Video Position: 28027
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -460,8 +460,6 @@ Dialogue: 0,0:02:41.14,0:02:41.31,op kara,,0,0,0,fx,{\pos(955.5,55.5)\alpha&H70&
 Dialogue: 0,0:02:41.31,0:02:41.52,op kara,,0,0,0,fx,{\pos(960,49.5)\alpha&H00&\blur1.5\bord1.5}nomikomareteyuku kodoku no kansokusha
 Dialogue: 0,0:02:41.52,0:02:41.72,op kara,,0,0,0,fx,{\pos(960,52.5)\alpha&H00&\blur3}nomikomareteyuku kodoku no kansokusha
 Dialogue: 0,0:02:41.72,0:02:41.77,op kara,,0,0,0,fx,{\pos(955.5,55.5)\alpha&H70&\blur3}nomikomareteyuku kodoku no kansokusha
-Dialogue: 0,0:02:41.85,0:02:43.85,op trans,,0,0,0,,
-Dialogue: 0,0:02:43.85,0:02:45.85,op trans,,0,0,0,,
 Dialogue: 0,0:02:45.02,0:02:50.02,Title1,,0,0,0,,{\fsp-6\fscx83.75\fscy87.5\pos(1161,535.5)}Time Travel
 Dialogue: 0,0:02:45.02,0:02:50.02,Title1,,0,0,0,gradient @ed7 1,{\fsp-6\clip(1434,584,1718,599)\pos(1435.5,585)\1c&H66676E&}Paranoia
 Dialogue: 0,0:02:45.02,0:02:50.02,Title1,,0,0,0,gradient @ed7 2,{\fsp-6\clip(1434,599,1718,614)\pos(1435.5,585)\1c&H63646E&}Paranoia
@@ -836,7 +834,7 @@ Dialogue: 0,0:19:18.35,0:19:19.89,SignJ,,0,0,0,,{\be2\bord1.5\c&H4E5C84&\3c&H495
 Dialogue: 0,0:19:18.89,0:19:20.97,Default,,0,0,0,,It's my "The World is in Danger" omelet!
 Dialogue: 0,0:19:20.97,0:19:22.43,Default,,0,0,0,,Yummy...
 Dialogue: 0,0:19:22.43,0:19:24.10,Default,,0,0,0,,Calm down.
-Dialogue: 0,0:19:25.73,0:19:28.90,SignJ,,0,0,0,,The World is in Danger!!
+Dialogue: 0,0:19:25.73,0:19:28.98,SignJ,,0,0,0,,The World is in Danger!!
 Dialogue: 0,0:19:31.40,0:19:34.86,Default,,0,0,0,,The analysis conducted by the university laboratory
 Dialogue: 0,0:19:34.86,0:19:36.11,Default,,0,0,0,,reveals that the gel-banas
 Dialogue: 0,0:19:36.11,0:19:37.86,Default,,0,0,0,,have been torn apart at a molecular level.
