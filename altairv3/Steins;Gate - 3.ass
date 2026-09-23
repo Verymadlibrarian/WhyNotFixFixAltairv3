@@ -28,7 +28,9 @@ Video File: //192.168.1.99/mnt/12tb/media/_downloads/temp/[AOmundson] Steins;Gat
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 1.000000
-Active Line: 46
+Scroll Position: 416
+Active Line: 432
+Video Position: 4626
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -466,19 +468,19 @@ Dialogue: 0,0:03:04.23,0:03:04.43,op kara,,0,0,0,fx,{\pos(955.5,55.5)\alpha&H70&
 Dialogue: 0,0:03:04.43,0:03:04.63,op kara,,0,0,0,fx,{\pos(960,49.5)\alpha&H00&\blur1.5\bord1.5}nomikomareteyuku kodoku no kansokusha
 Dialogue: 0,0:03:04.63,0:03:04.83,op kara,,0,0,0,fx,{\pos(960,52.5)\alpha&H00&\blur3}nomikomareteyuku kodoku no kansokusha
 Dialogue: 0,0:03:04.83,0:03:04.88,op kara,,0,0,0,fx,{\pos(955.5,55.5)\alpha&H70&\blur3}nomikomareteyuku kodoku no kansokusha
-Comment: 0,0:03:07.95,0:03:12.99,Title1,,0,0,0,gradient @bdd 0,{\fsp-6\pos(1465.5,648)}Paranoia
-Dialogue: 0,0:03:07.95,0:03:12.99,Title1,,0,0,0,,{\fsp-6\fscx70\fscy80\pos(1216.5,594)}Parallel World
-Dialogue: 0,0:03:07.95,0:03:12.99,Title1,,0,0,0,gradient @bdd 1,{\clip(1464,647,1800,657)\pos(1465.5,648)\1c&H5C5F60&}Paranoia
-Dialogue: 0,0:03:07.95,0:03:12.99,Title1,,0,0,0,gradient @bdd 2,{\clip(1464,657,1800,668)\pos(1465.5,648)\1c&H5C5F60&}Paranoia
-Dialogue: 0,0:03:07.95,0:03:12.99,Title1,,0,0,0,gradient @bdd 3,{\clip(1464,668,1800,678)\pos(1465.5,648)\1c&H5C5F60&}Paranoia
-Dialogue: 0,0:03:07.95,0:03:12.99,Title1,,0,0,0,gradient @bdd 4,{\clip(1464,678,1800,689)\pos(1465.5,648)\1c&H5C5F60&}Paranoia
-Dialogue: 0,0:03:07.95,0:03:12.99,Title1,,0,0,0,gradient @bdd 5,{\clip(1464,689,1800,699)\pos(1465.5,648)\1c&H5C5F60&}Paranoia
-Dialogue: 0,0:03:07.95,0:03:12.99,Title1,,0,0,0,gradient @bdd 6,{\clip(1464,699,1800,710)\pos(1465.5,648)\1c&H5C5F64&}Paranoia
-Dialogue: 0,0:03:07.95,0:03:12.99,Title1,,0,0,0,gradient @bdd 7,{\clip(1464,710,1800,720)\pos(1465.5,648)\1c&H5E616D&}Paranoia
-Dialogue: 0,0:03:07.95,0:03:12.99,Title1,,0,0,0,gradient @bdd 8,{\clip(1464,720,1800,731)\pos(1465.5,648)\1c&H606377&}Paranoia
-Dialogue: 0,0:03:07.95,0:03:12.99,Title1,,0,0,0,gradient @bdd 9,{\clip(1464,731,1800,741)\pos(1465.5,648)\1c&H62657F&}Paranoia
-Dialogue: 0,0:03:07.95,0:03:12.99,Title1,,0,0,0,gradient @bdd 10,{\clip(1464,741,1800,752)\pos(1465.5,648)\1c&H646689&}Paranoia
-Dialogue: 0,0:03:07.95,0:03:12.99,Title1,,0,0,0,gradient @bdd 11,{\clip(1464,752,1800,762)\pos(1465.5,648)\1c&H65678A&}Paranoia
+Comment: 0,0:03:07.95,0:03:12.96,Title1,,0,0,0,gradient @bdd 0,{\fsp-6\pos(1465.5,648)}Paranoia
+Dialogue: 0,0:03:07.95,0:03:12.96,Title1,,0,0,0,,{\fsp-6\fscx70\fscy80\pos(1216.5,594)}Parallel World
+Dialogue: 0,0:03:07.95,0:03:12.96,Title1,,0,0,0,gradient @bdd 1,{\clip(1464,647,1800,657)\pos(1465.5,648)\1c&H5C5F60&}Paranoia
+Dialogue: 0,0:03:07.95,0:03:12.96,Title1,,0,0,0,gradient @bdd 2,{\clip(1464,657,1800,668)\pos(1465.5,648)\1c&H5C5F60&}Paranoia
+Dialogue: 0,0:03:07.95,0:03:12.96,Title1,,0,0,0,gradient @bdd 3,{\clip(1464,668,1800,678)\pos(1465.5,648)\1c&H5C5F60&}Paranoia
+Dialogue: 0,0:03:07.95,0:03:12.96,Title1,,0,0,0,gradient @bdd 4,{\clip(1464,678,1800,689)\pos(1465.5,648)\1c&H5C5F60&}Paranoia
+Dialogue: 0,0:03:07.95,0:03:12.96,Title1,,0,0,0,gradient @bdd 5,{\clip(1464,689,1800,699)\pos(1465.5,648)\1c&H5C5F60&}Paranoia
+Dialogue: 0,0:03:07.95,0:03:12.96,Title1,,0,0,0,gradient @bdd 6,{\clip(1464,699,1800,710)\pos(1465.5,648)\1c&H5C5F64&}Paranoia
+Dialogue: 0,0:03:07.95,0:03:12.96,Title1,,0,0,0,gradient @bdd 7,{\clip(1464,710,1800,720)\pos(1465.5,648)\1c&H5E616D&}Paranoia
+Dialogue: 0,0:03:07.95,0:03:12.96,Title1,,0,0,0,gradient @bdd 8,{\clip(1464,720,1800,731)\pos(1465.5,648)\1c&H606377&}Paranoia
+Dialogue: 0,0:03:07.95,0:03:12.96,Title1,,0,0,0,gradient @bdd 9,{\clip(1464,731,1800,741)\pos(1465.5,648)\1c&H62657F&}Paranoia
+Dialogue: 0,0:03:07.95,0:03:12.96,Title1,,0,0,0,gradient @bdd 10,{\clip(1464,741,1800,752)\pos(1465.5,648)\1c&H646689&}Paranoia
+Dialogue: 0,0:03:07.95,0:03:12.96,Title1,,0,0,0,gradient @bdd 11,{\clip(1464,752,1800,762)\pos(1465.5,648)\1c&H65678A&}Paranoia
 Dialogue: 0,0:03:23.59,0:03:25.17,Default,,0,0,0,,There's no damage to the stalk.
 Dialogue: 0,0:03:25.42,0:03:26.72,Default,,0,0,0,,It's not some kind of trick.
 Dialogue: 0,0:03:27.84,0:03:30.18,Default,,0,0,0,,She may attempt to trigger some sort of explosive.
