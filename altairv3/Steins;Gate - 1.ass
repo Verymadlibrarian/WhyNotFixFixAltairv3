@@ -29,9 +29,9 @@ Video File: //192.168.1.99/mnt/12tb/media/_downloads/temp/[AOmundson] Steins;Gat
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 640
-Active Line: 655
-Video Position: 21116
+Scroll Position: 643
+Active Line: 656
+Video Position: 21269
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -713,11 +713,11 @@ Dialogue: 0,0:14:29.31,0:14:30.43,Default,,0,0,0,,You shouldn't go hiding in you
 Dialogue: 0,0:14:30.85,0:14:33.56,Default,,0,0,0,,You should listen to what others have to say.
 Dialogue: 0,0:14:33.56,0:14:37.36,Default,,0,0,0,,So, this is today's "you're the last one I want to hear that from" thread?
 Dialogue: 0,0:14:37.36,0:14:40.40,Default,,0,0,0,,Anyway, it looks like the news helicopter has arrived.
-Dialogue: 0,0:14:40.78,0:14:47.16,Title1,,0,0,0,,{\be2\b1\bord4.5\c&HE6E3F0&\3c&H372DA3&\fscx55\fscy72.5\pos(51,837)}Special Report
-Dialogue: 0,0:14:40.78,0:14:47.16,Title1,,0,0,0,,{\be2\fscx60\fscy46.25\c&H505192&\pos(1192.5,921)}Where did it come from?
-Dialogue: 0,0:14:40.78,0:14:47.16,Title1,,0,0,0,,{\be2\bord3\fscx60\fscy46.25\c&HB9C9C9&\3c&H505A58&\pos(1194,961.5)}A mysterious satellite appears!!
-Dialogue: 0,0:14:40.78,0:14:44.57,Default,,0,0,0,,The object, thought to be some sort of satellite, crashed in Akihabara, Tokyo,
-Dialogue: 0,0:14:44.57,0:14:47.16,Default,,0,0,0,,around 12 o'clock today.
+Dialogue: 0,0:14:40.73,0:14:47.12,Title1,,0,0,0,,{\be2\b1\bord4.5\c&HE6E3F0&\3c&H372DA3&\fscx55\fscy72.5\pos(51,837)}Special Report
+Dialogue: 0,0:14:40.73,0:14:47.12,Title1,,0,0,0,,{\be2\fscx60\fscy46.25\c&H505192&\pos(1192.5,921)}Where did it come from?
+Dialogue: 0,0:14:40.73,0:14:47.12,Title1,,0,0,0,,{\be2\bord3\fscx60\fscy46.25\c&HB9C9C9&\3c&H505A58&\pos(1194,961.5)}A mysterious satellite appears!!
+Dialogue: 0,0:14:40.73,0:14:44.57,Default,,0,0,0,,The object, thought to be some sort of satellite, crashed in Akihabara, Tokyo,
+Dialogue: 0,0:14:44.57,0:14:47.12,Default,,0,0,0,,around 12 o'clock today.
 Dialogue: 0,0:14:49.91,0:14:52.96,Default,,0,0,0,,What was that?
 Dialogue: 0,0:14:53.83,0:14:58.13,Default,,0,0,0,,This morning, Mayuri and I left the lab for Radio Kaikan,
 Dialogue: 0,0:14:58.67,0:15:00.67,Default,,0,0,0,,to attend Doctor Nakabachi's press conference.
