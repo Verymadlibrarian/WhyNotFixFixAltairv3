@@ -25,13 +25,13 @@ YCbCr Matrix: TV.709
 [Aegisub Project Garbage]
 Last Style Storage: s;g 720p
 Audio File: //192.168.1.99/mnt/12tb/media/_downloads/temp/[AOmundson] Steins;Gate Complete Series 1080p [Multi-Audio]/01. Steins;Gate/Steins;Gate - 02.mkv
-Video File: //192.168.1.99/mnt/12tb/media/_downloads/temp/[AOmundson] Steins;Gate Complete Series 1080p [Multi-Audio]/01. Steins;Gate/Steins;Gate - 02.mkv
+Video File: G:/SteinsGate/02/sg02-video-encoded.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 777
-Active Line: 782
-Video Position: 28027
+Scroll Position: 833
+Active Line: 839
+Video Position: 31912
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -551,7 +551,7 @@ Dialogue: 0,0:06:56.10,0:06:56.98,Default,,0,0,0,,R-Right!
 Dialogue: 0,0:06:57.40,0:07:00.36,Default,,0,0,0,,That's a different hand than last time.
 Dialogue: 0,0:07:00.36,0:07:02.61,Default,,0,0,0,,The evil spirit possessed this one today, okay?!
 Dialogue: 0,0:07:03.24,0:07:04.78,Default,,0,0,0,,Urushibara Luka.
-Dialogue: 0,0:07:05.15,0:07:07.99,Default,,0,0,0,,The mannerisms and voice of a woman...
+Dialogue: 0,0:07:05.15,0:07:07.91,Default,,0,0,0,,The mannerisms and voice of a woman...
 Dialogue: 0,0:07:08.49,0:07:11.91,Default,,0,0,0,,No... More feminine than any woman.
 Dialogue: 0,0:07:12.54,0:07:13.75,Default,,0,0,0,,But he's a guy.
 Dialogue: 0,0:07:14.50,0:07:18.58,Default,,0,0,0,,Taller than Mayuri, but so very thin...
@@ -575,8 +575,8 @@ Dialogue: 0,0:08:01.50,0:08:02.63,Default,,0,0,0,,Radio Kaikan...
 Dialogue: 0,0:08:12.14,0:08:13.64,Default,,0,0,0,,Give me those.
 Dialogue: 0,0:08:14.89,0:08:16.18,Default,,0,0,0,,You need to get to work soon, don't you?
 Dialogue: 0,0:08:19.60,0:08:20.52,Default,,0,0,0,,Thank you.
-Dialogue: 0,0:08:25.15,0:08:29.82,Default,,0,0,0,,I'm working late tonight, so I'll be going straight home afterwards.
-Dialogue: 0,0:08:29.82,0:08:30.91,Default,,0,0,0,,Mayuri...
+Dialogue: 0,0:08:25.15,0:08:29.74,Default,,0,0,0,,I'm working late tonight, so I'll be going straight home afterwards.
+Dialogue: 0,0:08:29.74,0:08:30.91,Default,,0,0,0,,Mayuri...
 Dialogue: 0,0:08:32.03,0:08:35.24,Default,,0,0,0,,You truly didn't hear a scream, did you?
 Dialogue: 0,0:08:35.24,0:08:37.41,Default,,0,0,0,,A scream? When?
 Dialogue: 0,0:08:37.41,0:08:39.04,Default,,0,0,0,,Today, at Radio Kaikan.
@@ -891,7 +891,7 @@ Dialogue: 0,0:21:51.04,0:21:54.38,Default,,0,0,0,,It's really a teleporter?
 Dialogue: 0,0:21:54.38,0:21:56.46,Default,,0,0,0,,Is that what it is?
 Dialogue: 0,0:21:56.46,0:22:00.84,Default,,0,0,0,,That's an interesting experiment you're conducting there, Okabe Rintaro.
 Dialogue: 0,0:22:00.84,0:22:04.34,Default,,0,0,0,,No, Mr. Hououin Kyouma, was it?
-Dialogue: 0,0:22:06.81,0:22:11.06,Default,,0,0,0,,Makise Kurisu?
+Dialogue: 0,0:22:06.81,0:22:11.02,Default,,0,0,0,,Makise Kurisu?
 Dialogue: 1,0:22:21.19,0:22:30.25,EDRom,,0,0,0,,{\blur1.8\fad(250,1500)}kisei sareta shikai mujihi naru
 Dialogue: 0,0:22:21.19,0:22:30.25,EDRom,,0,0,0,,{\blur4.8\\alpha&H70&\bord8.25\3c&H5E382E&\fad(250,1500)}kisei sareta shikai mujihi naru
 Dialogue: 1,0:22:21.19,0:22:30.25,EDTL,,0,0,0,,{\blur1.8\fad(250,1500)}With my field of view restricted
