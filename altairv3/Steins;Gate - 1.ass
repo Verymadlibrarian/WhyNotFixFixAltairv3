@@ -29,9 +29,9 @@ Video File: G:/SteinsGate/01/sg01-video-encoded.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.421296
-Scroll Position: 650
-Active Line: 660
-Video Position: 21408
+Scroll Position: 770
+Active Line: 776
+Video Position: 29540
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -719,9 +719,9 @@ Dialogue: 0,0:14:40.73,0:14:47.12,Title1,,0,0,0,,{\be2\bord3\fscx60\fscy46.25\c&
 Dialogue: 0,0:14:40.73,0:14:44.57,Default,,0,0,0,,The object, thought to be some sort of satellite, crashed in Akihabara, Tokyo,
 Dialogue: 0,0:14:44.57,0:14:47.12,Default,,0,0,0,,around 12 o'clock today.
 Dialogue: 0,0:14:49.91,0:14:52.91,Default,,0,0,0,,What was that?
-Dialogue: 0,0:14:53.83,0:14:58.13,Default,,0,0,0,,This morning, Mayuri and I left the lab for Radio Kaikan,
+Dialogue: 0,0:14:53.83,0:14:58.09,Default,,0,0,0,,This morning, Mayuri and I left the lab for Radio Kaikan,
 Dialogue: 0,0:14:58.67,0:15:00.67,Default,,0,0,0,,to attend Doctor Nakabachi's press conference.
-Dialogue: 0,0:15:01.30,0:15:04.93,Default,,0,0,0,,But the next thing I knew, a satellite had crashed into the building.
+Dialogue: 0,0:15:01.30,0:15:04.88,Default,,0,0,0,,But the next thing I knew, a satellite had crashed into the building.
 Dialogue: 0,0:15:06.22,0:15:07.01,Default,,0,0,0,,{\i1}And not just that...
 Dialogue: 0,0:15:09.60,0:15:10.47,Default,,0,0,0,,Me?
 Dialogue: 0,0:15:10.89,0:15:15.31,Default,,0,0,0,,Yeah... You saw the satellite crash on TV and said,
@@ -734,16 +734,16 @@ Dialogue: 0,0:15:27.16,0:15:29.28,Default,,0,0,0,,Doctor Nakabachi's press confe
 Dialogue: 0,0:15:29.28,0:15:31.37,Default,,0,0,0,,It was at 12 o'clock, at Radio Kaikan!
 Dialogue: 0,0:15:31.37,0:15:34.29,Default,,0,0,0,,It really wasn't, bro.
 Dialogue: 0,0:15:34.29,0:15:35.50,Default,,0,0,0,,And a good thing too...
-Dialogue: 0,0:15:35.50,0:15:38.92,Default,,0,0,0,,If it had been, that satellite would have smashed you.
+Dialogue: 0,0:15:35.50,0:15:38.88,Default,,0,0,0,,If it had been, that satellite would have smashed you.
 Dialogue: 0,0:15:39.71,0:15:41.30,Default,,0,0,0,,This discrepancy in memories...
 Dialogue: 0,0:15:41.92,0:15:44.72,Default,,0,0,0,,Is it The Organization's memory control?
 Dialogue: 0,0:15:45.59,0:15:47.55,Default,,0,0,0,,Right...
 Dialogue: 0,0:15:47.55,0:15:50.26,Default,,0,0,0,,This is the choice of Steins Gate!
-Dialogue: 0,0:15:53.10,0:15:54.27,Default,,0,0,0,,That again?
+Dialogue: 0,0:15:53.10,0:15:54.22,Default,,0,0,0,,That again?
 Dialogue: 0,0:15:55.06,0:15:58.48,Default,,0,0,0,,That Stein-whatever doesn't make any sense at all, y'know.
 Dialogue: 0,0:16:00.27,0:16:02.40,Default,,0,0,0,,Daru, get me Future Gadget #1!
-Dialogue: 0,0:16:02.40,0:16:06.70,Default,,0,0,0,,Alpacaman got mad because you changed the channel.
-Dialogue: 0,0:16:11.83,0:16:12.78,Default,,0,0,0,,Curse you, Mr. Braun!
+Dialogue: 0,0:16:02.40,0:16:06.65,Default,,0,0,0,,Alpacaman got mad because you changed the channel.
+Dialogue: 0,0:16:11.83,0:16:12.74,Default,,0,0,0,,Curse you, Mr. Braun!
 Dialogue: 0,0:16:13.20,0:16:14.79,Default,,0,0,0,,Making us use this piece of crap...
 Dialogue: 0,0:16:14.79,0:16:16.83,Default,,0,0,0,,He gave it to us for free, didn't he?
 Dialogue: 0,0:16:17.83,0:16:19.42,Default,,0,0,0,,Daru, get the TV!
@@ -751,11 +751,11 @@ Dialogue: 0,0:16:19.42,0:16:20.67,Default,,0,0,0,,Yeah, no thanks.
 Dialogue: 0,0:16:21.38,0:16:23.34,Default,,0,0,0,,It's pretty hot today.
 Dialogue: 0,0:16:23.34,0:16:24.17,Default,,0,0,0,,And like,
 Dialogue: 0,0:16:24.17,0:16:26.51,Default,,0,0,0,,don't think I'm strong just 'cause I'm fat.
-Dialogue: 0,0:16:28.18,0:16:29.47,Default,,0,0,0,,That's not something to brag about!
+Dialogue: 0,0:16:28.18,0:16:29.43,Default,,0,0,0,,That's not something to brag about!
 Dialogue: 0,0:16:32.18,0:16:34.77,Default,,0,0,0,,Mr. Braun!
-Dialogue: 0,0:16:34.77,0:16:37.77,Default,,0,0,0,,I told you to call me Tennouji.
-Dialogue: 0,0:16:39.31,0:16:43.15,Default,,0,0,0,,I'd like to ask you to fix this immediately...
-Dialogue: 0,0:16:43.15,0:16:45.07,Default,,0,0,0,,You broke it already?
+Dialogue: 0,0:16:34.77,0:16:37.73,Default,,0,0,0,,I told you to call me Tennouji.
+Dialogue: 0,0:16:39.31,0:16:43.11,Default,,0,0,0,,I'd like to ask you to fix this immediately...
+Dialogue: 0,0:16:43.11,0:16:45.07,Default,,0,0,0,,You broke it already?
 Dialogue: 0,0:16:45.69,0:16:48.61,Default,,0,0,0,,You don't have enough love for the Braun tubes.
 Dialogue: 0,0:16:48.61,0:16:49.82,Default,,0,0,0,,1,000 yen to fix it.
 Dialogue: 0,0:16:51.20,0:16:54.70,Default,,0,0,0,,If anyone's at fault here, wouldn't it be you, for giving us something defective?
@@ -773,10 +773,10 @@ Dialogue: 0,0:17:22.06,0:17:25.61,Default,,0,0,0,,The Organization has finally g
 Dialogue: 0,0:17:25.61,0:17:27.44,Default,,0,0,0,,I'm encountering sabotage.
 Dialogue: 0,0:17:27.44,0:17:28.28,Default,,0,0,0,,Here you go.
 Dialogue: 0,0:17:32.49,0:17:35.74,Default,,0,0,0,,You really do like Dr Pepper, Okarin!
-Dialogue: 0,0:17:39.04,0:17:41.50,Default,,0,0,0,,It's an intellectual drink for the chosen ones.
+Dialogue: 0,0:17:39.04,0:17:41.46,Default,,0,0,0,,It's an intellectual drink for the chosen ones.
 Dialogue: 0,0:17:53.43,0:17:56.64,Default,,0,0,0,,The cicadas are really loud, aren't they?
-Dialogue: 0,0:18:01.27,0:18:02.19,Default,,0,0,0,,Daru!
-Dialogue: 0,0:18:02.19,0:18:03.23,Default,,0,0,0,,Now that the Organization
+Dialogue: 0,0:18:01.27,0:18:02.14,Default,,0,0,0,,Daru!
+Dialogue: 0,0:18:02.14,0:18:03.23,Default,,0,0,0,,Now that the Organization
 Dialogue: 0,0:18:03.23,0:18:07.44,Default,,0,0,0,,has begun using Mr. Braun to sabotage us, we're putting the plan into action.
 Dialogue: 0,0:18:07.44,0:18:09.36,Default,,0,0,0,,We've been backed into a corner!
 Dialogue: 0,0:18:09.36,0:18:10.86,Default,,0,0,0,,The plan? The what now?
@@ -785,39 +785,39 @@ Dialogue: 0,0:18:12.32,0:18:14.66,Default,,0,0,0,,What else could it be but the 
 Dialogue: 0,0:18:14.66,0:18:16.45,Default,,0,0,0,,Future Gadget #8 to an actual combat situation?
 Dialogue: 0,0:18:16.45,0:18:19.41,Default,,0,0,0,,Oh, the PhoneWave (name subject to change).
 Dialogue: 0,0:18:19.41,0:18:23.00,Default,,0,0,0,,How do you use a microwave in combat, anyway?
-Dialogue: 0,0:18:23.46,0:18:26.84,Default,,0,0,0,,It's been nearly three and a half years since we met.
-Dialogue: 0,0:18:26.84,0:18:28.46,Default,,0,0,0,,Second year of high school...
+Dialogue: 0,0:18:23.46,0:18:26.79,Default,,0,0,0,,It's been nearly three and a half years since we met.
+Dialogue: 0,0:18:26.79,0:18:28.46,Default,,0,0,0,,Second year of high school...
 Dialogue: 0,0:18:28.46,0:18:30.88,Default,,0,0,0,,We were in different classes and barely spoke,
 Dialogue: 0,0:18:30.88,0:18:32.34,Default,,0,0,0,,so it's more like two years?
-Dialogue: 0,0:18:32.34,0:18:33.72,Default,,0,0,0,,The details don't matter.
-Dialogue: 0,0:18:33.72,0:18:37.39,Default,,0,0,0,,Anyway, it's been that long.
+Dialogue: 0,0:18:32.34,0:18:33.68,Default,,0,0,0,,The details don't matter.
+Dialogue: 0,0:18:33.68,0:18:37.39,Default,,0,0,0,,Anyway, it's been that long.
 Dialogue: 0,0:18:37.39,0:18:38.14,Default,,0,0,0,,Please reach the point
 Dialogue: 0,0:18:38.14,0:18:40.60,Default,,0,0,0,,where you can keep up with my conversations already.
 Dialogue: 0,0:18:40.60,0:18:42.35,Default,,0,0,0,,That is-n't...hap-pen-ing.
 Dialogue: 0,0:18:44.31,0:18:46.15,Default,,0,0,0,,Actually, want to try again?
 Dialogue: 0,0:18:46.15,0:18:46.90,Default,,0,0,0,,It's all set.
 Dialogue: 0,0:18:46.90,0:18:48.15,Default,,0,0,0,,Mayuri, bring the bananas!
-Dialogue: 0,0:18:48.86,0:18:50.82,Default,,0,0,0,,You're making gel-banas again?
+Dialogue: 0,0:18:48.82,0:18:50.82,Default,,0,0,0,,You're making gel-banas again?
 Dialogue: 0,0:18:50.82,0:18:52.15,Default,,0,0,0,,It's such a waste!
 Dialogue: 0,0:18:52.15,0:18:54.95,Default,,0,0,0,,If we're stingy, we can never succeed against The Organization!
-Dialogue: 0,0:18:55.45,0:18:56.91,Default,,0,0,0,,We don't need to win...
+Dialogue: 0,0:18:55.45,0:18:56.87,Default,,0,0,0,,We don't need to win...
 Dialogue: 0,0:18:57.41,0:19:01.04,Default,,0,0,0,,You know, Mayushii's the one bringing bananas, right?
 Dialogue: 0,0:19:01.04,0:19:01.58,Default,,0,0,0,,I know.
 Dialogue: 0,0:19:03.75,0:19:07.96,Default,,0,0,0,,This is R-E-N-G, the PhoneWave (name subject to change).
 Dialogue: 0,0:19:07.96,0:19:10.59,Default,,0,0,0,,You can manipulate the timer from here.
 Dialogue: 0,0:19:10.59,0:19:12.34,Default,,0,0,0,,Please press the pound key,
 Dialogue: 0,0:19:12.34,0:19:15.26,Default,,0,0,0,,and then enter the number of seconds you want to cook for.
-Dialogue: 0,0:19:15.26,0:19:17.89,Default,,0,0,0,,One, two, zero, pound.
+Dialogue: 0,0:19:15.26,0:19:17.84,Default,,0,0,0,,One, two, zero, pound.
 Dialogue: 0,0:19:19.89,0:19:22.43,Default,,0,0,0,,Pretty turntable, isn't it?
-Dialogue: 0,0:19:22.43,0:19:25.23,Default,,0,0,0,,It goes in the opposite direction.
-Dialogue: 0,0:19:25.23,0:19:26.81,Default,,0,0,0,,Opposite?
+Dialogue: 0,0:19:22.43,0:19:25.19,Default,,0,0,0,,It goes in the opposite direction.
+Dialogue: 0,0:19:25.19,0:19:26.81,Default,,0,0,0,,Opposite?
 Dialogue: 0,0:19:26.81,0:19:28.19,Default,,0,0,0,,Might be important!
 Dialogue: 0,0:19:28.19,0:19:30.98,Default,,0,0,0,,When you think of what's happening at the quantum level,
 Dialogue: 0,0:19:30.98,0:19:34.28,Default,,0,0,0,,and you apply Hund's rules...
 Dialogue: 0,0:19:34.28,0:19:36.24,Default,,0,0,0,,I'm sure it... isn't.
 Dialogue: 0,0:19:36.24,0:19:37.07,Default,,0,0,0,,It isn't?
 Dialogue: 0,0:19:37.07,0:19:37.70,Default,,0,0,0,,Nope.
-Dialogue: 0,0:19:41.12,0:19:42.83,Default,,0,0,0,,Hasn't changed.
+Dialogue: 0,0:19:41.08,0:19:42.83,Default,,0,0,0,,Hasn't changed.
 Dialogue: 0,0:19:42.83,0:19:45.75,Default,,0,0,0,,It doesn't get warm, and it doesn't get cold.
 Dialogue: 0,0:19:46.25,0:19:48.96,Default,,0,0,0,,Mayushii's Juicy Chicken Number 1 froze...
 Dialogue: 0,0:19:48.96,0:19:52.46,Default,,0,0,0,,Well, something involving Steins Gate is at work here, that much is clear!
@@ -834,7 +834,7 @@ Dialogue: 0,0:20:12.40,0:20:15.07,Default,,0,0,0,,"Your banana is soft—"
 Dialogue: 0,0:20:15.07,0:20:16.45,Default,,0,0,0,,Don't make her say that, you pervert!
 Dialogue: 0,0:20:22.12,0:20:24.45,Default,,0,0,0,,I-I'm melting...
 Dialogue: 0,0:20:25.08,0:20:27.37,Default,,0,0,0,,It hasn't been ten minutes since we left the lab.
-Dialogue: 0,0:20:27.37,0:20:32.13,Default,,0,0,0,,When it gets hot like this, I don't want to go any farther than Faris'.
+Dialogue: 0,0:20:27.37,0:20:32.09,Default,,0,0,0,,When it gets hot like this, I don't want to go any farther than Faris'.
 Dialogue: 0,0:20:32.88,0:20:36.05,Default,,0,0,0,,I wish they'd just host it at MayQueen NyanNyan.
 Dialogue: 0,0:20:36.80,0:20:39.72,Default,,0,0,0,,They're not going to host a university lecture at a maid café.
 Dialogue: 0,0:20:40.72,0:20:44.31,Default,,0,0,0,,If they didn't take attendance, I'd never go.
