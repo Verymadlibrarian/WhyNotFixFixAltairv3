@@ -29,9 +29,9 @@ Video File: G:/SteinsGate/01/sg01-video-encoded.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.421296
-Scroll Position: 629
-Active Line: 645
-Video Position: 20413
+Scroll Position: 650
+Active Line: 660
+Video Position: 21408
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -718,7 +718,7 @@ Dialogue: 0,0:14:40.73,0:14:47.12,Title1,,0,0,0,,{\be2\fscx60\fscy46.25\c&H50519
 Dialogue: 0,0:14:40.73,0:14:47.12,Title1,,0,0,0,,{\be2\bord3\fscx60\fscy46.25\c&HB9C9C9&\3c&H505A58&\pos(1194,961.5)}A mysterious satellite appears!!
 Dialogue: 0,0:14:40.73,0:14:44.57,Default,,0,0,0,,The object, thought to be some sort of satellite, crashed in Akihabara, Tokyo,
 Dialogue: 0,0:14:44.57,0:14:47.12,Default,,0,0,0,,around 12 o'clock today.
-Dialogue: 0,0:14:49.91,0:14:52.96,Default,,0,0,0,,What was that?
+Dialogue: 0,0:14:49.91,0:14:52.91,Default,,0,0,0,,What was that?
 Dialogue: 0,0:14:53.83,0:14:58.13,Default,,0,0,0,,This morning, Mayuri and I left the lab for Radio Kaikan,
 Dialogue: 0,0:14:58.67,0:15:00.67,Default,,0,0,0,,to attend Doctor Nakabachi's press conference.
 Dialogue: 0,0:15:01.30,0:15:04.93,Default,,0,0,0,,But the next thing I knew, a satellite had crashed into the building.
