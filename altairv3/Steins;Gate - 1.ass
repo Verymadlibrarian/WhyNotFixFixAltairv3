@@ -25,13 +25,13 @@ Video Aspect Ratio: c1.77778
 [Aegisub Project Garbage]
 Last Style Storage: s;g 720p
 Audio File: //192.168.1.99/mnt/12tb/media/_downloads/temp/[AOmundson] Steins;Gate Complete Series 1080p [Multi-Audio]/01. Steins;Gate/Steins;Gate - 01.mkv
-Video File: //192.168.1.99/mnt/12tb/media/_downloads/temp/[AOmundson] Steins;Gate Complete Series 1080p [Multi-Audio]/01. Steins;Gate/Steins;Gate - 01.mkv
+Video File: G:/SteinsGate/01/sg01-video-encoded.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
-Scroll Position: 805
-Active Line: 811
-Video Position: 31256
+Video Zoom Percent: 0.421296
+Scroll Position: 629
+Active Line: 645
+Video Position: 20413
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -703,7 +703,7 @@ Dialogue: 0,0:14:02.45,0:14:05.62,Default,,0,0,0,,Thus, this discussion is point
 Dialogue: 0,0:14:05.62,0:14:06.91,Default,,0,0,0,,We'd do much better to spend our time
 Dialogue: 0,0:14:06.91,0:14:10.58,Default,,0,0,0,,thinking of ways to battle The Organization
 Dialogue: 0,0:14:10.58,0:14:11.79,Default,,0,0,0,,and destroy the world's ruling structure.
-Dialogue: 0,0:14:11.79,0:14:15.38,Default,,0,0,0,,That delusional crap again? Fail.
+Dialogue: 0,0:14:11.79,0:14:15.33,Default,,0,0,0,,That delusional crap again? Fail.
 Dialogue: 0,0:14:15.75,0:14:17.13,Default,,0,0,0,,Silence, Supah Hakah!
 Dialogue: 0,0:14:17.63,0:14:20.55,Default,,0,0,0,,I am the Insane Mad Scientist, Hououin...
 Dialogue: 0,0:14:21.76,0:14:22.51,Default,,0,0,0,,Kyouma!
