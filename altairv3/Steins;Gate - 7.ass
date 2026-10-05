@@ -25,13 +25,13 @@ Video Aspect Ratio: c1.77778
 [Aegisub Project Garbage]
 Last Style Storage: Default
 Audio File: //192.168.1.99/mnt/12tb/media/_downloads/temp/[AOmundson] Steins;Gate Complete Series 1080p [Multi-Audio]/01. Steins;Gate/Steins;Gate - 07.mkv
-Video File: //192.168.1.99/mnt/12tb/media/_downloads/temp/[AOmundson] Steins;Gate Complete Series 1080p [Multi-Audio]/01. Steins;Gate/Steins;Gate - 07.mkv
+Video File: G:/SteinsGate/07/sg07-video-encoded.mkv.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 786
-Active Line: 777
-Video Position: 30446
+Scroll Position: 779
+Active Line: 786
+Video Position: 31371
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -469,22 +469,22 @@ Dialogue: 0,0:03:23.31,0:03:23.52,op kara,,0,0,0,fx,{\pos(955.5,55.5)\alpha&H70&
 Dialogue: 0,0:03:23.52,0:03:23.73,op kara,,0,0,0,fx,{\pos(960,49.5)\alpha&H00&\blur1.5\bord1.5}nomikomareteyuku kodoku no kansokusha
 Dialogue: 0,0:03:23.73,0:03:23.89,op kara,,0,0,0,fx,{\pos(960,52.5)\alpha&H00&\blur3}nomikomareteyuku kodoku no kansokusha
 Dialogue: 0,0:03:23.89,0:03:23.98,op kara,,0,0,0,fx,{\pos(955.5,55.5)\alpha&H70&\blur3}nomikomareteyuku kodoku no kansokusha
-Dialogue: 0,0:03:26.98,0:03:32.02,Title1,,0,0,0,gradient @39b 1,{\fscx57.5\fscy68.75\fsp-6\clip(1269,615,1950,630)\pos(1270.5,616.5)\1c&H5C5F60&}Divergence
-Dialogue: 0,0:03:26.98,0:03:32.02,Title1,,0,0,0,gradient @39b 2,{\fscx57.5\fscy68.75\fsp-6\clip(1269,630,1950,645)\pos(1270.5,616.5)\1c&H5C5F60&}Divergence
-Dialogue: 0,0:03:26.98,0:03:32.02,Title1,,0,0,0,gradient @39b 3,{\fscx57.5\fscy68.75\fsp-6\clip(1269,645,1950,660)\pos(1270.5,616.5)\1c&H5C5F60&}Divergence
-Dialogue: 0,0:03:26.98,0:03:32.02,Title1,,0,0,0,gradient @39b 4,{\fscx57.5\fscy68.75\fsp-6\clip(1269,660,1950,675)\pos(1270.5,616.5)\1c&H5C5F60&}Divergence
-Dialogue: 0,0:03:26.98,0:03:32.02,Title1,,0,0,0,gradient @39b 5,{\fscx57.5\fscy68.75\fsp-6\clip(1269,675,1950,690)\pos(1270.5,616.5)\1c&H5E606C&}Divergence
-Dialogue: 0,0:03:26.98,0:03:32.02,Title1,,0,0,0,gradient @39b 6,{\fscx57.5\fscy68.75\fsp-6\clip(1269,690,1950,705)\pos(1270.5,616.5)\1c&H616179&}Divergence
-Dialogue: 0,0:03:26.98,0:03:32.02,Title1,,0,0,0,gradient @39b 7,{\fscx57.5\fscy68.75\fsp-6\clip(1269,705,1950,720)\pos(1270.5,616.5)\1c&H646286&}Divergence
-Dialogue: 0,0:03:26.98,0:03:32.02,Title1,,0,0,0,gradient @39b 8,{\fscx57.5\fscy68.75\fsp-6\clip(1269,720,1950,735)\pos(1270.5,616.5)\1c&H656387&}Divergence
-Dialogue: 0,0:03:26.98,0:03:32.02,Title1,,0,0,0,gradient @39b 1,{\fscx70\fscy93.75\fsp-6\clip(1415,647,1752,662)\pos(1416,648)\1c&H5C5F60&}Singularity
-Dialogue: 0,0:03:26.98,0:03:32.02,Title1,,0,0,0,gradient @39b 2,{\fscx70\fscy93.75\fsp-6\clip(1415,662,1752,677)\pos(1416,648)\1c&H5C5F60&}Singularity
-Dialogue: 0,0:03:26.98,0:03:32.02,Title1,,0,0,0,gradient @39b 3,{\fscx70\fscy93.75\fsp-6\clip(1415,677,1752,692)\pos(1416,648)\1c&H5C5F60&}Singularity
-Dialogue: 0,0:03:26.98,0:03:32.02,Title1,,0,0,0,gradient @39b 4,{\fscx70\fscy93.75\fsp-6\clip(1415,692,1752,707)\pos(1416,648)\1c&H5C5F60&}Singularity
-Dialogue: 0,0:03:26.98,0:03:32.02,Title1,,0,0,0,gradient @39b 5,{\fscx70\fscy93.75\fsp-6\clip(1415,707,1752,722)\pos(1416,648)\1c&H5E606C&}Singularity
-Dialogue: 0,0:03:26.98,0:03:32.02,Title1,,0,0,0,gradient @39b 6,{\fscx70\fscy93.75\fsp-6\clip(1415,722,1752,737)\pos(1416,648)\1c&H616179&}Singularity
-Dialogue: 0,0:03:26.98,0:03:32.02,Title1,,0,0,0,gradient @39b 7,{\fscx70\fscy93.75\fsp-6\clip(1415,737,1752,752)\pos(1416,648)\1c&H646286&}Singularity
-Dialogue: 0,0:03:26.98,0:03:32.02,Title1,,0,0,0,gradient @39b 8,{\fscx70\fscy93.75\fsp-6\clip(1415,752,1752,767)\pos(1416,648)\1c&H656387&}Singularity
+Dialogue: 0,0:03:26.98,0:03:31.98,Title1,,0,0,0,gradient @39b 1,{\fscx57.5\fscy68.75\fsp-6\clip(1269,615,1950,630)\pos(1270.5,616.5)\1c&H5C5F60&}Divergence
+Dialogue: 0,0:03:26.98,0:03:31.98,Title1,,0,0,0,gradient @39b 2,{\fscx57.5\fscy68.75\fsp-6\clip(1269,630,1950,645)\pos(1270.5,616.5)\1c&H5C5F60&}Divergence
+Dialogue: 0,0:03:26.98,0:03:31.98,Title1,,0,0,0,gradient @39b 3,{\fscx57.5\fscy68.75\fsp-6\clip(1269,645,1950,660)\pos(1270.5,616.5)\1c&H5C5F60&}Divergence
+Dialogue: 0,0:03:26.98,0:03:31.98,Title1,,0,0,0,gradient @39b 4,{\fscx57.5\fscy68.75\fsp-6\clip(1269,660,1950,675)\pos(1270.5,616.5)\1c&H5C5F60&}Divergence
+Dialogue: 0,0:03:26.98,0:03:31.98,Title1,,0,0,0,gradient @39b 5,{\fscx57.5\fscy68.75\fsp-6\clip(1269,675,1950,690)\pos(1270.5,616.5)\1c&H5E606C&}Divergence
+Dialogue: 0,0:03:26.98,0:03:31.98,Title1,,0,0,0,gradient @39b 6,{\fscx57.5\fscy68.75\fsp-6\clip(1269,690,1950,705)\pos(1270.5,616.5)\1c&H616179&}Divergence
+Dialogue: 0,0:03:26.98,0:03:31.98,Title1,,0,0,0,gradient @39b 7,{\fscx57.5\fscy68.75\fsp-6\clip(1269,705,1950,720)\pos(1270.5,616.5)\1c&H646286&}Divergence
+Dialogue: 0,0:03:26.98,0:03:31.98,Title1,,0,0,0,gradient @39b 8,{\fscx57.5\fscy68.75\fsp-6\clip(1269,720,1950,735)\pos(1270.5,616.5)\1c&H656387&}Divergence
+Dialogue: 0,0:03:26.98,0:03:31.98,Title1,,0,0,0,gradient @39b 1,{\fscx70\fscy93.75\fsp-6\clip(1415,647,1752,662)\pos(1416,648)\1c&H5C5F60&}Singularity
+Dialogue: 0,0:03:26.98,0:03:31.98,Title1,,0,0,0,gradient @39b 2,{\fscx70\fscy93.75\fsp-6\clip(1415,662,1752,677)\pos(1416,648)\1c&H5C5F60&}Singularity
+Dialogue: 0,0:03:26.98,0:03:31.98,Title1,,0,0,0,gradient @39b 3,{\fscx70\fscy93.75\fsp-6\clip(1415,677,1752,692)\pos(1416,648)\1c&H5C5F60&}Singularity
+Dialogue: 0,0:03:26.98,0:03:31.98,Title1,,0,0,0,gradient @39b 4,{\fscx70\fscy93.75\fsp-6\clip(1415,692,1752,707)\pos(1416,648)\1c&H5C5F60&}Singularity
+Dialogue: 0,0:03:26.98,0:03:31.98,Title1,,0,0,0,gradient @39b 5,{\fscx70\fscy93.75\fsp-6\clip(1415,707,1752,722)\pos(1416,648)\1c&H5E606C&}Singularity
+Dialogue: 0,0:03:26.98,0:03:31.98,Title1,,0,0,0,gradient @39b 6,{\fscx70\fscy93.75\fsp-6\clip(1415,722,1752,737)\pos(1416,648)\1c&H616179&}Singularity
+Dialogue: 0,0:03:26.98,0:03:31.98,Title1,,0,0,0,gradient @39b 7,{\fscx70\fscy93.75\fsp-6\clip(1415,737,1752,752)\pos(1416,648)\1c&H646286&}Singularity
+Dialogue: 0,0:03:26.98,0:03:31.98,Title1,,0,0,0,gradient @39b 8,{\fscx70\fscy93.75\fsp-6\clip(1415,752,1752,767)\pos(1416,648)\1c&H656387&}Singularity
 Dialogue: 0,0:03:35.36,0:03:39.45,Default,,0,0,0,,Juicy Chicken Number 1 would taste better...
 Dialogue: 0,0:03:41.08,0:03:43.08,Default,,0,0,0,,Hey, there's no Dr Pepper!
 Dialogue: 0,0:03:43.08,0:03:44.25,Default,,0,0,0,,They were out.
@@ -822,7 +822,7 @@ Dialogue: 0,0:20:46.89,0:20:50.60,Default,,0,0,0,,You may be able to lead the wo
 Dialogue: 0,0:20:50.60,0:20:53.77,Default,,0,0,0,,beyond Divergence 1%...
 Dialogue: 0,0:20:54.69,0:20:57.19,Default,,0,0,0,,Lead the world?
 Dialogue: 0,0:21:00.32,0:21:03.45,Default,,0,0,0,,What lies beyond Divergence 1%?
-Dialogue: 0,0:21:03.45,0:21:06.04,Default,,0,0,0,,What happens then?
+Dialogue: 0,0:21:03.45,0:21:06.08,Default,,0,0,0,,What happens then?
 Dialogue: 0,0:21:07.25,0:21:08.33,Sign1,,0,0,0,,{\fad(200,0)\blur2.25\frz356.676\fscx67.5\fscy80\c&H111614&\pos(916.5,514.5)}Sending...
 Dialogue: 0,0:21:08.33,0:21:09.46,Sign1,,0,0,0,,{\blur2.25\fscx75\fscy85\c&H1F2624&\frz356.676\pos(898.5,366)}Sent
 Dialogue: 0,0:21:22.51,0:21:25.31,Default,,0,0,0,,What lies beyond it is true freedom.
@@ -831,8 +831,8 @@ Dialogue: 0,0:21:27.27,0:21:29.18,Default,,0,0,0,,the future will become a dysto
 Dialogue: 0,0:21:31.39,0:21:34.44,Default,,0,0,0,,My goal is to change the future.
 Dialogue: 0,0:21:34.44,0:21:37.69,Default,,0,0,0,,And you may be the one who has that power.
 Dialogue: 0,0:21:40.78,0:21:42.74,Default,,0,0,0,,Okabe, what's wrong?
-Dialogue: 0,0:21:42.74,0:21:44.91,Default,,0,0,0,,What's he talking about?
-Dialogue: 0,0:21:45.70,0:21:47.62,Default,,0,0,0,,Me? Change the future?
+Dialogue: 0,0:21:42.74,0:21:45.08,Default,,0,0,0,,What's he talking about?
+Dialogue: 0,0:21:45.70,0:21:47.83,Default,,0,0,0,,Me? Change the future?
 Dialogue: 0,0:21:48.37,0:21:49.45,Default,,0,0,0,,That's...
 Dialogue: 0,0:22:01.09,0:22:02.51,Default,,0,0,0,,Kyouma,
 Dialogue: 0,0:22:02.51,0:22:03.93,Default,,0,0,0,,I want...
