@@ -24,13 +24,13 @@ YCbCr Matrix: TV.709
 [Aegisub Project Garbage]
 Last Style Storage: s;g 720p
 Audio File: //192.168.1.99/mnt/12tb/media/_downloads/temp/[AOmundson] Steins;Gate Complete Series 1080p [Multi-Audio]/01. Steins;Gate/Steins;Gate - 10.mkv
-Video File: //192.168.1.99/mnt/12tb/media/_downloads/temp/[AOmundson] Steins;Gate Complete Series 1080p [Multi-Audio]/01. Steins;Gate/Steins;Gate - 10.mkv
+Video File: G:/SteinsGate/10/sg10-video-encoded.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 1.000000
-Scroll Position: 968
-Active Line: 973
-Video Position: 28930
+Scroll Position: 1047
+Active Line: 1060
+Video Position: 31753
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -593,8 +593,8 @@ Dialogue: 0,0:08:51.26,0:08:53.47,Default,,0,0,0,,Whether you see him tomorrow o
 Dialogue: 0,0:08:53.47,0:08:54.31,Default,,0,0,0,,come by the lab!
 Dialogue: 0,0:08:54.81,0:08:56.64,Default,,0,0,0,,I will use your sentimentality
 Dialogue: 0,0:08:56.64,0:08:58.56,Default,,0,0,0,,for an experiment with the D-Mail!
-Dialogue: 0,0:09:00.52,0:09:02.61,Default,,0,0,0,,You really are a mad scientist!
-Dialogue: 0,0:09:02.61,0:09:04.44,Default,,0,0,0,,That's terrible...{Nanoha laughing oh god my nutbladder}
+Dialogue: 0,0:09:00.52,0:09:02.56,Default,,0,0,0,,You really are a mad scientist!
+Dialogue: 0,0:09:02.56,0:09:04.40,Default,,0,0,0,,That's terrible...{Nanoha laughing oh god my nutbladder}
 Dialogue: 0,0:09:13.91,0:09:16.70,Default,,0,0,0,,I will now explain
 Dialogue: 0,0:09:16.70,0:09:19.87,Default,,0,0,0,,the parameters of Operation Eldhrímnir.
 Dialogue: 0,0:09:19.87,0:09:21.33,Default,,0,0,0,,More Norse myths?
@@ -1078,11 +1078,11 @@ Dialogue: 0,0:20:29.42,0:20:32.42,Default,,0,0,0,,Last night, we were all up rea
 Dialogue: 0,0:20:32.42,0:20:34.96,Default,,0,0,0,,I'm so tired.
 Dialogue: 0,0:20:35.76,0:20:37.59,Default,,0,0,0,,Last night,
 Dialogue: 0,0:20:37.59,0:20:41.01,Default,,0,0,0,,we had a last supper for you,
-Dialogue: 0,0:20:41.26,0:20:43.01,Default,,0,0,0,,so you could be our guinea pig.
-Dialogue: 0,0:20:43.72,0:20:44.72,Default,,0,0,0,,Right?
+Dialogue: 0,0:20:41.26,0:20:42.97,Default,,0,0,0,,so you could be our guinea pig.
+Dialogue: 0,0:20:43.72,0:20:44.68,Default,,0,0,0,,Right?
 Dialogue: 0,0:20:45.39,0:20:47.89,Default,,0,0,0,,But the experiment never happened.
 Dialogue: 0,0:20:47.89,0:20:51.23,Default,,0,0,0,,I don't know my dad's phone number.{phone's address, but come on}
-Dialogue: 0,0:20:51.23,0:20:54.07,Default,,0,0,0,,I want to confirm something.
+Dialogue: 0,0:20:51.23,0:20:54.02,Default,,0,0,0,,I want to confirm something.
 Dialogue: 0,0:20:54.73,0:20:57.07,Default,,0,0,0,,How did I catch you?
 Dialogue: 0,0:20:57.90,0:21:00.32,Default,,0,0,0,,Were you drinking?
 Dialogue: 0,0:21:00.32,0:21:02.95,Default,,0,0,0,,You're underage. You shouldn't do that.
@@ -1096,17 +1096,17 @@ Dialogue: 0,0:21:21.47,0:21:23.51,Default,,0,0,0,,Not John... Barrel.
 Dialogue: 0,0:21:23.51,0:21:24.60,Default,,0,0,0,,Barrel Titor.
 Dialogue: 0,0:21:24.60,0:21:27.10,Default,,0,0,0,,I told you that yesterday.
 Dialogue: 0,0:21:27.10,0:21:30.39,Default,,0,0,0,,Didn't you take a video of it on your phone?
-Dialogue: 0,0:21:32.15,0:21:34.44,Default,,0,0,0,,Last night was so fun...
-Dialogue: 0,0:21:34.82,0:21:38.07,Default,,0,0,0,,It would've been more fun without Makise Kurisu, though.
-Dialogue: 0,0:21:38.49,0:21:41.40,Default,,0,0,0,,Her apple pie was absolutely horrible.
+Dialogue: 0,0:21:32.15,0:21:34.40,Default,,0,0,0,,Last night was so fun...
+Dialogue: 0,0:21:34.82,0:21:38.03,Default,,0,0,0,,It would've been more fun without Makise Kurisu, though.
+Dialogue: 0,0:21:38.49,0:21:41.36,Default,,0,0,0,,Her apple pie was absolutely horrible.
 Dialogue: 0,0:21:41.99,0:21:45.45,Default,,0,0,0,,But Urushibara Luka's curry was great!
-Dialogue: 0,0:21:46.49,0:21:49.37,Default,,0,0,0,,Your lab's kinda nice, you know?
-Dialogue: 0,0:21:49.37,0:21:52.54,Default,,0,0,0,,Everyone's friends, and you always seem to have fun.
-Dialogue: 0,0:21:52.96,0:21:56.29,Default,,0,0,0,,I've never felt like I fit in so much anywhere else in my life.
+Dialogue: 0,0:21:46.49,0:21:49.33,Default,,0,0,0,,Your lab's kinda nice, you know?
+Dialogue: 0,0:21:49.33,0:21:52.50,Default,,0,0,0,,Everyone's friends, and you always seem to have fun.
+Dialogue: 0,0:21:52.96,0:21:56.25,Default,,0,0,0,,I've never felt like I fit in so much anywhere else in my life.
 Dialogue: 0,0:21:56.88,0:21:58.71,Default,,0,0,0,,Then you're welcome anytime.
-Dialogue: 0,0:21:59.63,0:22:00.67,Default,,0,0,0,,Come whenever you like.
-Dialogue: 0,0:22:00.67,0:22:03.01,Default,,0,0,0,,You're a lab mem now.
-Dialogue: 0,0:22:03.51,0:22:03.97,Default,,0,0,0,,Yeah.
+Dialogue: 0,0:21:59.63,0:22:00.63,Default,,0,0,0,,Come whenever you like.
+Dialogue: 0,0:22:00.63,0:22:03.01,Default,,0,0,0,,You're a lab mem now.
+Dialogue: 0,0:22:03.51,0:22:03.93,Default,,0,0,0,,Yeah.
 Dialogue: 0,0:22:04.55,0:22:09.10,Default,,0,0,0,,I'll try to search for my father a little more!
 Dialogue: 1,0:22:21.24,0:22:30.29,EDRom,,0,0,0,,{\blur1.8\fad(250,1500)}kisei sareta shikai mujihi naru
 Dialogue: 0,0:22:21.24,0:22:30.29,EDRom,,0,0,0,,{\blur4.8\\alpha&H70&\bord8.25\3c&H5E382E&\fad(250,1500)}kisei sareta shikai mujihi naru
