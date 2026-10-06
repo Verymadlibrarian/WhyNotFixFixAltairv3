@@ -25,13 +25,13 @@ YCbCr Matrix: TV.709
 [Aegisub Project Garbage]
 Last Style Storage: s;g 720p
 Audio File: //192.168.1.99/mnt/12tb/media/_downloads/temp/[AOmundson] Steins;Gate Complete Series 1080p [Multi-Audio]/01. Steins;Gate/Steins;Gate - 13.mkv
-Video File: //192.168.1.99/mnt/12tb/media/_downloads/temp/[AOmundson] Steins;Gate Complete Series 1080p [Multi-Audio]/01. Steins;Gate/Steins;Gate - 13.mkv
+Video File: G:/SteinsGate/13/Steins;Gate - 13_new.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
-Scroll Position: 743
-Active Line: 752
-Video Position: 31707
+Video Zoom Percent: 0.375000
+Scroll Position: 635
+Active Line: 644
+Video Position: 21979
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -691,7 +691,7 @@ Dialogue: 0,0:15:00.30,0:15:01.67,Default,,0,0,0,,We're done here for today.
 Dialogue: 0,0:15:04.80,0:15:06.14,Default,,0,0,0,,{\i1}Was I too forceful?
 Dialogue: 0,0:15:07.26,0:15:08.26,Default,,0,0,0,,{\i1}No...
 Dialogue: 0,0:15:08.72,0:15:10.56,Default,,0,0,0,,{\i1}It doesn't matter if I was acting weird.
-Dialogue: 0,0:15:11.27,0:15:15.31,Default,,0,0,0,,{\i1}For now, I just need them away from the lab!
+Dialogue: 0,0:15:11.27,0:15:14.85,Default,,0,0,0,,{\i1}For now, I just need them away from the lab!
 Dialogue: 0,0:15:17.06,0:15:18.65,Default,,0,0,0,,This is Mayushii.
 Dialogue: 0,0:15:18.65,0:15:20.77,Default,,0,0,0,,I can't answer the phone right now!
 Dialogue: 0,0:15:25.07,0:15:26.53,Default,,0,0,0,,{\i1}Why is it taking so long?
