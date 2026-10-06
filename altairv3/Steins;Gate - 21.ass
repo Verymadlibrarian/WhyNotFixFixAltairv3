@@ -13,13 +13,13 @@ Video Aspect Ratio: c1.77778
 [Aegisub Project Garbage]
 Last Style Storage: s;g 720p
 Audio File: //192.168.1.99/mnt/12tb/media/_downloads/temp/[AOmundson] Steins;Gate Complete Series 1080p [Multi-Audio]/01. Steins;Gate/Steins;Gate - 21.mkv
-Video File: //192.168.1.99/mnt/12tb/media/_downloads/temp/[AOmundson] Steins;Gate Complete Series 1080p [Multi-Audio]/01. Steins;Gate/Steins;Gate - 21.mkv
+Video File: G:/SteinsGate/21/Steins;Gate - 21_new.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 612
-Active Line: 615
-Video Position: 16429
+Scroll Position: 748
+Active Line: 751
+Video Position: 27600
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -570,7 +570,7 @@ Dialogue: 0,0:06:06.97,0:06:09.89,Default,,0,0,0,,If you don't, I won't be able 
 Dialogue: 0,0:06:09.89,0:06:11.48,Default,,0,0,0,,I won't be able to help.
 Dialogue: 0,0:06:15.61,0:06:16.94,Default,,0,0,0,,You don't have time for this, right?
 Dialogue: 0,0:06:16.94,0:06:18.02,Default,,0,0,0,,Don't hide things now!
-Dialogue: 0,0:06:18.02,0:06:18.48,Default,,0,0,0,,Okabe?
+Dialogue: 0,0:06:18.02,0:06:18.52,Default,,0,0,0,,Okabe?
 Dialogue: 0,0:06:29.20,0:06:31.91,Default,,0,0,0,,We finally made it back.
 Dialogue: 0,0:06:31.91,0:06:34.79,Default,,0,0,0,,Hey, want to stop by the lab, Okarin?
 Dialogue: 0,0:06:34.79,0:06:38.04,Default,,0,0,0,,Mayushii was thinking of getting some food.
@@ -683,7 +683,7 @@ Dialogue: 0,0:12:44.62,0:12:45.95,Default,,0,0,0,,Lukako...
 Dialogue: 0,0:12:45.95,0:12:47.87,Default,,0,0,0,,To come this far,
 Dialogue: 0,0:12:47.87,0:12:49.37,Default,,0,0,0,,I sacrificed the things they wanted the most.
 Dialogue: 0,0:12:50.08,0:12:53.54,Default,,0,0,0,,And now, this is how it ends?
-Dialogue: 0,0:12:54.59,0:12:55.50,Default,,0,0,0,,What do you mean?
+Dialogue: 0,0:12:54.59,0:12:55.55,Default,,0,0,0,,What do you mean?
 Dialogue: 0,0:12:56.46,0:12:57.55,Default,,0,0,0,,Why?
 Dialogue: 0,0:12:58.34,0:12:59.47,Default,,0,0,0,,Okabe!
 Dialogue: 0,0:13:04.01,0:13:09.27,Default,,0,0,0,,Okabe, you were crying back there.
@@ -787,7 +787,7 @@ Dialogue: 0,0:18:56.70,0:18:58.70,Default,,0,0,0,,Okarin wasn't there.
 Dialogue: 0,0:18:58.70,0:19:03.58,Default,,0,0,0,,While I was cleaning up the room, he came in,
 Dialogue: 0,0:19:03.58,0:19:05.96,Default,,0,0,0,,and I said, "Welcome back!"
 Dialogue: 0,0:19:05.96,0:19:08.59,Default,,0,0,0,,But he didn't say, "I'm back."
-Dialogue: 0,0:19:08.59,0:19:10.55,Default,,0,0,0,,He said, "Good work."
+Dialogue: 0,0:19:08.59,0:19:10.59,Default,,0,0,0,,He said, "Good work."
 Dialogue: 0,0:19:11.92,0:19:14.17,Default,,0,0,0,,And then, every day after that, I'd go there
 Dialogue: 0,0:19:14.17,0:19:16.76,Default,,0,0,0,,for about two hours, and we would barely talk.
 Dialogue: 0,0:19:17.43,0:19:22.47,Default,,0,0,0,,It wasn't bad. We were simply there together.
