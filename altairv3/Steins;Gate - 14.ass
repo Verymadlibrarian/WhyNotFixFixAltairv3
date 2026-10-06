@@ -14,12 +14,13 @@ Video Aspect Ratio: c1.77778
 [Aegisub Project Garbage]
 Last Style Storage: s;g 720p
 Audio File: //192.168.1.99/mnt/12tb/media/_downloads/temp/[AOmundson] Steins;Gate Complete Series 1080p [Multi-Audio]/01. Steins;Gate/Steins;Gate - 14.mkv
-Video File: //192.168.1.99/mnt/12tb/media/_downloads/temp/[AOmundson] Steins;Gate Complete Series 1080p [Multi-Audio]/01. Steins;Gate/Steins;Gate - 14.mkv
+Video File: G:/SteinsGate/14/Steins;Gate - 14_new.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 367
-Active Line: 377
+Scroll Position: 718
+Active Line: 733
+Video Position: 26805
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -768,7 +769,7 @@ Dialogue: 0,0:18:27.24,0:18:28.45,Default,,0,0,0,,Wait.
 Dialogue: 0,0:18:28.45,0:18:30.99,Default,,0,0,0,,It's dangerous to jump to conclusions!
 Dialogue: 0,0:18:30.99,0:18:32.08,Default,,0,0,0,,But...
 Dialogue: 0,0:18:32.08,0:18:34.33,Default,,0,0,0,,Makise Kurisu is right.
-Dialogue: 0,0:18:36.62,0:18:38.08,Default,,0,0,0,,You're...
+Dialogue: 0,0:18:36.51,0:18:38.08,Default,,0,0,0,,You're...
 Dialogue: 0,0:18:38.08,0:18:39.04,Default,,0,0,0,,Do you know something?
 Dialogue: 0,0:18:39.04,0:18:41.55,Default,,0,0,0,,You're more or less correct.
 Dialogue: 0,0:18:41.55,0:18:43.80,Default,,0,0,0,,Fixing everything won't be as easy
