@@ -12,11 +12,13 @@ YCbCr Matrix: TV.709
 [Aegisub Project Garbage]
 Last Style Storage: s;g 720p
 Audio File: //192.168.1.99/mnt/12tb/media/_downloads/temp/[AOmundson] Steins;Gate Complete Series 1080p [Multi-Audio]/01. Steins;Gate/Steins;Gate - 23.mkv
-Video File: //192.168.1.99/mnt/12tb/media/_downloads/temp/[AOmundson] Steins;Gate Complete Series 1080p [Multi-Audio]/01. Steins;Gate/Steins;Gate - 23.mkv
+Video File: G:/SteinsGate/23/Steins;Gate - 23_new.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 1.000000
-Active Line: 33
+Scroll Position: 711
+Active Line: 712
+Video Position: 26248
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -49,13 +51,13 @@ Dialogue: 0,0:00:19.41,0:00:21.41,Default,,0,0,0,,Huh? What is it?
 Dialogue: 0,0:00:21.41,0:00:23.08,Default,,0,0,0,,It's some kind of robot?
 Dialogue: 0,0:00:23.08,0:00:24.87,Default,,0,0,0,,Does it transform and stuff?
 Dialogue: 0,0:00:24.87,0:00:26.96,Default,,0,0,0,,A time machine.
-Dialogue: 0,0:00:26.96,0:00:28.46,Default,,0,0,0,,Seriously?
-Dialogue: 0,0:00:28.46,0:00:31.96,Default,,0,0,0,,I knew you'd recognize it, Uncle.
+Dialogue: 0,0:00:26.96,0:00:28.42,Default,,0,0,0,,Seriously?
+Dialogue: 0,0:00:28.42,0:00:31.96,Default,,0,0,0,,I knew you'd recognize it, Uncle.
 Dialogue: 0,0:00:31.96,0:00:33.76,Default,,0,0,0,,Then that makes this easy.
 Dialogue: 0,0:00:34.38,0:00:36.22,Default,,0,0,0,,Come with me.
 Dialogue: 0,0:00:40.64,0:00:41.89,Default,,0,0,0,,I refuse.
 Dialogue: 0,0:00:43.02,0:00:44.73,Default,,0,0,0,,Okarin?
-Dialogue: 0,0:00:44.73,0:00:47.65,Default,,0,0,0,,I came here from the Alpha worldline.
+Dialogue: 0,0:00:44.73,0:00:47.61,Default,,0,0,0,,I came here from the Alpha worldline.
 Dialogue: 0,0:00:48.36,0:00:49.82,Default,,0,0,0,,Over the past three weeks,
 Dialogue: 0,0:00:49.82,0:00:52.28,Default,,0,0,0,,I jumped worldlines again and again,
 Dialogue: 0,0:00:52.28,0:00:56.66,Default,,0,0,0,,sacrificing Kurisu in order to return to the Beta worldline.
@@ -457,38 +459,38 @@ Dialogue: 0,0:03:13.30,0:03:13.50,op kara,,0,0,0,fx,{\pos(955.5,55.5)\alpha&H70&
 Dialogue: 0,0:03:13.50,0:03:13.70,op kara,,0,0,0,fx,{\pos(960,49.5)\alpha&H00&\blur1.5\bord1.5}mou mayoi wa nai kodoku no kansokusha
 Dialogue: 0,0:03:13.70,0:03:13.90,op kara,,0,0,0,fx,{\pos(960,52.5)\alpha&H00&\blur3}mou mayoi wa nai kodoku no kansokusha
 Dialogue: 0,0:03:13.90,0:03:13.95,op kara,,0,0,0,fx,{\pos(955.5,55.5)\alpha&H70&\blur3}mou mayoi wa nai kodoku no kansokusha
-Dialogue: 0,0:03:16.96,0:03:22.01,Title1,,0,0,0,gradient @83e 1,{\fs90\clip(939,623,1365,633)\pos(1365,759)\1c&H5B5B5B&}Open the
-Dialogue: 0,0:03:16.96,0:03:22.01,Title1,,0,0,0,gradient @83e 2,{\fs90\clip(939,633,1365,644)\pos(1365,759)\1c&H5B5B5E&}Open the
-Dialogue: 0,0:03:16.96,0:03:22.01,Title1,,0,0,0,gradient @83e 3,{\fs90\clip(939,644,1365,654)\pos(1365,759)\1c&H5C5C63&}Open the
-Dialogue: 0,0:03:16.96,0:03:22.01,Title1,,0,0,0,gradient @83e 4,{\fs90\clip(939,654,1365,665)\pos(1365,759)\1c&H5C5C66&}Open the
-Dialogue: 0,0:03:16.96,0:03:22.01,Title1,,0,0,0,gradient @83e 5,{\fs90\clip(939,665,1365,675)\pos(1365,759)\1c&H5D5C6A&}Open the
-Dialogue: 0,0:03:16.96,0:03:22.01,Title1,,0,0,0,gradient @83e 6,{\fs90\clip(939,675,1365,686)\pos(1365,759)\1c&H5D5D6D&}Open the
-Dialogue: 0,0:03:16.96,0:03:22.01,Title1,,0,0,0,gradient @83e 7,{\fs90\clip(939,686,1365,696)\pos(1365,759)\1c&H5D5D72&}Open the
-Dialogue: 0,0:03:16.96,0:03:22.01,Title1,,0,0,0,gradient @83e 8,{\fs90\clip(939,696,1365,707)\pos(1365,759)\1c&H5D5D75&}Open the
-Dialogue: 0,0:03:16.96,0:03:22.01,Title1,,0,0,0,gradient @83e 9,{\fs90\clip(939,707,1365,717)\pos(1365,759)\1c&H5C5C7A&}Open the
-Dialogue: 0,0:03:16.96,0:03:22.01,Title1,,0,0,0,gradient @83e 10,{\fs90\clip(939,717,1365,728)\pos(1365,759)\1c&H5C5B7D&}Open the
-Dialogue: 0,0:03:16.96,0:03:22.01,Title1,,0,0,0,gradient @83e 11,{\fs90\clip(939,728,1365,738)\pos(1365,759)\1c&H5B5A81&}Open the
-Dialogue: 0,0:03:16.96,0:03:22.01,Title1,,0,0,0,gradient @83e 12,{\fs90\clip(939,738,1365,749)\pos(1365,759)\1c&H5B5A85&}Open the
-Dialogue: 0,0:03:16.96,0:03:22.01,Title1,,0,0,0,gradient @83e 13,{\fs90\clip(939,749,1365,759)\pos(1365,759)\1c&H5B5989&}Open the
-Dialogue: 0,0:03:16.96,0:03:22.01,Title1,,0,0,0,gradient @83e 1,{\clip(1206,569,1770,579)\pos(1770,705)\1c&H5B5B5B&}Steins Gate
-Dialogue: 0,0:03:16.96,0:03:22.01,Title1,,0,0,0,gradient @83e 2,{\clip(1206,579,1770,590)\pos(1770,705)\1c&H5B5B5E&}Steins Gate
-Dialogue: 0,0:03:16.96,0:03:22.01,Title1,,0,0,0,gradient @83e 3,{\clip(1206,590,1770,600)\pos(1770,705)\1c&H5C5C63&}Steins Gate
-Dialogue: 0,0:03:16.96,0:03:22.01,Title1,,0,0,0,gradient @83e 4,{\clip(1206,600,1770,611)\pos(1770,705)\1c&H5C5C66&}Steins Gate
-Dialogue: 0,0:03:16.96,0:03:22.01,Title1,,0,0,0,gradient @83e 5,{\clip(1206,611,1770,621)\pos(1770,705)\1c&H5D5C6A&}Steins Gate
-Dialogue: 0,0:03:16.96,0:03:22.01,Title1,,0,0,0,gradient @83e 6,{\clip(1206,621,1770,632)\pos(1770,705)\1c&H5D5D6D&}Steins Gate
-Dialogue: 0,0:03:16.96,0:03:22.01,Title1,,0,0,0,gradient @83e 7,{\clip(1206,632,1770,642)\pos(1770,705)\1c&H5D5D72&}Steins Gate
-Dialogue: 0,0:03:16.96,0:03:22.01,Title1,,0,0,0,gradient @83e 8,{\clip(1206,642,1770,653)\pos(1770,705)\1c&H5D5D75&}Steins Gate
-Dialogue: 0,0:03:16.96,0:03:22.01,Title1,,0,0,0,gradient @83e 9,{\clip(1206,653,1770,663)\pos(1770,705)\1c&H5C5C7A&}Steins Gate
-Dialogue: 0,0:03:16.96,0:03:22.01,Title1,,0,0,0,gradient @83e 10,{\clip(1206,663,1770,674)\pos(1770,705)\1c&H5C5B7D&}Steins Gate
-Dialogue: 0,0:03:16.96,0:03:22.01,Title1,,0,0,0,gradient @83e 11,{\clip(1206,674,1770,684)\pos(1770,705)\1c&H5B5A81&}Steins Gate
-Dialogue: 0,0:03:16.96,0:03:22.01,Title1,,0,0,0,gradient @83e 12,{\clip(1206,684,1770,695)\pos(1770,705)\1c&H5B5A85&}Steins Gate
-Dialogue: 0,0:03:16.96,0:03:22.01,Title1,,0,0,0,gradient @83e 13,{\clip(1206,695,1770,705)\pos(1770,705)\1c&H5B5989&}Steins Gate
+Dialogue: 0,0:03:16.96,0:03:21.97,Title1,,0,0,0,gradient @83e 1,{\fs90\clip(939,623,1365,633)\pos(1365,759)\1c&H5B5B5B&}Open the
+Dialogue: 0,0:03:16.96,0:03:21.97,Title1,,0,0,0,gradient @83e 2,{\fs90\clip(939,633,1365,644)\pos(1365,759)\1c&H5B5B5E&}Open the
+Dialogue: 0,0:03:16.96,0:03:21.97,Title1,,0,0,0,gradient @83e 3,{\fs90\clip(939,644,1365,654)\pos(1365,759)\1c&H5C5C63&}Open the
+Dialogue: 0,0:03:16.96,0:03:21.97,Title1,,0,0,0,gradient @83e 4,{\fs90\clip(939,654,1365,665)\pos(1365,759)\1c&H5C5C66&}Open the
+Dialogue: 0,0:03:16.96,0:03:21.97,Title1,,0,0,0,gradient @83e 5,{\fs90\clip(939,665,1365,675)\pos(1365,759)\1c&H5D5C6A&}Open the
+Dialogue: 0,0:03:16.96,0:03:21.97,Title1,,0,0,0,gradient @83e 6,{\fs90\clip(939,675,1365,686)\pos(1365,759)\1c&H5D5D6D&}Open the
+Dialogue: 0,0:03:16.96,0:03:21.97,Title1,,0,0,0,gradient @83e 7,{\fs90\clip(939,686,1365,696)\pos(1365,759)\1c&H5D5D72&}Open the
+Dialogue: 0,0:03:16.96,0:03:21.97,Title1,,0,0,0,gradient @83e 8,{\fs90\clip(939,696,1365,707)\pos(1365,759)\1c&H5D5D75&}Open the
+Dialogue: 0,0:03:16.96,0:03:21.97,Title1,,0,0,0,gradient @83e 9,{\fs90\clip(939,707,1365,717)\pos(1365,759)\1c&H5C5C7A&}Open the
+Dialogue: 0,0:03:16.96,0:03:21.97,Title1,,0,0,0,gradient @83e 10,{\fs90\clip(939,717,1365,728)\pos(1365,759)\1c&H5C5B7D&}Open the
+Dialogue: 0,0:03:16.96,0:03:21.97,Title1,,0,0,0,gradient @83e 11,{\fs90\clip(939,728,1365,738)\pos(1365,759)\1c&H5B5A81&}Open the
+Dialogue: 0,0:03:16.96,0:03:21.97,Title1,,0,0,0,gradient @83e 12,{\fs90\clip(939,738,1365,749)\pos(1365,759)\1c&H5B5A85&}Open the
+Dialogue: 0,0:03:16.96,0:03:21.97,Title1,,0,0,0,gradient @83e 13,{\fs90\clip(939,749,1365,759)\pos(1365,759)\1c&H5B5989&}Open the
+Dialogue: 0,0:03:16.96,0:03:21.97,Title1,,0,0,0,gradient @83e 1,{\clip(1206,569,1770,579)\pos(1770,705)\1c&H5B5B5B&}Steins Gate
+Dialogue: 0,0:03:16.96,0:03:21.97,Title1,,0,0,0,gradient @83e 2,{\clip(1206,579,1770,590)\pos(1770,705)\1c&H5B5B5E&}Steins Gate
+Dialogue: 0,0:03:16.96,0:03:21.97,Title1,,0,0,0,gradient @83e 3,{\clip(1206,590,1770,600)\pos(1770,705)\1c&H5C5C63&}Steins Gate
+Dialogue: 0,0:03:16.96,0:03:21.97,Title1,,0,0,0,gradient @83e 4,{\clip(1206,600,1770,611)\pos(1770,705)\1c&H5C5C66&}Steins Gate
+Dialogue: 0,0:03:16.96,0:03:21.97,Title1,,0,0,0,gradient @83e 5,{\clip(1206,611,1770,621)\pos(1770,705)\1c&H5D5C6A&}Steins Gate
+Dialogue: 0,0:03:16.96,0:03:21.97,Title1,,0,0,0,gradient @83e 6,{\clip(1206,621,1770,632)\pos(1770,705)\1c&H5D5D6D&}Steins Gate
+Dialogue: 0,0:03:16.96,0:03:21.97,Title1,,0,0,0,gradient @83e 7,{\clip(1206,632,1770,642)\pos(1770,705)\1c&H5D5D72&}Steins Gate
+Dialogue: 0,0:03:16.96,0:03:21.97,Title1,,0,0,0,gradient @83e 8,{\clip(1206,642,1770,653)\pos(1770,705)\1c&H5D5D75&}Steins Gate
+Dialogue: 0,0:03:16.96,0:03:21.97,Title1,,0,0,0,gradient @83e 9,{\clip(1206,653,1770,663)\pos(1770,705)\1c&H5C5C7A&}Steins Gate
+Dialogue: 0,0:03:16.96,0:03:21.97,Title1,,0,0,0,gradient @83e 10,{\clip(1206,663,1770,674)\pos(1770,705)\1c&H5C5B7D&}Steins Gate
+Dialogue: 0,0:03:16.96,0:03:21.97,Title1,,0,0,0,gradient @83e 11,{\clip(1206,674,1770,684)\pos(1770,705)\1c&H5B5A81&}Steins Gate
+Dialogue: 0,0:03:16.96,0:03:21.97,Title1,,0,0,0,gradient @83e 12,{\clip(1206,684,1770,695)\pos(1770,705)\1c&H5B5A85&}Steins Gate
+Dialogue: 0,0:03:16.96,0:03:21.97,Title1,,0,0,0,gradient @83e 13,{\clip(1206,695,1770,705)\pos(1770,705)\1c&H5B5989&}Steins Gate
 Dialogue: 0,0:03:23.22,0:03:25.47,Default,,0,0,0,,Steins Gate?
 Dialogue: 0,0:03:25.47,0:03:27.56,Default,,0,0,0,,The architects of this plan were
 Dialogue: 0,0:03:27.56,0:03:30.81,Default,,0,0,0,,my father and your future self.
 Dialogue: 0,0:03:31.56,0:03:34.06,Default,,0,0,0,,None of it is more than a hypothesis.
 Dialogue: 0,0:03:34.06,0:03:37.40,Default,,0,0,0,,It's possible for the theory to be wrong,
-Dialogue: 0,0:03:37.40,0:03:41.40,Default,,0,0,0,,for there to be no Steins Gate worldline,
+Dialogue: 0,0:03:37.40,0:03:41.45,Default,,0,0,0,,for there to be no Steins Gate worldline,
 Dialogue: 0,0:03:41.70,0:03:44.36,Default,,0,0,0,,but I'm going regardless.
 Dialogue: 0,0:03:44.36,0:03:48.58,Default,,0,0,0,,I'll bet on the chance that a shining future's waiting for me.
 Dialogue: 0,0:03:49.20,0:03:52.00,Default,,0,0,0,,If you're coming with me,
@@ -499,7 +501,7 @@ Dialogue: 0,0:04:08.10,0:04:10.72,Default,,0,0,0,,but if this person,
 Dialogue: 0,0:04:10.72,0:04:15.44,Default,,0,0,0,,this Kurisu, is important to you,
 Dialogue: 0,0:04:17.06,0:04:18.86,Default,,0,0,0,,shouldn't you try to help her?
 Dialogue: 0,0:04:18.86,0:04:23.90,Default,,0,0,0,,World War III sounds like one of your crazy delusions.
-Dialogue: 0,0:04:23.90,0:04:27.07,Default,,0,0,0,,No one else could handle it.
+Dialogue: 0,0:04:23.90,0:04:27.04,Default,,0,0,0,,No one else could handle it.
 Dialogue: 0,0:04:29.74,0:04:32.70,Default,,0,0,0,,I don't care about the 5.7 billion people in the future...
 Dialogue: 0,0:04:33.71,0:04:34.25,Default,,0,0,0,,but...
 Dialogue: 0,0:04:38.71,0:04:39.67,Default,,0,0,0,,Thank you.
@@ -508,7 +510,7 @@ Dialogue: 0,0:04:42.67,0:04:44.26,Default,,0,0,0,,Two people can get in it?
 Dialogue: 0,0:04:44.26,0:04:45.68,Default,,0,0,0,,Of course!
 Dialogue: 0,0:04:45.68,0:04:49.30,Default,,0,0,0,,This is my dad's masterpiece.
 Dialogue: 0,0:04:54.52,0:04:55.27,Default,,0,0,0,,Okarin!
-Dialogue: 0,0:04:56.90,0:04:58.31,Default,,0,0,0,,Leave your phone.
+Dialogue: 0,0:04:56.90,0:04:58.36,Default,,0,0,0,,Leave your phone.
 Dialogue: 0,0:04:58.61,0:05:02.61,Default,,0,0,0,,It might interfere with your phone in the past.
 Dialogue: 0,0:05:04.15,0:05:05.20,Default,,0,0,0,,I'll be back.
 Dialogue: 0,0:05:09.28,0:05:10.58,Default,,0,0,0,,Good luck.
@@ -519,8 +521,8 @@ Dialogue: 0,0:05:17.92,0:05:19.75,Default,,0,0,0,,It's working fine,
 Dialogue: 0,0:05:19.75,0:05:23.30,Default,,0,0,0,,but it's running out of fuel.
 Dialogue: 0,0:05:23.30,0:05:25.97,Default,,0,0,0,,Wait. It can go from past to future?
 Dialogue: 0,0:05:27.18,0:05:28.39,Default,,0,0,0,,Of course it can.
-Dialogue: 0,0:05:28.39,0:05:29.80,Default,,0,0,0,,It's a time machine.
-Dialogue: 0,0:05:29.80,0:05:31.97,Default,,0,0,0,,{\i1}I see.
+Dialogue: 0,0:05:28.39,0:05:29.77,Default,,0,0,0,,It's a time machine.
+Dialogue: 0,0:05:30.06,0:05:31.97,Default,,0,0,0,,{\i1}I see.
 Dialogue: 0,0:05:31.97,0:05:34.60,Default,,0,0,0,,{\i1}Is that because we're in a different worldline now?
 Dialogue: 0,0:05:34.60,0:05:35.77,Default,,0,0,0,,Sit down.
 Dialogue: 0,0:05:36.52,0:05:40.02,Default,,0,0,0,,We'll head to just before noon on July 28th.
@@ -542,8 +544,8 @@ Dialogue: 0,0:06:27.82,0:06:28.86,Default,,0,0,0,,Hurry!
 Dialogue: 0,0:06:32.99,0:06:35.95,Default,,0,0,0,,Don't let your other self see you.
 Dialogue: 0,0:06:35.95,0:06:38.50,Default,,0,0,0,,It'll cause a serious time paradox.
 Dialogue: 0,0:06:38.50,0:06:41.00,Default,,0,0,0,,How long until the stabbing?
-Dialogue: 0,0:06:41.00,0:06:43.75,Default,,0,0,0,,Twenty minutes or so, I guess.
-Dialogue: 0,0:06:43.75,0:06:46.76,Default,,0,0,0,,I'll prepare the time machine.
+Dialogue: 0,0:06:41.00,0:06:43.80,Default,,0,0,0,,Twenty minutes or so, I guess.
+Dialogue: 0,0:06:43.80,0:06:46.76,Default,,0,0,0,,I'll prepare the time machine.
 Dialogue: 0,0:06:46.76,0:06:49.01,Default,,0,0,0,,You protect her, Uncle.
 Dialogue: 0,0:06:49.01,0:06:50.38,Default,,0,0,0,,Stop calling me that.
 Dialogue: 0,0:06:51.84,0:06:53.93,Default,,0,0,0,,{\i1}July 28th.
@@ -559,7 +561,7 @@ Dialogue: 0,0:07:28.09,0:07:29.51,Default,,0,0,0,,{\i1}Oh well.
 Dialogue: 0,0:07:29.51,0:07:31.72,Default,,0,0,0,,{\i1}I'll take the back stairs to the eighth floor.
 Dialogue: 0,0:07:32.68,0:07:35.89,Default,,0,0,0,,It's a metal... a metal Upa!
 Dialogue: 0,0:07:35.89,0:07:37.18,Default,,0,0,0,,Is it rare?
-Dialogue: 0,0:07:37.18,0:07:38.97,Default,,0,0,0,,Extremely!
+Dialogue: 0,0:07:37.18,0:07:39.02,Default,,0,0,0,,Extremely!
 Dialogue: 0,0:07:39.68,0:07:41.31,Default,,0,0,0,,{\i1}Now that I'm here... {D: TC - unclear what this is supposed to mean}
 Dialogue: 0,0:07:45.23,0:07:45.90,Default,,0,0,0,,I'm sorry.
 Dialogue: 0,0:07:45.90,0:07:48.69,Default,,0,0,0,,K-Kurisu?
@@ -573,7 +575,7 @@ Dialogue: 0,0:08:04.62,0:08:06.13,Default,,0,0,0,,Answer me.
 Dialogue: 0,0:08:07.92,0:08:09.00,Default,,0,0,0,,I...
 Dialogue: 0,0:08:11.51,0:08:14.05,Default,,0,0,0,,I'm... trying... {D: TC - can't hear the first word clearly. Sounds like an ore wa}
 Dialogue: 0,0:08:21.68,0:08:22.68,Default,,0,0,0,,Wait!
-Dialogue: 0,0:08:22.68,0:08:23.98,Default,,0,0,0,,Wait a second!
+Dialogue: 0,0:08:22.68,0:08:23.94,Default,,0,0,0,,Wait a second!
 Dialogue: 0,0:08:27.48,0:08:32.44,Default,,0,0,0,,In the handouts, you can read about the time machine's basic design.
 Dialogue: 0,0:08:32.44,0:08:35.24,SignA,,0,0,0,,{\c&H1B1B1A&\fs45\fscx70\pos(1102.5,28.5)}Doctor Nakabachi's Time Machine Invention Press Conference
 Dialogue: 0,0:08:32.94,0:08:36.91,Default,,0,0,0,,I will use this conference as an opportunity to discuss the fundamental theory behind it.
@@ -581,7 +583,7 @@ Dialogue: 0,0:08:35.24,0:08:38.45,Sign1,,0,0,0,,{\c&H25211D&\blur1.2\t(\fscy67\f
 Dialogue: 0,0:08:38.91,0:08:43.50,Default,,0,0,0,,The operation notes said that you'd be able to identify Makise Kurisu.
 Dialogue: 0,0:08:43.50,0:08:44.71,Default,,0,0,0,,Can you?
 Dialogue: 0,0:08:44.71,0:08:45.67,Default,,0,0,0,,Yeah.
-Dialogue: 0,0:08:45.67,0:08:49.00,Default,,0,0,0,,Also, it's dangerous to take her outside.
+Dialogue: 0,0:08:45.67,0:08:48.97,Default,,0,0,0,,Also, it's dangerous to take her outside.
 Dialogue: 0,0:08:49.63,0:08:52.88,Default,,0,0,0,,If we don't figure out who stabbed her,
 Dialogue: 0,0:08:52.88,0:08:55.97,Default,,0,0,0,,we can't change her fate.{hurr}
 Dialogue: 0,0:08:55.97,0:08:57.84,Default,,0,0,0,,Just like Mayuri?{durr}
@@ -591,7 +593,7 @@ Dialogue: 0,0:09:01.93,0:09:03.52,Default,,0,0,0,,You know exactly what!
 Dialogue: 0,0:09:03.52,0:09:05.89,Default,,0,0,0,,What is this "time machine theory" of yours?
 Dialogue: 0,0:09:05.89,0:09:07.15,Default,,0,0,0,,Kerr Black Holes?
 Dialogue: 0,0:09:07.15,0:09:08.40,Default,,0,0,0,,worldlines?
-Dialogue: 0,0:09:08.40,0:09:09.86,Default,,0,0,0,,You stole all of this from John Titor!
+Dialogue: 0,0:09:08.40,0:09:09.82,Default,,0,0,0,,You stole all of this from John Titor!
 Dialogue: 0,0:09:11.11,0:09:13.90,Default,,0,0,0,,{\i1}Kurisu will be stabbed right here soon.
 Dialogue: 0,0:09:14.78,0:09:16.45,Default,,0,0,0,,{\i1}Is she really going to be here?
 Dialogue: 0,0:09:17.95,0:09:20.78,Default,,0,0,0,,{\i1}Wait! Maybe she was stabbed elsewhere and brought here.
@@ -628,7 +630,7 @@ Dialogue: 0,0:10:50.67,0:10:52.13,Default,,0,0,0,,Wait!
 Dialogue: 0,0:10:52.13,0:10:53.96,Default,,0,0,0,,You wouldn't steal it, right, Daddy?
 Dialogue: 0,0:10:54.63,0:10:57.30,Default,,0,0,0,,I never thought you'd resort to tha—
 Dialogue: 0,0:10:57.30,0:10:57.92,Default,,0,0,0,,Shut up!
-Dialogue: 0,0:11:02.26,0:11:04.01,Default,,0,0,0,,How dare you call it stealing?!
+Dialogue: 0,0:11:02.26,0:11:04.06,Default,,0,0,0,,How dare you call it stealing?!
 Dialogue: 0,0:11:06.35,0:11:09.43,Default,,0,0,0,,Why are you so smart?
 Dialogue: 0,0:11:09.43,0:11:12.69,Default,,0,0,0,,A girl shouldn't be smarter than her father!
 Dialogue: 0,0:11:12.69,0:11:16.69,Default,,0,0,0,,If it weren't for you, I would've been considered smart!
@@ -637,8 +639,8 @@ Dialogue: 0,0:11:27.87,0:11:29.50,Default,,0,0,0,,You're that kid from earlier.
 Dialogue: 0,0:11:30.62,0:11:32.42,Default,,0,0,0,,So that's it?
 Dialogue: 0,0:11:33.08,0:11:38.84,Default,,0,0,0,,You were plotting to ruin my conference together, huh?
 Dialogue: 0,0:11:40.92,0:11:42.18,Default,,0,0,0,,I see.
-Dialogue: 0,0:11:43.34,0:11:45.55,Default,,0,0,0,,So that's it.
-Dialogue: 0,0:11:45.55,0:11:47.35,Default,,0,0,0,,Daddy!
+Dialogue: 0,0:11:43.34,0:11:45.60,Default,,0,0,0,,So that's it.
+Dialogue: 0,0:11:45.60,0:11:47.35,Default,,0,0,0,,Daddy!
 Dialogue: 0,0:11:47.35,0:11:49.39,Default,,0,0,0,,{\i1}I'll protect her!
 Dialogue: 0,0:11:51.73,0:11:55.81,Default,,0,0,0,,How dare you insult me?
 Dialogue: 0,0:12:02.40,0:12:04.24,Default,,0,0,0,,Why, you...
@@ -671,21 +673,21 @@ Dialogue: 0,0:13:34.16,0:13:37.00,Default,,0,0,0,,I don't...
 Dialogue: 0,0:13:38.75,0:13:39.79,Default,,0,0,0,,Kurisu...
 Dialogue: 0,0:13:42.34,0:13:43.42,Default,,0,0,0,,Kurisu!
 Dialogue: 0,0:13:59.02,0:14:00.56,Default,,0,0,0,,They're back already!
-Dialogue: 0,0:14:03.02,0:14:04.28,Default,,0,0,0,,Okarin!
+Dialogue: 0,0:14:03.02,0:14:04.24,Default,,0,0,0,,Okarin!
 Dialogue: 0,0:14:07.24,0:14:08.53,Default,,0,0,0,,Okarin, that blood...
 Dialogue: 0,0:14:09.36,0:14:10.57,Default,,0,0,0,,It's all right.
 Dialogue: 0,0:14:10.57,0:14:12.33,Default,,0,0,0,,It isn't his.
 Dialogue: 0,0:14:14.41,0:14:17.66,Default,,0,0,0,,I was the one who killed Kurisu.
 Dialogue: 0,0:14:17.66,0:14:19.50,Default,,0,0,0,,I was the one who killed Kurisu.
 Dialogue: 0,0:14:20.08,0:14:21.96,Default,,0,0,0,,I was the one who killed Kurisu.
-Dialogue: 0,0:14:23.29,0:14:24.46,Default,,0,0,0,,Okarin?
-Dialogue: 0,0:14:24.46,0:14:28.55,Default,,0,0,0,,I know it hurts, but you can't give up yet.
+Dialogue: 0,0:14:23.29,0:14:24.43,Default,,0,0,0,,Okarin?
+Dialogue: 0,0:14:24.43,0:14:28.55,Default,,0,0,0,,I know it hurts, but you can't give up yet.
 Dialogue: 0,0:14:28.55,0:14:31.30,Default,,0,0,0,,We have enough fuel to go back one more time.
 Dialogue: 0,0:14:31.30,0:14:32.39,Default,,0,0,0,,Shut up!
 Dialogue: 0,0:14:33.05,0:14:34.85,Default,,0,0,0,,Nothing will change!
 Dialogue: 0,0:14:35.64,0:14:39.27,Default,,0,0,0,,The attractor field convergence will kill her all over again.
-Dialogue: 0,0:14:43.23,0:14:44.61,Default,,0,0,0,,It's your phone.
-Dialogue: 0,0:14:44.61,0:14:45.94,Default,,0,0,0,,A message?
+Dialogue: 0,0:14:43.23,0:14:44.57,Default,,0,0,0,,It's your phone.
+Dialogue: 0,0:14:44.57,0:14:45.94,Default,,0,0,0,,A message?
 Dialogue: 0,0:14:45.94,0:14:46.57,Default,,0,0,0,,Open it.
 Dialogue: 0,0:14:46.90,0:14:47.69,Default,,0,0,0,,But...
 Dialogue: 0,0:14:47.69,0:14:48.65,Default,,0,0,0,,Just do it.
@@ -718,7 +720,7 @@ Dialogue: 0,0:15:54.89,0:15:56.76,Default,,0,0,0,,It's just like with Mayuri.
 Dialogue: 0,0:15:57.93,0:16:00.35,Default,,0,0,0,,No matter what I do, it'll end up the same.
 Dialogue: 0,0:16:01.23,0:16:02.94,Default,,0,0,0,,Kurisu will die.
 Dialogue: 0,0:16:02.94,0:16:05.31,Default,,0,0,0,,How can you say that after only one time?
-Dialogue: 0,0:16:05.31,0:16:06.36,Default,,0,0,0,,One time?!
+Dialogue: 0,0:16:05.31,0:16:06.32,Default,,0,0,0,,One time?!
 Dialogue: 0,0:16:06.73,0:16:08.15,Default,,0,0,0,,It's more than that.
 Dialogue: 0,0:16:08.69,0:16:10.28,Default,,0,0,0,,How many times...
 Dialogue: 0,0:16:10.28,0:16:12.86,Default,,0,0,0,,How many times do you think I've failed?!
@@ -735,7 +737,7 @@ Dialogue: 0,0:16:47.94,0:16:51.11,Default,,0,0,0,,You're not the kind of person 
 Dialogue: 0,0:16:51.11,0:16:54.90,Default,,0,0,0,,Even when Mayushii couldn't say goodbye to her grandmother,
 Dialogue: 0,0:16:54.90,0:16:58.32,Default,,0,0,0,,you never stopped going to her grave.
 Dialogue: 0,0:16:58.82,0:17:01.08,Default,,0,0,0,,That's why I could say goodbye.
-Dialogue: 0,0:17:01.87,0:17:04.12,Default,,0,0,0,,That's why I got better!
+Dialogue: 0,0:17:01.87,0:17:04.09,Default,,0,0,0,,That's why I got better!
 Dialogue: 0,0:17:05.79,0:17:08.83,Default,,0,0,0,,So don't give up.
 Dialogue: 0,0:17:13.13,0:17:17.26,Default,,0,0,0,,You should've received a video file on July 28th.
 Dialogue: 0,0:17:21.18,0:17:24.27,Default,,0,0,0,,{\i1}July 28th...
@@ -753,7 +755,7 @@ Dialogue: 0,0:17:56.47,0:17:59.72,Default,,0,0,0,,then you've failed to rescue K
 Dialogue: 0,0:18:00.30,0:18:02.39,Default,,0,0,0,,It hurts, doesn't it?
 Dialogue: 0,0:18:03.18,0:18:07.64,Default,,0,0,0,,But that pain spawned my relentless obsession,
 Dialogue: 0,0:18:07.64,0:18:11.94,Default,,0,0,0,,so it was a necessary step.
-Dialogue: 0,0:18:11.94,0:18:14.82,Default,,0,0,0,,You could say it was a build-up.
+Dialogue: 0,0:18:11.94,0:18:14.78,Default,,0,0,0,,You could say it was a build-up.
 Dialogue: 0,0:18:16.11,0:18:19.45,Default,,0,0,0,,Now we can begin the true plan,
 Dialogue: 0,0:18:19.95,0:18:21.66,Default,,0,0,0,,the plan to save Makise Kurisu
 Dialogue: 0,0:18:21.66,0:18:23.83,Default,,0,0,0,,and enter Steins Gate.
