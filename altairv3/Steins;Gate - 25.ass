@@ -14,13 +14,13 @@ GradientFactory: 1329977348 Selected lines (2)Smooth (Vertical)10As Is5 colo
 [Aegisub Project Garbage]
 Last Style Storage: s;g 720p
 Audio File: //192.168.1.99/mnt/12tb/media/_downloads/temp/[AOmundson] Steins;Gate Complete Series 1080p [Multi-Audio]/01. Steins;Gate/OVA/Steins;Gate Oukoubakko no Poriomania.mkv
-Video File: D:/_NCODE/_Final/Steins;Gate- Oukoubakko no Poriomania.mkv
+Video File: D:/_NCODE/_Final/Steins;Gate- Oukoubakko no Poriomania_new.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
-Scroll Position: 126
-Active Line: 339
-Video Position: 31451
+Video Zoom Percent: 0.375000
+Scroll Position: 39
+Active Line: 46
+Video Position: 2773
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -87,8 +87,8 @@ Dialogue: 0,0:01:29.53,0:01:34.53,Default,,0,0,0,,Basically, the federal governm
 Dialogue: 0,0:01:35.45,0:01:37.41,Default,,0,0,0,,Wild delusions, fail as usual.
 Dialogue: 0,0:01:42.42,0:01:44.88,Default,,0,0,0,,Ah, it's a message from Kurisu.
 Dialogue: 0,0:01:46.38,0:01:50.47,Default,,0,0,0,,She says that the research she's working on is almost done, so she can come along!
-Dialogue: 0,0:01:51.63,0:01:54.72,Default,,0,0,0,,It seems like she wants you to come too, Okarin.
-Dialogue: 0,0:01:54.72,0:01:55.43,Default,,0,0,0,,Look.
+Dialogue: 0,0:01:51.63,0:01:54.47,Default,,0,0,0,,It seems like she wants you to come too, Okarin.
+Dialogue: 0,0:01:54.47,0:01:55.43,Default,,0,0,0,,Look.
 Dialogue: 0,0:01:55.43,0:01:56.85,Default,,0,0,0,,Let's see.
 Dialogue: 0,0:01:56.85,0:02:02.06,Default,,0,0,0,,"Okabe doesn't have to come though. It's not like I want to see him or anything."
 Dialogue: 0,0:02:02.77,0:02:05.81,Default,,0,0,0,,She's a true tsundere. I get it.
