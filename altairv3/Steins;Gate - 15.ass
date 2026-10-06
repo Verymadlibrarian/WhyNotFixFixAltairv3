@@ -13,13 +13,13 @@ YCbCr Matrix: TV.709
 [Aegisub Project Garbage]
 Last Style Storage: s;g
 Audio File: //192.168.1.99/mnt/12tb/media/_downloads/temp/[AOmundson] Steins;Gate Complete Series 1080p [Multi-Audio]/01. Steins;Gate/Steins;Gate - 15.mkv
-Video File: //192.168.1.99/mnt/12tb/media/_downloads/temp/[AOmundson] Steins;Gate Complete Series 1080p [Multi-Audio]/01. Steins;Gate/Steins;Gate - 15.mkv
+Video File: G:/SteinsGate/15/Steins;Gate - 15_new.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 774
-Active Line: 780
-Video Position: 32213
+Scroll Position: 698
+Active Line: 699
+Video Position: 26067
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -731,7 +731,7 @@ Dialogue: 0,0:17:55.05,0:17:57.10,Default,,0,0,0,,What is she...
 Dialogue: 0,0:17:56.31,0:17:58.77,Default,,0,0,0,,{\an8}There was a kidnapping yesterday!
 Dialogue: 0,0:17:59.35,0:18:02.14,Default,,0,0,0,,I'm looking for the criminal. He wore a badge like this!
 Dialogue: 0,0:18:02.14,0:18:05.27,Default,,0,0,0,,Please help us!
-Dialogue: 0,0:18:05.98,0:18:07.15,Default,,0,0,0,,Oh, Okarin!
+Dialogue: 0,0:18:05.98,0:18:07.23,Default,,0,0,0,,Oh, Okarin!
 Dialogue: 0,0:18:07.98,0:18:09.44,Default,,0,0,0,,Look! Look!
 Dialogue: 0,0:18:14.03,0:18:15.57,Default,,0,0,0,,Mayuri...
 Dialogue: 0,0:18:16.20,0:18:17.87,Default,,0,0,0,,Good idea, right?
