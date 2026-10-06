@@ -13,13 +13,13 @@ YCbCr Matrix: TV.709
 [Aegisub Project Garbage]
 Last Style Storage: s;g 720p
 Audio File: //192.168.1.99/mnt/12tb/media/_downloads/temp/[AOmundson] Steins;Gate Complete Series 1080p [Multi-Audio]/01. Steins;Gate/Steins;Gate - 12.mkv
-Video File: //192.168.1.99/mnt/12tb/media/_downloads/temp/[AOmundson] Steins;Gate Complete Series 1080p [Multi-Audio]/01. Steins;Gate/Steins;Gate - 12.mkv
+Video File: G:/SteinsGate/12/Steins;Gate - 12_new.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 1.000000
-Scroll Position: 2796
-Active Line: 2802
-Video Position: 31260
+Scroll Position: 2790
+Active Line: 2806
+Video Position: 31822
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -2807,7 +2807,7 @@ Dialogue: 0,0:18:43.89,0:18:45.06,Default,,0,0,0,,What do you mean?!
 Dialogue: 0,0:18:45.06,0:18:47.61,Default,,0,0,0,,I got a direct connection to SERN.
 Dialogue: 0,0:18:56.95,0:18:58.91,Default,,0,0,0,,Everyone! You need to...
 Dialogue: 0,0:19:02.25,0:19:02.83,Default,,0,0,0,,I'm sorry.
-Dialogue: 0,0:19:02.83,0:19:03.71,Default,,0,0,0,,I'm leaving!
+Dialogue: 0,0:19:02.83,0:19:03.83,Default,,0,0,0,,I'm leaving!
 Dialogue: 0,0:19:05.00,0:19:06.58,Default,,0,0,0,,Suzu!
 Dialogue: 0,0:19:07.46,0:19:09.59,Default,,0,0,0,,What was that about?
 Dialogue: 0,0:19:09.96,0:19:11.34,Default,,0,0,0,,What will you do, Mayushii?
@@ -2830,18 +2830,18 @@ Dialogue: 0,0:20:46.85,0:20:47.98,Default,,0,0,0,,What do you mean?
 Dialogue: 0,0:20:49.31,0:20:50.90,Default,,0,0,0,,Makise Kurisu.
 Dialogue: 0,0:20:50.90,0:20:52.40,Default,,0,0,0,,Okabe Rintaro.
 Dialogue: 0,0:20:52.40,0:20:54.07,Default,,0,0,0,,Hashida Itaru.
-Dialogue: 0,0:20:54.07,0:20:56.03,Default,,0,0,0,,The three of you will come with me.
+Dialogue: 0,0:20:54.07,0:20:56.07,Default,,0,0,0,,The three of you will come with me.
 Dialogue: 0,0:20:59.32,0:21:00.78,Default,,0,0,0,,What about Mayuri?
 Dialogue: 0,0:21:01.74,0:21:03.49,Default,,0,0,0,,Shiina Mayuri is...
 Dialogue: 0,0:21:06.08,0:21:07.08,Default,,0,0,0,,...not necessary.
-Dialogue: 0,0:21:10.67,0:21:11.58,Default,,0,0,0,,Don't.
-Dialogue: 0,0:21:14.38,0:21:16.17,Default,,0,0,0,,Don't do it.
-Dialogue: 0,0:21:16.17,0:21:20.76,Default,,0,0,0,,For FB... FB... FB...
+Dialogue: 0,0:21:10.67,0:21:11.63,Default,,0,0,0,,Don't.
+Dialogue: 0,0:21:14.38,0:21:16.21,Default,,0,0,0,,Don't do it.
+Dialogue: 0,0:21:16.21,0:21:20.76,Default,,0,0,0,,For FB... FB... FB...
 Dialogue: 0,0:21:43.78,0:21:45.24,Default,,0,0,0,,Mayuri?
-Dialogue: 0,0:21:45.24,0:21:45.99,Default,,0,0,0,,Mayuri!
+Dialogue: 0,0:21:45.24,0:21:46.03,Default,,0,0,0,,Mayuri!
 Dialogue: 0,0:21:50.58,0:21:51.54,Default,,0,0,0,,Mayuri?
 Dialogue: 0,0:22:01.13,0:22:02.59,Default,,0,0,0,,What is this?
-Dialogue: 0,0:22:06.01,0:22:07.22,Default,,0,0,0,,What the hell{fuck} is this?!
+Dialogue: 0,0:22:06.05,0:22:07.26,Default,,0,0,0,,What the hell{fuck} is this?!
 Dialogue: 1,0:22:20.90,0:22:29.95,EDRom,,0,0,0,,{\blur1.8\fad(250,1500)}kisei sareta shikai mujihi naru
 Dialogue: 0,0:22:20.90,0:22:29.95,EDRom,,0,0,0,,{\blur4.8\\alpha&H70&\bord8.25\3c&H5E382E&\fad(250,1500)}kisei sareta shikai mujihi naru
 Dialogue: 1,0:22:20.90,0:22:29.95,EDTL,,0,0,0,,{\blur1.8\fad(250,1500)}With my field of view restricted
