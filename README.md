@@ -3,6 +3,9 @@
 This is just another fix for the WhyNotFixFix subs since it seems it isn't well synced for the bluray video, so what's done :
 - Bulk frame shifting when an offset is present on all subs
 - Manual sign timing fix for every episode, hope I did not miss any
+- Manually going through all episodes to fix little 1-frame overlaps between scene changes (usually a few per episode)
+- (Todo) Make all OPs and EDs start at the same relative timestamp
+- (Todo) Add some blur to a few phone signs cos they do not blend in perfectly
 
 ## What's not done : 
 Manually checking every start and beginning of every subtitl to check if they do not overlap with a scene change (happens for some reason some times, gemini told me about 3:2 pulldown but who knows..) so there are a few lines that stay a frame longer than they should have.
