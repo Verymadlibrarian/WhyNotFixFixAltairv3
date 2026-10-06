@@ -25,13 +25,13 @@ Video Aspect Ratio: c1.77778
 [Aegisub Project Garbage]
 Last Style Storage: s;g 720p
 Audio File: //192.168.1.99/mnt/12tb/media/_downloads/temp/[AOmundson] Steins;Gate Complete Series 1080p [Multi-Audio]/01. Steins;Gate/Steins;Gate - 24.mkv
-Video File: //192.168.1.99/mnt/12tb/media/_downloads/temp/[AOmundson] Steins;Gate Complete Series 1080p [Multi-Audio]/01. Steins;Gate/Steins;Gate - 24.mkv
+Video File: G:/SteinsGate/24/Steins;Gate - 24_new.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
-Scroll Position: 498
-Active Line: 412
-Video Position: 4833
+Video Zoom Percent: 0.375000
+Scroll Position: 732
+Active Line: 740
+Video Position: 33807
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -58,7 +58,7 @@ Style: op trans,Unisketchlightlimited,66,&H00000000,&H000019FF,&H00F2F2F2,&H009A
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:01.81,0:00:04.03,Default,,0,0,0,,I will now explain the parameters
-Dialogue: 0,0:00:04.03,0:00:06.24,Default,,0,0,0,,of the final mission: Operation Skuld.
+Dialogue: 0,0:00:04.03,0:00:06.11,Default,,0,0,0,,of the final mission: Operation Skuld.
 Dialogue: 0,0:00:06.82,0:00:10.16,Default,,0,0,0,,Modify the result without changing established history.
 Dialogue: 0,0:00:10.16,0:00:12.87,Default,,0,0,0,,The past consists of Makise Kurisu, lying in a pool of blood,
 Dialogue: 0,0:00:12.87,0:00:15.16,Default,,0,0,0,,and Okabe Rintaro seeing her there.
@@ -82,8 +82,8 @@ Dialogue: 0,0:01:17.39,0:01:21.98,Default,,0,0,0,,I am the mad scientist, Hououi
 Dialogue: 0,0:01:22.44,0:01:25.61,Default,,0,0,0,,And I am the man who will destroy the ruling structure of the world.
 Dialogue: 0,0:01:25.61,0:01:28.44,Default,,0,0,0,,Failure is not an option.
 Dialogue: 0,0:01:33.53,0:01:36.12,Default,,0,0,0,,Got it. I believe you.
-Dialogue: 0,0:01:37.20,0:01:40.46,Default,,0,0,0,,We will now commence Operation Skuld.
-Dialogue: 0,0:01:40.46,0:01:42.87,Default,,0,0,0,,The time is now!
+Dialogue: 0,0:01:37.20,0:01:40.50,Default,,0,0,0,,We will now commence Operation Skuld.
+Dialogue: 0,0:01:40.50,0:01:42.92,Default,,0,0,0,,The time is now!
 Dialogue: 0,0:01:56.26,0:02:01.93,op trans,,0,0,0,,{\fad(200,0)}Claims of life and meaningless proofs
 Dialogue: 0,0:01:56.39,0:01:56.55,op kara,,0,0,0,fx,{\fad(200,0)}inochi no shuchou to muimi no shoumei
 Dialogue: 0,0:01:56.55,0:01:56.76,op kara,,0,0,0,fx,{\pos(964.5,45)\alpha&H00&\blur3}inochi no shuchou to muimi no shoumei
@@ -500,8 +500,8 @@ Dialogue: 0,0:03:45.41,0:03:48.71,Default,,0,0,0,,The sticky red fluid in its co
 Dialogue: 0,0:03:48.71,0:03:50.96,Default,,0,0,0,,Huh? I didn't know that was there.
 Dialogue: 0,0:03:50.96,0:03:51.92,Default,,0,0,0,,I understand.
 Dialogue: 0,0:03:51.92,0:03:54.59,Default,,0,0,0,,You plan to substitute it for Makise Kurisu's blood.
-Dialogue: 0,0:03:55.34,0:03:56.47,Default,,0,0,0,,Exactly.
-Dialogue: 0,0:03:56.47,0:03:58.93,Default,,0,0,0,,On July 28th, if I see
+Dialogue: 0,0:03:55.34,0:03:56.55,Default,,0,0,0,,Exactly.
+Dialogue: 0,0:03:56.55,0:03:58.93,Default,,0,0,0,,On July 28th, if I see
 Dialogue: 0,0:03:58.93,0:04:02.93,Default,,0,0,0,,an unconscious Christina lying in a pool of blood,
 Dialogue: 0,0:04:02.93,0:04:04.72,Default,,0,0,0,,the past won't change.
 Dialogue: 0,0:04:05.48,0:04:08.31,Default,,0,0,0,,That's the idea behind Operation Skuld.
@@ -531,7 +531,7 @@ Dialogue: 0,0:05:11.42,0:05:13.21,Default,,0,0,0,,It's weird, right?
 Dialogue: 0,0:05:14.29,0:05:16.17,Default,,0,0,0,,Was it a dream?
 Dialogue: 0,0:05:17.17,0:05:20.26,Default,,0,0,0,,Maybe she possesses the Reading Steiner too?
 Dialogue: 0,0:05:20.26,0:05:23.26,Default,,0,0,0,,No, she doesn't.
-Dialogue: 0,0:05:23.80,0:05:26.76,Default,,0,0,0,,But somewhere inside, she remembers
+Dialogue: 0,0:05:23.80,0:05:26.68,Default,,0,0,0,,But somewhere inside, she remembers
 Dialogue: 0,0:05:27.52,0:05:29.56,Default,,0,0,0,,what happened in the other worldlines.
 Dialogue: 0,0:05:30.06,0:05:32.52,Default,,0,0,0,,Everyone does, somewhere in their hearts.
 Dialogue: 0,0:05:33.52,0:05:37.02,Default,,0,0,0,,Kurisu did everything she could to save Mayuri.
@@ -565,24 +565,24 @@ Dialogue: 0,0:07:19.96,0:07:23.34,Default,,0,0,0,,{\i1}Modify the result without
 Dialogue: 0,0:07:24.13,0:07:25.34,Default,,0,0,0,,{\i1}For that to work...
 Dialogue: 0,0:07:27.72,0:07:29.30,Default,,0,0,0,,{\i1}this is where I begin.
 Dialogue: 0,0:07:29.30,0:07:31.43,Default,,0,0,0,,{\i1}I don't know the overall effect,
-Dialogue: 0,0:07:31.43,0:07:35.10,Default,,0,0,0,,{\i1}but if I get the metal Upa here,
+Dialogue: 0,0:07:31.43,0:07:35.02,Default,,0,0,0,,{\i1}but if I get the metal Upa here,
 Dialogue: 0,0:07:35.64,0:07:39.86,Default,,0,0,0,,{\i1}it diminishes the odds of any metal ending up in that folder.
 Dialogue: 0,0:07:45.53,0:07:46.49,Default,,0,0,0,,{\i1}I thought so.
 Dialogue: 0,0:07:52.87,0:07:56.71,Default,,0,0,0,,There aren't many left of this series,
-Dialogue: 0,0:07:56.71,0:07:59.79,Default,,0,0,0,,and Mayushii's out of 100-yen coins!
+Dialogue: 0,0:07:56.71,0:07:59.71,Default,,0,0,0,,and Mayushii's out of 100-yen coins!
 Dialogue: 0,0:08:00.54,0:08:02.59,Default,,0,0,0,,Don't act so spoiled, Mayuri.
-Dialogue: 0,0:08:02.59,0:08:05.51,Default,,0,0,0,,Even though I've known you since we were kids, I'm not lending you any money.
+Dialogue: 0,0:08:02.59,0:08:05.42,Default,,0,0,0,,Even though I've known you since we were kids, I'm not lending you any money.
 Dialogue: 0,0:08:07.63,0:08:11.97,Default,,0,0,0,,I'll teach you how harsh life can be...
 Dialogue: 0,0:08:20.02,0:08:21.69,Default,,0,0,0,,It's an Upa!
 Dialogue: 0,0:08:21.69,0:08:22.69,Default,,0,0,0,,Is it rare?
 Dialogue: 0,0:08:23.19,0:08:26.61,Default,,0,0,0,,It's not rare, but isn't it cute?
-Dialogue: 0,0:08:27.82,0:08:29.61,Default,,0,0,0,,{\i1}Okay, next...
-Dialogue: 0,0:08:38.54,0:08:39.92,Default,,0,0,0,,I'm sorry!
+Dialogue: 0,0:08:27.82,0:08:29.53,Default,,0,0,0,,{\i1}Okay, next...
+Dialogue: 0,0:08:38.54,0:08:39.83,Default,,0,0,0,,I'm sorry!
 Dialogue: 0,0:08:41.58,0:08:42.50,Default,,0,0,0,,Kurisu.
 Dialogue: 0,0:08:43.88,0:08:45.09,Default,,0,0,0,,How do you know my name?
 Dialogue: 0,0:08:47.63,0:08:49.76,Default,,0,0,0,,Have we met somewhere before?
 Dialogue: 0,0:08:50.22,0:08:51.05,Default,,0,0,0,,Kurisu...
-Dialogue: 0,0:08:51.05,0:08:52.39,Default,,0,0,0,,Are you listening—
+Dialogue: 0,0:08:51.05,0:08:52.30,Default,,0,0,0,,Are you listening—
 Dialogue: 0,0:08:54.85,0:08:56.10,Default,,0,0,0,,What's wrong with you?
 Dialogue: 0,0:08:56.68,0:08:57.98,Default,,0,0,0,,Answer me.
 Dialogue: 0,0:08:59.85,0:09:00.85,Default,,0,0,0,,I...
@@ -592,12 +592,12 @@ Dialogue: 0,0:09:11.07,0:09:13.53,Default,,0,0,0,,will now begin in the eighth f
 Dialogue: 0,0:09:14.53,0:09:15.74,Default,,0,0,0,,Wait!
 Dialogue: 0,0:09:15.74,0:09:16.79,Default,,0,0,0,,Wait a second!
 Dialogue: 0,0:09:27.21,0:09:31.63,Default,,0,0,0,,{\i1}I never imagined I'd have to pretend to be myself.
-Dialogue: 0,0:09:42.35,0:09:46.82,Default,,0,0,0,,{\i1}Kurisu picked up the Upa that Mayuri dropped?
+Dialogue: 0,0:09:42.35,0:09:46.73,Default,,0,0,0,,{\i1}Kurisu picked up the Upa that Mayuri dropped?
 Dialogue: 0,0:09:44.31,0:09:44.44,Mayushii,,0,0,0,,{\blur1.5\frx6\fry352\pos(1282.5,916.5)\frz331.554}Mayushii
 Dialogue: 0,0:09:44.44,0:09:44.56,Mayushii,,0,0,0,,{\blur1.5\frz331.554\frx10\fry348\pos(1284,741)}Mayushii
 Dialogue: 0,0:09:44.56,0:09:44.69,Mayushii,,0,0,0,,{\blur1.5\frz331.554\frx14\fry350\pos(1300.5,589.5)}Mayushii
 Dialogue: 0,0:09:44.69,0:09:46.73,Mayushii,,0,0,0,,{\blur1.5\frz330.753\pos(1309.5,510)\frx20\fry350}Mayushii
-Dialogue: 0,0:09:46.82,0:09:50.49,Default,,0,0,0,,{\i1}But since it isn't metal,
+Dialogue: 0,0:09:46.73,0:09:50.49,Default,,0,0,0,,{\i1}But since it isn't metal,
 Dialogue: 0,0:09:50.49,0:09:54.70,Default,,0,0,0,,{\i1}that paper will burn in the plane accident.
 Dialogue: 0,0:10:03.29,0:10:06.42,Default,,0,0,0,,{\i1}All that's left is dealing with Nakabachi
 Dialogue: 0,0:10:06.79,0:10:10.30,Default,,0,0,0,,{\i1}and finding a chance to knock out Kurisu.
@@ -610,23 +610,23 @@ Dialogue: 0,0:10:34.32,0:10:37.03,Default,,0,0,0,,{\an8}Daddy, I wanted you to r
 Dialogue: 0,0:10:35.82,0:10:37.03,Default,,0,0,0,,{\i1}Think...
 Dialogue: 0,0:10:37.03,0:10:38.33,Default,,0,0,0,,{\i1}Think!
 Dialogue: 0,0:10:38.33,0:10:40.33,Default,,0,0,0,,{\i1}There has to be something.
-Dialogue: 0,0:10:40.33,0:10:41.58,Default,,0,0,0,,{\i1}Something!
-Dialogue: 0,0:10:42.75,0:10:47.63,Default,,0,0,0,,{\i1}Getting rid of Nakabachi won't be difficult.
+Dialogue: 0,0:10:40.33,0:10:41.54,Default,,0,0,0,,{\i1}Something!
+Dialogue: 0,0:10:42.75,0:10:47.54,Default,,0,0,0,,{\i1}Getting rid of Nakabachi won't be difficult.
 Dialogue: 0,0:10:49.04,0:10:50.75,Default,,0,0,0,,{\i1}But the blood will be problematic.
-Dialogue: 0,0:10:51.42,0:10:53.59,Default,,0,0,0,,{\i1}If there was just something I could substitute...
+Dialogue: 0,0:10:51.42,0:10:53.51,Default,,0,0,0,,{\i1}If there was just something I could substitute...
 Dialogue: 0,0:10:53.92,0:10:54.76,Default,,0,0,0,,Shut up!
-Dialogue: 0,0:10:57.30,0:10:58.89,Default,,0,0,0,,How dare you call it stealing?
-Dialogue: 0,0:10:59.26,0:11:00.35,Default,,0,0,0,,{\i1}That's it!
+Dialogue: 0,0:10:57.30,0:10:58.80,Default,,0,0,0,,How dare you call it stealing?
+Dialogue: 0,0:10:59.26,0:11:00.26,Default,,0,0,0,,{\i1}That's it!
 Dialogue: 0,0:11:03.35,0:11:04.23,Default,,0,0,0,,Stop!
 Dialogue: 0,0:11:05.39,0:11:06.73,Default,,0,0,0,,Who are you?
 Dialogue: 0,0:11:09.11,0:11:10.69,Default,,0,0,0,,A man who yearns for chaos.
 Dialogue: 0,0:11:10.69,0:11:13.57,Default,,0,0,0,,One who will destroy the ruling structure of the world,
 Dialogue: 0,0:11:13.94,0:11:18.03,Default,,0,0,0,,and the man who will send your ambitions to oblivion.
-Dialogue: 0,0:11:19.53,0:11:21.24,Default,,0,0,0,,Would you like to know my name?
+Dialogue: 0,0:11:19.53,0:11:21.16,Default,,0,0,0,,Would you like to know my name?
 Dialogue: 0,0:11:22.58,0:11:23.75,Default,,0,0,0,,I am...
 Dialogue: 0,0:11:25.83,0:11:29.13,Default,,0,0,0,,Hououin Kyouma!
 Dialogue: 0,0:11:30.92,0:11:33.38,Default,,0,0,0,,What the hell are you talking about?
-Dialogue: 0,0:11:34.05,0:11:36.05,Default,,0,0,0,,You're that kid!
+Dialogue: 0,0:11:34.05,0:11:35.97,Default,,0,0,0,,You're that kid!
 Dialogue: 0,0:11:36.97,0:11:38.51,Default,,0,0,0,,I get it.
 Dialogue: 0,0:11:38.51,0:11:40.39,Default,,0,0,0,,So that's how it is.
 Dialogue: 0,0:11:41.35,0:11:47.31,Default,,0,0,0,,You worked together to sabotage my press conference...
@@ -639,31 +639,31 @@ Dialogue: 0,0:12:02.49,0:12:05.70,Default,,0,0,0,,Why did you bring that knife?
 Dialogue: 0,0:12:06.37,0:12:07.96,Default,,0,0,0,,What did you say?
 Dialogue: 0,0:12:07.96,0:12:09.04,Default,,0,0,0,,Are you scared?
 Dialogue: 0,0:12:10.29,0:12:14.63,Default,,0,0,0,,Do my godlike powers strike fear in your heart?
-Dialogue: 0,0:12:15.59,0:12:17.17,Default,,0,0,0,,D-Don't mock me!
-Dialogue: 0,0:12:17.17,0:12:20.14,Default,,0,0,0,,Come on. You're shaking.
-Dialogue: 0,0:12:20.14,0:12:21.01,Default,,0,0,0,,Are you scared?
-Dialogue: 0,0:12:21.47,0:12:24.89,Default,,0,0,0,,How long do you plan on insulting me for?
-Dialogue: 0,0:12:24.89,0:12:28.52,Default,,0,0,0,,In the end, you're just a small, pathetic man.
-Dialogue: 0,0:12:28.52,0:12:35.69,Default,,0,0,0,,A man too petty to appreciate his own daughter's talent can't kill me.
+Dialogue: 0,0:12:15.59,0:12:17.01,Default,,0,0,0,,D-Don't mock me!
+Dialogue: 0,0:12:17.01,0:12:20.14,Default,,0,0,0,,Come on. You're shaking.
+Dialogue: 0,0:12:20.14,0:12:20.84,Default,,0,0,0,,Are you scared?
+Dialogue: 0,0:12:21.47,0:12:25.06,Default,,0,0,0,,How long do you plan on insulting me for?
+Dialogue: 0,0:12:25.06,0:12:28.35,Default,,0,0,0,,In the end, you're just a small, pathetic man.
+Dialogue: 0,0:12:28.35,0:12:35.69,Default,,0,0,0,,A man too petty to appreciate his own daughter's talent can't kill me.
 Dialogue: 0,0:12:35.69,0:12:36.99,Default,,0,0,0,,Never!
 Dialogue: 0,0:12:36.99,0:12:38.74,Default,,0,0,0,,Ever!
 Dialogue: 0,0:12:47.50,0:12:49.87,Default,,0,0,0,,N-No way.
 Dialogue: 0,0:13:01.80,0:13:03.89,Default,,0,0,0,,No...
-Dialogue: 0,0:13:03.89,0:13:04.76,Default,,0,0,0,,This can't be happening.
-Dialogue: 0,0:13:06.77,0:13:08.98,Default,,0,0,0,,Th-That's what you get...
-Dialogue: 0,0:13:08.98,0:13:11.31,Default,,0,0,0,,{\i1}Calm down.
-Dialogue: 0,0:13:11.31,0:13:13.90,Default,,0,0,0,,{\i1}Almost there...
+Dialogue: 0,0:13:03.89,0:13:04.72,Default,,0,0,0,,This can't be happening.
+Dialogue: 0,0:13:06.77,0:13:09.35,Default,,0,0,0,,Th-That's what you get...
+Dialogue: 0,0:13:09.35,0:13:11.31,Default,,0,0,0,,{\i1}Calm down.
+Dialogue: 0,0:13:11.31,0:13:13.81,Default,,0,0,0,,{\i1}Almost there...
 Dialogue: 0,0:13:30.16,0:13:31.92,Default,,0,0,0,,How dare you?
 Dialogue: 0,0:13:33.67,0:13:35.38,Default,,0,0,0,,I'll kill you.
 Dialogue: 0,0:13:36.96,0:13:39.30,Default,,0,0,0,,I'll kill you!
 Dialogue: 0,0:13:48.43,0:13:50.85,Default,,0,0,0,,You won't get away with this!
-Dialogue: 0,0:14:01.86,0:14:02.99,Default,,0,0,0,,D-Don't move!
-Dialogue: 0,0:14:04.49,0:14:07.41,Default,,0,0,0,,Lie down. I'll call an ambulance.
+Dialogue: 0,0:14:01.86,0:14:02.95,Default,,0,0,0,,D-Don't move!
+Dialogue: 0,0:14:04.49,0:14:07.33,Default,,0,0,0,,Lie down. I'll call an ambulance.
 Dialogue: 0,0:14:10.25,0:14:11.33,Default,,0,0,0,,Hello?
-Dialogue: 0,0:14:11.33,0:14:12.62,Default,,0,0,0,,Is this emergency services?
-Dialogue: 0,0:14:12.62,0:14:14.33,Default,,0,0,0,,I need someone here now!
+Dialogue: 0,0:14:11.33,0:14:12.71,Default,,0,0,0,,Is this emergency services?
+Dialogue: 0,0:14:12.71,0:14:14.33,Default,,0,0,0,,I need someone here now!
 Dialogue: 0,0:14:14.33,0:14:15.67,Default,,0,0,0,,I...
-Dialogue: 0,0:14:18.67,0:14:20.09,Default,,0,0,0,,I told you...
+Dialogue: 0,0:14:18.63,0:14:20.09,Default,,0,0,0,,I told you...
 Dialogue: 0,0:14:22.55,0:14:26.55,Default,,0,0,0,,I will save you.
 Dialogue: 0,0:15:18.44,0:15:21.94,Default,,0,0,0,,{\i1}This is, without a doubt,
 Dialogue: 0,0:15:23.86,0:15:25.20,Default,,0,0,0,,{\i1}the Kurisu I saw.
@@ -686,14 +686,14 @@ Dialogue: 0,0:16:44.02,0:16:46.24,Default,,0,0,0,,All I can do is stop the bleed
 Dialogue: 0,0:16:46.24,0:16:48.32,Default,,0,0,0,,When we get back, you'll need to go to a hospital.
 Dialogue: 0,0:16:48.32,0:16:51.07,Default,,0,0,0,,This'll be hard, but try to hang on.
 Dialogue: 0,0:16:51.07,0:16:52.20,Default,,0,0,0,,Here we go.
-Dialogue: 0,0:17:05.42,0:17:06.84,Default,,0,0,0,,This is...
-Dialogue: 0,0:17:08.17,0:17:08.80,Default,,0,0,0,,Yeah.
+Dialogue: 0,0:17:05.42,0:17:06.67,Default,,0,0,0,,This is...
+Dialogue: 0,0:17:08.17,0:17:08.63,Default,,0,0,0,,Yeah.
 Dialogue: 0,0:17:09.17,0:17:12.47,Default,,0,0,0,,The Steins Gate worldline is completely unknown.
 Dialogue: 0,0:17:12.47,0:17:13.76,Default,,0,0,0,,Suzuha...
 Dialogue: 0,0:17:14.72,0:17:22.60,Default,,0,0,0,,But if your theory is correct, the paper will burn, so the time machine arms race won't come to pass.
 Dialogue: 0,0:17:22.60,0:17:25.19,Default,,0,0,0,,Neither will World War III.
 Dialogue: 0,0:17:26.65,0:17:29.86,Default,,0,0,0,,I can't stay,
-Dialogue: 0,0:17:29.86,0:17:32.95,Default,,0,0,0,,so I'll say thank you now.
+Dialogue: 0,0:17:29.86,0:17:32.78,Default,,0,0,0,,so I'll say thank you now.
 Dialogue: 0,0:17:35.87,0:17:37.16,Default,,0,0,0,,Thank you.
 Dialogue: 0,0:17:39.37,0:17:42.17,Default,,0,0,0,,{\fad(1,850)}I'll see you in seven years.
 Dialogue: 0,0:17:58.64,0:18:00.60,Sign,,0,0,0,,{\blur1.125\pos(934.5,105)\frz1.766}Okabe
@@ -796,8 +796,8 @@ Dialogue: 0,0:21:33.27,0:21:34.23,Default,,0,0,0,,{\i1}But that's okay.
 Dialogue: 0,0:21:34.98,0:21:39.19,Default,,0,0,0,,{\i1}Right now, you're breathing, speaking,
 Dialogue: 0,0:21:39.19,0:21:41.74,Default,,0,0,0,,{\i1}and thinking your hardest about something.
 Dialogue: 0,0:21:41.74,0:21:43.32,Default,,0,0,0,,{\i1}That's enough for me.
-Dialogue: 0,0:21:44.45,0:21:48.29,Default,,0,0,0,,{\i1}You're observing the same world I am,
-Dialogue: 0,0:21:49.00,0:21:51.21,Default,,0,0,0,,{\i1}this world with an unknown future.
+Dialogue: 0,0:21:44.45,0:21:48.45,Default,,0,0,0,,{\i1}You're observing the same world I am,
+Dialogue: 0,0:21:49.00,0:21:51.04,Default,,0,0,0,,{\i1}this world with an unknown future.
 Dialogue: 0,0:22:06.89,0:22:09.77,Default,,0,0,0,,I finally found you.
 Dialogue: 0,0:22:13.06,0:22:14.81,Default,,0,0,0,,I was searching for you.
 Dialogue: 0,0:22:16.11,0:22:18.98,Default,,0,0,0,,I wanted to thank you for saving me.
