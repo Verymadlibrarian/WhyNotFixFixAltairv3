@@ -24,13 +24,13 @@ YCbCr Matrix: TV.709
 [Aegisub Project Garbage]
 Last Style Storage: s;g
 Audio File: //192.168.1.99/mnt/12tb/media/_downloads/temp/[AOmundson] Steins;Gate Complete Series 1080p [Multi-Audio]/01. Steins;Gate/Steins;Gate - 09.mkv
-Video File: //192.168.1.99/mnt/12tb/media/_downloads/temp/[AOmundson] Steins;Gate Complete Series 1080p [Multi-Audio]/01. Steins;Gate/Steins;Gate - 09.mkv
+Video File: G:/SteinsGate/09/sg09-video-encoded.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 1.000000
-Scroll Position: 422
-Active Line: 428
-Video Position: 5999
+Video Zoom Percent: 0.375000
+Scroll Position: 626
+Active Line: 641
+Video Position: 18704
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -685,7 +685,7 @@ Dialogue: 0,0:12:38.61,0:12:40.03,Default,,0,0,0,,Mayuri, wait...
 Dialogue: 0,0:12:40.99,0:12:42.49,Default,,0,0,0,,Geez...
 Dialogue: 0,0:12:42.83,0:12:44.58,Default,,0,0,0,,The IBN 5100.
 Dialogue: 0,0:12:53.96,0:12:55.13,Default,,0,0,0,,Shining Finger!
-Dialogue: 0,0:12:59.22,0:13:00.09,Default,,0,0,0,,Wait! Hey!
+Dialogue: 0,0:12:59.22,0:13:00.13,Default,,0,0,0,,Wait! Hey!
 Dialogue: 0,0:13:04.81,0:13:05.93,Default,,0,0,0,,Shining...
 Dialogue: 0,0:13:05.93,0:13:06.85,Default,,0,0,0,,Moeka!
 Dialogue: 0,0:13:06.85,0:13:08.02,Default,,0,0,0,,Kiryu Moeka!
