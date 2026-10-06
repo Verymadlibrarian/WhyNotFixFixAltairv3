@@ -25,13 +25,13 @@ Video Aspect Ratio: c1.77778
 [Aegisub Project Garbage]
 Last Style Storage: stein11
 Audio File: //192.168.1.99/mnt/12tb/media/_downloads/temp/[AOmundson] Steins;Gate Complete Series 1080p [Multi-Audio]/01. Steins;Gate/Steins;Gate - 11.mkv
-Video File: //192.168.1.99/mnt/12tb/media/_downloads/temp/[AOmundson] Steins;Gate Complete Series 1080p [Multi-Audio]/01. Steins;Gate/Steins;Gate - 11.mkv
+Video File: G:/SteinsGate/11/sg11-video-encoded.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 1528
-Active Line: 1536
-Video Position: 18053
+Scroll Position: 1570
+Active Line: 1581
+Video Position: 21933
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -1628,8 +1628,8 @@ Dialogue: 0,0:14:45.74,0:14:47.20,Default,,0,0,0,,Just like my dad used to...
 Dialogue: 0,0:14:49.16,0:14:50.99,Default,,0,0,0,,The time I spent with my dad...
 Dialogue: 0,0:14:52.25,0:14:53.91,Default,,0,0,0,,...was like that.
 Dialogue: 0,0:15:06.18,0:15:10.56,Default,,0,0,0,,Then we begin Operation Verthandi immediately!
-Dialogue: 0,0:15:10.56,0:15:12.18,Default,,0,0,0,,There's no time to waste!
-Dialogue: 0,0:15:12.18,0:15:15.14,Default,,0,0,0,,The Organization stands at our very doorstep!
+Dialogue: 0,0:15:10.56,0:15:11.97,Default,,0,0,0,,There's no time to waste!
+Dialogue: 0,0:15:11.97,0:15:15.14,Default,,0,0,0,,The Organization stands at our very doorstep!
 Dialogue: 0,0:15:15.14,0:15:16.77,Default,,0,0,0,,That's your response?
 Dialogue: 0,0:15:16.77,0:15:18.15,Default,,0,0,0,,Of course...
 Dialogue: 0,0:15:18.15,0:15:19.86,Default,,0,0,0,,I am Hououin Kyouma.
