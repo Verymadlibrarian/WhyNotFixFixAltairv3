@@ -13,13 +13,13 @@ Video Aspect Ratio: c1.77778
 [Aegisub Project Garbage]
 Last Style Storage: s;g 720p
 Audio File: //192.168.1.99/mnt/12tb/media/_downloads/temp/[AOmundson] Steins;Gate Complete Series 1080p [Multi-Audio]/01. Steins;Gate/Steins;Gate - 17.mkv
-Video File: //192.168.1.99/mnt/12tb/media/_downloads/temp/[AOmundson] Steins;Gate Complete Series 1080p [Multi-Audio]/01. Steins;Gate/Steins;Gate - 17.mkv
+Video File: G:/SteinsGate/17/Steins;Gate - 17_new.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 779
-Active Line: 784
-Video Position: 32185
+Scroll Position: 724
+Active Line: 734
+Video Position: 27120
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -523,8 +523,8 @@ Dialogue: 0,0:05:26.22,0:05:30.89,Default,,0,0,0,,Short for the Rai-Net Access B
 Dialogue: 0,0:05:31.19,0:05:34.56,Default,,0,0,0,,It's a tournament among Rai-Netters from across Japan.
 Dialogue: 0,0:05:34.56,0:05:36.98,Default,,0,0,0,,It just ended with her victory.
 Dialogue: 0,0:05:36.98,0:05:38.40,Default,,0,0,0,,I'm so excited!
-Dialogue: 0,0:05:39.11,0:05:41.70,Default,,0,0,0,,{\i1}After Faris sent her D-Mail,
-Dialogue: 0,0:05:41.70,0:05:45.07,Default,,0,0,0,,{\i1}Akiba returned to only selling electronics.
+Dialogue: 0,0:05:38.94,0:05:41.70,Default,,0,0,0,,{\i1}After Faris sent her D-Mail,
+Dialogue: 0,0:05:41.70,0:05:45.16,Default,,0,0,0,,{\i1}Akiba returned to only selling electronics.
 Dialogue: 0,0:05:46.12,0:05:47.41,Default,,0,0,0,,{\i1}I have no idea what was in her message.
 Dialogue: 0,0:05:48.66,0:05:50.71,Default,,0,0,0,,{\i1}Who did she send it to?
 Dialogue: 0,0:05:50.71,0:05:51.79,Default,,0,0,0,,{\i1}What did she send?
@@ -772,7 +772,7 @@ Dialogue: 0,0:18:33.59,0:18:35.34,Default,,0,0,0,,which is real for much longer.
 Dialogue: 0,0:18:39.97,0:18:43.48,Default,,0,0,0,,There may be another way.
 Dialogue: 0,0:18:43.48,0:18:45.35,Default,,0,0,0,,I know! I can ask Kurisu—
 Dialogue: 0,0:18:45.35,0:18:48.52,Default,,0,0,0,,No! I don't want to cause you any more trouble.
-Dialogue: 0,0:18:48.52,0:18:50.61,Default,,0,0,0,,You really are my prince.
+Dialogue: 0,0:18:48.52,0:18:50.65,Default,,0,0,0,,You really are my prince.
 Dialogue: 0,0:18:52.28,0:18:56.62,Default,,0,0,0,,It's time for me to wake up from this dream,
 Dialogue: 0,0:18:56.62,0:18:59.87,Default,,0,0,0,,but let me have one thing.
 Dialogue: 0,0:19:06.00,0:19:09.17,Default,,0,0,0,,Can I cry a little?
