@@ -7,8 +7,6 @@ This is just another fix for the WhyNotFixFix subs since it seems it isn't well 
 - (Todo) Make all OPs and EDs start at the same relative timestamp
 - (Todo) Add some blur to a few phone signs cos they do not blend in perfectly
 
-And also the OP and ED of episodes are not perfectly timed on the same timing exactly (off by 1-4 frames smtg like that)
-
 and v3 doesn't mean anything actually
 
 El Psy Kongroo
