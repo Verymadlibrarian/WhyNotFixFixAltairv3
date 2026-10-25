@@ -6,6 +6,7 @@ This is just another fix for the WhyNotFixFix subs since it seems it isn't well 
 - Manually going through all episodes to fix little 1-frame overlaps between scene changes (usually a few per episode) (that's all those marked as _GOOD_ in commits)
 - (Todo) Make all OPs and EDs start at the same relative timestamp
 - (Todo) Add some blur to a few phone signs cos they do not blend in perfectly
+(the todos wont be done, i shut my ocds off)
 
 and v3 doesn't mean anything actually
 
